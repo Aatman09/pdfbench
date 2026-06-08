@@ -1,0 +1,1649 @@
+{
+  "pdf_info": [
+    {
+      "preproc_blocks": [
+        {
+          "score": 0.9197,
+          "bbox": [
+            172,
+            49,
+            420,
+            72
+          ],
+          "index": 1,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                171,
+                48,
+                421,
+                75
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    171,
+                    48,
+                    421,
+                    75
+                  ],
+                  "type": "text",
+                  "content": "ARPITA ROADLINES",
+                  "score": 0.978
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "score": 0.7683,
+          "bbox": [
+            174,
+            73,
+            418,
+            87
+          ],
+          "index": 2,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                174,
+                74,
+                416,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    174,
+                    74,
+                    416,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "FLEETOWNER&TRANSPORTCONTRACTOR",
+                  "score": 0.992
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "score": 0.6635,
+          "bbox": [
+            99,
+            88,
+            492,
+            101
+          ],
+          "index": 3,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                99,
+                87,
+                492,
+                101
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    99,
+                    87,
+                    492,
+                    101
+                  ],
+                  "type": "text",
+                  "content": "HEADOFFICE:PREMBHUMIESTATE,SARKHEJBAVLAROAD,SARKHEJ,A,BAD-382210.",
+                  "score": 0.93
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.5675,
+          "bbox": [
+            244,
+            101,
+            348,
+            113
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                245,
+                100,
+                347,
+                114
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    245,
+                    100,
+                    347,
+                    114
+                  ],
+                  "type": "text",
+                  "content": "Phone:(079)65238062",
+                  "score": 0.97
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.5497,
+          "bbox": [
+            72,
+            140,
+            89,
+            151
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                72,
+                138,
+                90,
+                153
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    72,
+                    138,
+                    90,
+                    153
+                  ],
+                  "type": "text",
+                  "content": "To,",
+                  "score": 0.695
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.92,
+          "bbox": [
+            383,
+            139,
+            457,
+            152
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                382,
+                138,
+                458,
+                153
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    382,
+                    138,
+                    458,
+                    153
+                  ],
+                  "type": "text",
+                  "content": "Bill No.:G/0153",
+                  "score": 0.941
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.7499,
+          "bbox": [
+            72,
+            152,
+            194,
+            165
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                73,
+                152,
+                192,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    152,
+                    192,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "Gujarat Sidhee Cement Ltd.",
+                  "score": 0.955
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.7504,
+          "bbox": [
+            468,
+            148,
+            549,
+            165
+          ],
+          "index": 8,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                466,
+                147,
+                549,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    466,
+                    147,
+                    549,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "S1o5611877",
+                  "score": 0.772
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.7722,
+          "bbox": [
+            72,
+            165,
+            242,
+            178
+          ],
+          "index": 9,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                72,
+                164,
+                242,
+                178
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    72,
+                    164,
+                    242,
+                    178
+                  ],
+                  "type": "text",
+                  "content": "Veraval Kodinar Highway,Sidheegram.",
+                  "score": 0.977
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8972,
+          "bbox": [
+            333,
+            165,
+            432,
+            177
+          ],
+          "index": 10,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                332,
+                163,
+                432,
+                179
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    332,
+                    163,
+                    378,
+                    179
+                  ],
+                  "type": "text",
+                  "content": "DATE：",
+                  "score": 0.901
+                },
+                {
+                  "bbox": [
+                    380,
+                    164,
+                    432,
+                    179
+                  ],
+                  "type": "text",
+                  "content": "02/08/2022",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.7617,
+          "bbox": [
+            72,
+            178,
+            216,
+            191
+          ],
+          "index": 11,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                73,
+                178,
+                215,
+                191
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    178,
+                    215,
+                    191
+                  ],
+                  "type": "text",
+                  "content": "G.S.T.NO.:24AAACG8057G1ZP",
+                  "score": 0.989
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.7376,
+          "bbox": [
+            485,
+            167,
+            553,
+            184
+          ],
+          "index": 12,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                484,
+                165,
+                555,
+                186
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    484,
+                    165,
+                    555,
+                    186
+                  ],
+                  "type": "text",
+                  "content": "12006146",
+                  "score": 0.895
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8597,
+          "bbox": [
+            500,
+            188,
+            574,
+            203
+          ],
+          "index": 13,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                499,
+                186,
+                576,
+                207
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    499,
+                    186,
+                    576,
+                    207
+                  ],
+                  "type": "text",
+                  "content": "0S.08.2022",
+                  "score": 0.791
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "bbox": [
+            71,
+            202,
+            520,
+            569
+          ],
+          "blocks": [
+            {
+              "score": 0.9688,
+              "bbox": [
+                71,
+                202,
+                520,
+                569
+              ],
+              "index": 14,
+              "type": "table_body",
+              "lines": [
+                {
+                  "bbox": [
+                    71,
+                    202,
+                    520,
+                    569
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        71,
+                        202,
+                        520,
+                        569
+                      ],
+                      "type": "table",
+                      "html": "<table><tr><td>SR.</td><td>PARTICULARS</td><td>Qty.</td><td>RATE</td><td>Amt.</td></tr><tr><td>1</td><td>Asperattachedlist</td><td>125.000</td><td>ASPER LIST 5ts 21.</td><td>125340.00 [22 833 乡 行</td></tr><tr><td colspan=\"7\">Total 125340.00</td></tr><tr><td colspan=\"6\">Rupees Rupees OneLakhTwentyFiveThousandThreeHundred FourtyOnly</td></tr></table>",
+                      "image_path": "8ab9ed38227c2e48314b7e0e9a5191eeab3435cadd6efad0d545c01f6d33b9cd.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 14,
+          "score": 0.9688
+        },
+        {
+          "score": 0.4626,
+          "bbox": [
+            242,
+            594,
+            349,
+            608
+          ],
+          "index": 15,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                243,
+                594,
+                349,
+                609
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    243,
+                    594,
+                    349,
+                    609
+                  ],
+                  "type": "text",
+                  "content": "GTADECLARATION",
+                  "score": 0.997
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8564,
+          "bbox": [
+            72,
+            609,
+            482,
+            639
+          ],
+          "index": 16,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                73,
+                609,
+                482,
+                625
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    609,
+                    482,
+                    625
+                  ],
+                  "type": "text",
+                  "content": "“Asper Subclause(v) ofrule2(1) (d) Liable to pay Service Tax isconsignoror",
+                  "score": 0.94
+                }
+              ]
+            },
+            {
+              "bbox": [
+                73,
+                623,
+                308,
+                640
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    623,
+                    308,
+                    640
+                  ],
+                  "type": "text",
+                  "content": "consignee And not goods Transport Agency\"",
+                  "score": 0.987
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8606,
+          "bbox": [
+            382,
+            637,
+            493,
+            650
+          ],
+          "index": 17,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                382,
+                637,
+                494,
+                652
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    382,
+                    637,
+                    494,
+                    652
+                  ],
+                  "type": "text",
+                  "content": "For,ARPITARQAPLINES",
+                  "score": 0.979
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8201,
+          "bbox": [
+            72,
+            650,
+            294,
+            664
+          ],
+          "index": 18,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                74,
+                651,
+                294,
+                664
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    74,
+                    651,
+                    294,
+                    664
+                  ],
+                  "type": "text",
+                  "content": "\"TAXISPAYABLEONREVERSECHARGES=YES\"",
+                  "score": 0.987
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8272,
+          "bbox": [
+            72,
+            664,
+            165,
+            678
+          ],
+          "index": 19,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                72,
+                664,
+                165,
+                678
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    72,
+                    664,
+                    165,
+                    678
+                  ],
+                  "type": "text",
+                  "content": "SAC CODE.:996511",
+                  "score": 0.962
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.656,
+          "bbox": [
+            385,
+            650,
+            464,
+            667
+          ],
+          "index": 20,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                384,
+                648,
+                467,
+                670
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    384,
+                    648,
+                    467,
+                    670
+                  ],
+                  "type": "text",
+                  "content": "abey",
+                  "score": 0.736
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8298,
+          "bbox": [
+            382,
+            665,
+            478,
+            678
+          ],
+          "index": 21,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                382,
+                663,
+                478,
+                678
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    382,
+                    663,
+                    478,
+                    678
+                  ],
+                  "type": "text",
+                  "content": "Authorised Signature",
+                  "score": 0.989
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page_idx": 0,
+      "page_size": [
+        612,
+        792
+      ],
+      "discarded_blocks": [],
+      "para_blocks": [
+        {
+          "score": 0.9197,
+          "bbox": [
+            172,
+            49,
+            420,
+            72
+          ],
+          "index": 1,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                171,
+                48,
+                421,
+                75
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    171,
+                    48,
+                    421,
+                    75
+                  ],
+                  "type": "text",
+                  "content": "ARPITA ROADLINES",
+                  "score": 0.978
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "score": 0.7683,
+          "bbox": [
+            174,
+            73,
+            418,
+            87
+          ],
+          "index": 2,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                174,
+                74,
+                416,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    174,
+                    74,
+                    416,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "FLEETOWNER&TRANSPORTCONTRACTOR",
+                  "score": 0.992
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "score": 0.6635,
+          "bbox": [
+            99,
+            88,
+            492,
+            101
+          ],
+          "index": 3,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                99,
+                87,
+                492,
+                101
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    99,
+                    87,
+                    492,
+                    101
+                  ],
+                  "type": "text",
+                  "content": "HEADOFFICE:PREMBHUMIESTATE,SARKHEJBAVLAROAD,SARKHEJ,A,BAD-382210.",
+                  "score": 0.93
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            99,
+            87,
+            492,
+            101
+          ]
+        },
+        {
+          "score": 0.5675,
+          "bbox": [
+            244,
+            101,
+            348,
+            113
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                245,
+                100,
+                347,
+                114
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    245,
+                    100,
+                    347,
+                    114
+                  ],
+                  "type": "text",
+                  "content": "Phone:(079)65238062",
+                  "score": 0.97
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            245,
+            100,
+            347,
+            114
+          ]
+        },
+        {
+          "score": 0.5497,
+          "bbox": [
+            72,
+            140,
+            89,
+            151
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                72,
+                138,
+                90,
+                153
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    72,
+                    138,
+                    90,
+                    153
+                  ],
+                  "type": "text",
+                  "content": "To,",
+                  "score": 0.695
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            72,
+            138,
+            90,
+            153
+          ]
+        },
+        {
+          "score": 0.92,
+          "bbox": [
+            383,
+            139,
+            457,
+            152
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                382,
+                138,
+                458,
+                153
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    382,
+                    138,
+                    458,
+                    153
+                  ],
+                  "type": "text",
+                  "content": "Bill No.:G/0153",
+                  "score": 0.941
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            382,
+            138,
+            458,
+            153
+          ]
+        },
+        {
+          "score": 0.7499,
+          "bbox": [
+            72,
+            152,
+            194,
+            165
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                73,
+                152,
+                192,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    152,
+                    192,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "Gujarat Sidhee Cement Ltd.",
+                  "score": 0.955
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            73,
+            152,
+            192,
+            165
+          ]
+        },
+        {
+          "score": 0.7504,
+          "bbox": [
+            468,
+            148,
+            549,
+            165
+          ],
+          "index": 8,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                466,
+                147,
+                549,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    466,
+                    147,
+                    549,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "S1o5611877",
+                  "score": 0.772
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            466,
+            147,
+            549,
+            165
+          ]
+        },
+        {
+          "score": 0.7722,
+          "bbox": [
+            72,
+            165,
+            242,
+            178
+          ],
+          "index": 9,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                72,
+                164,
+                242,
+                178
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    72,
+                    164,
+                    242,
+                    178
+                  ],
+                  "type": "text",
+                  "content": "Veraval Kodinar Highway,Sidheegram.",
+                  "score": 0.977
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            72,
+            164,
+            242,
+            178
+          ]
+        },
+        {
+          "score": 0.8972,
+          "bbox": [
+            333,
+            165,
+            432,
+            177
+          ],
+          "index": 10,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                332,
+                163,
+                432,
+                179
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    332,
+                    163,
+                    378,
+                    179
+                  ],
+                  "type": "text",
+                  "content": "DATE：",
+                  "score": 0.901
+                },
+                {
+                  "bbox": [
+                    380,
+                    164,
+                    432,
+                    179
+                  ],
+                  "type": "text",
+                  "content": "02/08/2022",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            332,
+            163,
+            432,
+            179
+          ]
+        },
+        {
+          "score": 0.7617,
+          "bbox": [
+            72,
+            178,
+            216,
+            191
+          ],
+          "index": 11,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                73,
+                178,
+                215,
+                191
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    178,
+                    215,
+                    191
+                  ],
+                  "type": "text",
+                  "content": "G.S.T.NO.:24AAACG8057G1ZP",
+                  "score": 0.989
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            73,
+            178,
+            215,
+            191
+          ]
+        },
+        {
+          "score": 0.7376,
+          "bbox": [
+            485,
+            167,
+            553,
+            184
+          ],
+          "index": 12,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                484,
+                165,
+                555,
+                186
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    484,
+                    165,
+                    555,
+                    186
+                  ],
+                  "type": "text",
+                  "content": "12006146",
+                  "score": 0.895
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            484,
+            165,
+            555,
+            186
+          ]
+        },
+        {
+          "score": 0.8597,
+          "bbox": [
+            500,
+            188,
+            574,
+            203
+          ],
+          "index": 13,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                499,
+                186,
+                576,
+                207
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    499,
+                    186,
+                    576,
+                    207
+                  ],
+                  "type": "text",
+                  "content": "0S.08.2022",
+                  "score": 0.791
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            499,
+            186,
+            576,
+            207
+          ]
+        },
+        {
+          "type": "table",
+          "bbox": [
+            71,
+            202,
+            520,
+            569
+          ],
+          "blocks": [
+            {
+              "score": 0.9688,
+              "bbox": [
+                71,
+                202,
+                520,
+                569
+              ],
+              "index": 14,
+              "type": "table_body",
+              "lines": [
+                {
+                  "bbox": [
+                    71,
+                    202,
+                    520,
+                    569
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        71,
+                        202,
+                        520,
+                        569
+                      ],
+                      "type": "table",
+                      "html": "<table><tr><td>SR.</td><td>PARTICULARS</td><td>Qty.</td><td>RATE</td><td>Amt.</td></tr><tr><td>1</td><td>Asperattachedlist</td><td>125.000</td><td>ASPER LIST 5ts 21.</td><td>125340.00 [22 833 乡 行</td></tr><tr><td colspan=\"7\">Total 125340.00</td></tr><tr><td colspan=\"6\">Rupees Rupees OneLakhTwentyFiveThousandThreeHundred FourtyOnly</td></tr></table>",
+                      "image_path": "8ab9ed38227c2e48314b7e0e9a5191eeab3435cadd6efad0d545c01f6d33b9cd.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 14,
+          "score": 0.9688
+        },
+        {
+          "score": 0.4626,
+          "bbox": [
+            242,
+            594,
+            349,
+            608
+          ],
+          "index": 15,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                243,
+                594,
+                349,
+                609
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    243,
+                    594,
+                    349,
+                    609
+                  ],
+                  "type": "text",
+                  "content": "GTADECLARATION",
+                  "score": 0.997
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            243,
+            594,
+            349,
+            609
+          ]
+        },
+        {
+          "score": 0.8564,
+          "bbox": [
+            72,
+            609,
+            482,
+            639
+          ],
+          "index": 16,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                73,
+                609,
+                482,
+                625
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    609,
+                    482,
+                    625
+                  ],
+                  "type": "text",
+                  "content": "“Asper Subclause(v) ofrule2(1) (d) Liable to pay Service Tax isconsignoror",
+                  "score": 0.94
+                }
+              ]
+            },
+            {
+              "bbox": [
+                73,
+                623,
+                308,
+                640
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    73,
+                    623,
+                    308,
+                    640
+                  ],
+                  "type": "text",
+                  "content": "consignee And not goods Transport Agency\"",
+                  "score": 0.987
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            73,
+            609,
+            482,
+            640
+          ]
+        },
+        {
+          "score": 0.8606,
+          "bbox": [
+            382,
+            637,
+            493,
+            650
+          ],
+          "index": 17,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                382,
+                637,
+                494,
+                652
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    382,
+                    637,
+                    494,
+                    652
+                  ],
+                  "type": "text",
+                  "content": "For,ARPITARQAPLINES",
+                  "score": 0.979
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            382,
+            637,
+            494,
+            652
+          ]
+        },
+        {
+          "score": 0.8201,
+          "bbox": [
+            72,
+            650,
+            294,
+            664
+          ],
+          "index": 18,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                74,
+                651,
+                294,
+                664
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    74,
+                    651,
+                    294,
+                    664
+                  ],
+                  "type": "text",
+                  "content": "\"TAXISPAYABLEONREVERSECHARGES=YES\"",
+                  "score": 0.987
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            74,
+            651,
+            294,
+            664
+          ]
+        },
+        {
+          "score": 0.8272,
+          "bbox": [
+            72,
+            664,
+            165,
+            678
+          ],
+          "index": 19,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                72,
+                664,
+                165,
+                678
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    72,
+                    664,
+                    165,
+                    678
+                  ],
+                  "type": "text",
+                  "content": "SAC CODE.:996511",
+                  "score": 0.962
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            72,
+            664,
+            165,
+            678
+          ]
+        },
+        {
+          "score": 0.656,
+          "bbox": [
+            385,
+            650,
+            464,
+            667
+          ],
+          "index": 20,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                384,
+                648,
+                467,
+                670
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    384,
+                    648,
+                    467,
+                    670
+                  ],
+                  "type": "text",
+                  "content": "abey",
+                  "score": 0.736
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            384,
+            648,
+            467,
+            670
+          ]
+        },
+        {
+          "score": 0.8298,
+          "bbox": [
+            382,
+            665,
+            478,
+            678
+          ],
+          "index": 21,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                382,
+                663,
+                478,
+                678
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    382,
+                    663,
+                    478,
+                    678
+                  ],
+                  "type": "text",
+                  "content": "Authorised Signature",
+                  "score": 0.989
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            382,
+            663,
+            478,
+            678
+          ]
+        }
+      ]
+    }
+  ],
+  "_backend": "pipeline",
+  "_version_name": "3.2.3",
+  "runtime_seconds": 29.832226514816284
+}

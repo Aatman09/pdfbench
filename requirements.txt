@@ -1,0 +1,29 @@
+# =============================================================================
+# Base dependencies shared by all extraction tools.
+# Pulled in automatically by both requirements-torch.txt and requirements-paddle.txt.
+# =============================================================================
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+tabulate>=0.9.0
+PyYAML>=6.0
+requests>=2.31.0
+pillow>=10.0.0
+PyPDF2>=3.0.0
+
+# Standard library modules (no pip install needed):
+# - mimetypes, os, json, time, subprocess, pathlib (built-in)
+
+# -----------------------------------------------------------------------------
+# IMPORTANT: This project uses TWO separate virtual environments.
+#
+# The PaddleOCR (paddle / CUDA-11) and Docling/MinerU (torch / CUDA-13) stacks
+# depend on conflicting CUDA libraries (notably nccl) and CANNOT be installed in
+# the same environment. Install them separately:
+#
+#   .venv         -> torch-based tools:   uv pip install -r requirements-torch.txt
+#   venv-paddle   -> PaddleOCR-VL tools:   uv pip install -r requirements-paddle.txt
+#
+# Run each tool group with its matching interpreter, e.g.:
+#   .venv/bin/python        cli.py --tools MinerU,Docling,GraniteDocling ...
+#   venv-paddle/bin/python  cli.py --tools PaddleOCR15,PaddleOCR16 ...
+# -----------------------------------------------------------------------------

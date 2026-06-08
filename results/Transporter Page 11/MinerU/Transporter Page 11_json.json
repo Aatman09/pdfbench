@@ -1,0 +1,1796 @@
+{
+  "pdf_info": [
+    {
+      "preproc_blocks": [
+        {
+          "score": 0.7884,
+          "bbox": [
+            110,
+            71,
+            489,
+            90
+          ],
+          "index": 5,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                108,
+                69,
+                492,
+                91
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    108,
+                    69,
+                    492,
+                    91
+                  ],
+                  "type": "text",
+                  "content": "Transport Contractor & Commission Agent",
+                  "score": 0.983
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "score": 0.7727,
+          "bbox": [
+            47,
+            92,
+            551,
+            109
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                46,
+                91,
+                553,
+                110
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    46,
+                    91,
+                    553,
+                    110
+                  ],
+                  "type": "text",
+                  "content": "Main Bazar,Aditiyana Ta.:Ranavav Dist.:Porbandar Ph.:(02801) 236603,304330",
+                  "score": 0.937
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9435,
+          "bbox": [
+            83,
+            155,
+            371,
+            169
+          ],
+          "index": 8,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                154,
+                372,
+                170
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    154,
+                    106,
+                    170
+                  ],
+                  "type": "text",
+                  "content": "IRN",
+                  "score": 0.875
+                },
+                {
+                  "bbox": [
+                    129,
+                    154,
+                    372,
+                    170
+                  ],
+                  "type": "text",
+                  "content": "：e58b867cb96f626aa7b0f6bf7bf102a6405fde96731f",
+                  "score": 0.987
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.5252,
+          "bbox": [
+            148,
+            170,
+            257,
+            183
+          ],
+          "index": 9,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                151,
+                169,
+                258,
+                183
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    151,
+                    169,
+                    258,
+                    183
+                  ],
+                  "type": "text",
+                  "content": "dbbbd756b52a26e48ff0",
+                  "score": 0.995
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9588,
+          "bbox": [
+            84,
+            184,
+            237,
+            197
+          ],
+          "index": 10,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                183,
+                237,
+                198
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    183,
+                    237,
+                    198
+                  ],
+                  "type": "text",
+                  "content": "ACKNO.:-162212119005093",
+                  "score": 0.96
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9545,
+          "bbox": [
+            84,
+            198,
+            196,
+            212
+          ],
+          "index": 11,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                196,
+                198,
+                212
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    196,
+                    198,
+                    212
+                  ],
+                  "type": "text",
+                  "content": "ACK DATE:09-Jul-22",
+                  "score": 0.928
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            421,
+            119,
+            518,
+            207
+          ],
+          "blocks": [
+            {
+              "score": 0.9828,
+              "bbox": [
+                421,
+                119,
+                518,
+                207
+              ],
+              "index": 12,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    421,
+                    119,
+                    518,
+                    207
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        421,
+                        119,
+                        518,
+                        207
+                      ],
+                      "type": "image",
+                      "image_path": "1a7da03c10af132627ae44cd4e49506a3c4f9810c662efbf0692bd1696038fdb.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 12,
+          "score": 0.9828
+        },
+        {
+          "score": 0.8943,
+          "bbox": [
+            271,
+            225,
+            342,
+            239
+          ],
+          "index": 13,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                270,
+                225,
+                343,
+                239
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    270,
+                    225,
+                    343,
+                    239
+                  ],
+                  "type": "text",
+                  "content": "TAX INVOICE",
+                  "score": 0.984
+                }
+              ]
+            }
+          ],
+          "level": 2
+        },
+        {
+          "score": 0.7604,
+          "bbox": [
+            85,
+            256,
+            126,
+            270
+          ],
+          "index": 14,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                254,
+                128,
+                271
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    254,
+                    128,
+                    271
+                  ],
+                  "type": "text",
+                  "content": "BILL TO,",
+                  "score": 0.951
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9361,
+          "bbox": [
+            84,
+            271,
+            219,
+            285
+          ],
+          "index": 15,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                84,
+                271,
+                220,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    84,
+                    271,
+                    220,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "GUJARATSIDHEECEMENTLTD",
+                  "score": 0.975
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9451,
+          "bbox": [
+            410,
+            255,
+            534,
+            268
+          ],
+          "index": 16,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                410,
+                255,
+                535,
+                269
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    410,
+                    255,
+                    535,
+                    269
+                  ],
+                  "type": "text",
+                  "content": "GSTIN:24AAFF00100L1ZR",
+                  "score": 0.985
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9415,
+          "bbox": [
+            84,
+            287,
+            189,
+            301
+          ],
+          "index": 17,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                287,
+                189,
+                300
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    287,
+                    189,
+                    300
+                  ],
+                  "type": "text",
+                  "content": "SIDHEEGRAM,O",
+                  "score": 0.835
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9345,
+          "bbox": [
+            387,
+            271,
+            534,
+            285
+          ],
+          "index": 18,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                386,
+                271,
+                534,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    386,
+                    271,
+                    534,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "SERVICEACCOUNTCODE:996601",
+                  "score": 0.992
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9419,
+          "bbox": [
+            331,
+            286,
+            534,
+            300
+          ],
+          "index": 19,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                329,
+                286,
+                536,
+                300
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    329,
+                    286,
+                    536,
+                    300
+                  ],
+                  "type": "text",
+                  "content": "SERVICE CATEGORY:RENTAL SERVICES OF TRUCKS",
+                  "score": 0.965
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9331,
+          "bbox": [
+            84,
+            302,
+            173,
+            316
+          ],
+          "index": 20,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                302,
+                174,
+                316
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    302,
+                    174,
+                    316
+                  ],
+                  "type": "text",
+                  "content": "VERAVAL--362276",
+                  "score": 0.998
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9299,
+          "bbox": [
+            84,
+            318,
+            204,
+            331
+          ],
+          "index": 21,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                317,
+                206,
+                332
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    317,
+                    206,
+                    332
+                  ],
+                  "type": "text",
+                  "content": "GSTIN:24AAACG8057G1ZP",
+                  "score": 0.993
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9478,
+          "bbox": [
+            376,
+            317,
+            502,
+            331
+          ],
+          "index": 22,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                374,
+                316,
+                504,
+                332
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    374,
+                    316,
+                    504,
+                    332
+                  ],
+                  "type": "text",
+                  "content": "BILL NO.:OE22230294",
+                  "score": 0.914
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9438,
+          "bbox": [
+            376,
+            333,
+            497,
+            347
+          ],
+          "index": 23,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                375,
+                332,
+                498,
+                347
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    375,
+                    332,
+                    498,
+                    347
+                  ],
+                  "type": "text",
+                  "content": "BILL DATE:- 09-07-2022",
+                  "score": 0.936
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "bbox": [
+            78,
+            360,
+            535,
+            730
+          ],
+          "blocks": [
+            {
+              "score": 0.9806,
+              "bbox": [
+                78,
+                360,
+                535,
+                730
+              ],
+              "index": 24,
+              "type": "table_body",
+              "lines": [
+                {
+                  "bbox": [
+                    78,
+                    360,
+                    535,
+                    730
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        78,
+                        360,
+                        535,
+                        730
+                      ],
+                      "type": "table",
+                      "html": "<table><tr><td rowspan=1 colspan=1>DESCRIPTION</td><td rowspan=1 colspan=1>QUANTITY</td><td rowspan=1 colspan=1>RATE</td><td rowspan=1 colspan=1>AMOUNT</td></tr><tr><td rowspan=1 colspan=1>TRUCK HIRE CHARGES(6WHEELERS)LESSIDLETIMECHARGESADDDOUBLETRIPINCENTIVELESSPENALTYCHARGESTOTALPERIOD01/06/2022T0.30/06/2022</td><td rowspan=1 colspan=1>11TOTAL117CGSTSGSTROUNDOFF</td><td rowspan=1 colspan=1>1100500/TRIP300/DAY9%9%</td><td rowspan=1 colspan=1>3,75,100.0030,800.003,44,300.005,100.003,39,200.0030,528.0030,528.00</td></tr><tr><td rowspan=1 colspan=3>TOTALAMOUNT</td><td rowspan=1 colspan=1>4,00,256.00</td></tr><tr><td rowspan=1 colspan=4>6784Four Lacs Two HundredFifty Six Only3934722109T22Enterprise<img src=\"3788333a53d45b8d98bb30ca78b2acb8b9057d560a8c3a188780ba17959e463e.jpg\"/>(Authorised Sign.)</td></tr></table>",
+                      "image_path": "6c9df0507203926b8efe8572a17e4a41cbd402c35f0a46a8539be26508cd1ab9.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 24,
+          "score": 0.9806
+        },
+        {
+          "score": 0.8324,
+          "bbox": [
+            298,
+            735,
+            437,
+            758
+          ],
+          "index": 25,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                297,
+                733,
+                439,
+                759
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    297,
+                    733,
+                    439,
+                    759
+                  ],
+                  "type": "text",
+                  "content": "P09300002623",
+                  "score": 0.941
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8785,
+          "bbox": [
+            298,
+            765,
+            442,
+            786
+          ],
+          "index": 26,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                297,
+                763,
+                444,
+                787
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    297,
+                    763,
+                    444,
+                    787
+                  ],
+                  "type": "text",
+                  "content": "SES 1000095311",
+                  "score": 0.865
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page_idx": 0,
+      "page_size": [
+        612,
+        792
+      ],
+      "discarded_blocks": [
+        {
+          "score": 0.7416,
+          "bbox": [
+            174,
+            24,
+            304,
+            57
+          ],
+          "index": 1,
+          "type": "header",
+          "lines": [
+            {
+              "bbox": [
+                171,
+                21,
+                308,
+                60
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    171,
+                    21,
+                    308,
+                    60
+                  ],
+                  "type": "text",
+                  "content": "OKHAI",
+                  "score": 0.985
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9111,
+          "bbox": [
+            461,
+            10,
+            548,
+            26
+          ],
+          "index": 2,
+          "type": "header",
+          "lines": [
+            {
+              "bbox": [
+                458,
+                7,
+                550,
+                27
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    458,
+                    7,
+                    550,
+                    27
+                  ],
+                  "type": "text",
+                  "content": "5105609133",
+                  "score": 0.961
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.8925,
+          "bbox": [
+            308,
+            44,
+            439,
+            68
+          ],
+          "index": 3,
+          "type": "header",
+          "lines": [
+            {
+              "bbox": [
+                305,
+                42,
+                443,
+                70
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    305,
+                    42,
+                    443,
+                    70
+                  ],
+                  "type": "text",
+                  "content": "ENTERPRISE",
+                  "score": 0.997
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.7014,
+          "bbox": [
+            488,
+            36,
+            562,
+            53
+          ],
+          "index": 4,
+          "type": "header",
+          "lines": [
+            {
+              "bbox": [
+                486,
+                33,
+                564,
+                55
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    486,
+                    33,
+                    564,
+                    55
+                  ],
+                  "type": "text",
+                  "content": "12004826",
+                  "score": 0.94
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.7287,
+          "bbox": [
+            501,
+            56,
+            568,
+            71
+          ],
+          "index": 6,
+          "type": "header",
+          "lines": [
+            {
+              "bbox": [
+                498,
+                54,
+                570,
+                72
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    498,
+                    54,
+                    570,
+                    72
+                  ],
+                  "type": "text",
+                  "content": "16.07.2022",
+                  "score": 0.952
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "para_blocks": [
+        {
+          "score": 0.7884,
+          "bbox": [
+            110,
+            71,
+            489,
+            90
+          ],
+          "index": 5,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                108,
+                69,
+                492,
+                91
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    108,
+                    69,
+                    492,
+                    91
+                  ],
+                  "type": "text",
+                  "content": "Transport Contractor & Commission Agent",
+                  "score": 0.983
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "score": 0.7727,
+          "bbox": [
+            47,
+            92,
+            551,
+            109
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                46,
+                91,
+                553,
+                110
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    46,
+                    91,
+                    553,
+                    110
+                  ],
+                  "type": "text",
+                  "content": "Main Bazar,Aditiyana Ta.:Ranavav Dist.:Porbandar Ph.:(02801) 236603,304330",
+                  "score": 0.937
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            46,
+            91,
+            553,
+            110
+          ]
+        },
+        {
+          "score": 0.9435,
+          "bbox": [
+            83,
+            155,
+            371,
+            169
+          ],
+          "index": 8,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                154,
+                372,
+                170
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    154,
+                    106,
+                    170
+                  ],
+                  "type": "text",
+                  "content": "IRN",
+                  "score": 0.875
+                },
+                {
+                  "bbox": [
+                    129,
+                    154,
+                    372,
+                    170
+                  ],
+                  "type": "text",
+                  "content": "：e58b867cb96f626aa7b0f6bf7bf102a6405fde96731f",
+                  "score": 0.987
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            83,
+            154,
+            372,
+            170
+          ]
+        },
+        {
+          "score": 0.5252,
+          "bbox": [
+            148,
+            170,
+            257,
+            183
+          ],
+          "index": 9,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                151,
+                169,
+                258,
+                183
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    151,
+                    169,
+                    258,
+                    183
+                  ],
+                  "type": "text",
+                  "content": "dbbbd756b52a26e48ff0",
+                  "score": 0.995
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            151,
+            169,
+            258,
+            183
+          ]
+        },
+        {
+          "score": 0.9588,
+          "bbox": [
+            84,
+            184,
+            237,
+            197
+          ],
+          "index": 10,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                183,
+                237,
+                198
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    183,
+                    237,
+                    198
+                  ],
+                  "type": "text",
+                  "content": "ACKNO.:-162212119005093",
+                  "score": 0.96
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            83,
+            183,
+            237,
+            198
+          ]
+        },
+        {
+          "score": 0.9545,
+          "bbox": [
+            84,
+            198,
+            196,
+            212
+          ],
+          "index": 11,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                196,
+                198,
+                212
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    196,
+                    198,
+                    212
+                  ],
+                  "type": "text",
+                  "content": "ACK DATE:09-Jul-22",
+                  "score": 0.928
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            83,
+            196,
+            198,
+            212
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            421,
+            119,
+            518,
+            207
+          ],
+          "blocks": [
+            {
+              "score": 0.9828,
+              "bbox": [
+                421,
+                119,
+                518,
+                207
+              ],
+              "index": 12,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    421,
+                    119,
+                    518,
+                    207
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        421,
+                        119,
+                        518,
+                        207
+                      ],
+                      "type": "image",
+                      "image_path": "1a7da03c10af132627ae44cd4e49506a3c4f9810c662efbf0692bd1696038fdb.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 12,
+          "score": 0.9828
+        },
+        {
+          "score": 0.8943,
+          "bbox": [
+            271,
+            225,
+            342,
+            239
+          ],
+          "index": 13,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                270,
+                225,
+                343,
+                239
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    270,
+                    225,
+                    343,
+                    239
+                  ],
+                  "type": "text",
+                  "content": "TAX INVOICE",
+                  "score": 0.984
+                }
+              ]
+            }
+          ],
+          "level": 2
+        },
+        {
+          "score": 0.7604,
+          "bbox": [
+            85,
+            256,
+            126,
+            270
+          ],
+          "index": 14,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                254,
+                128,
+                271
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    254,
+                    128,
+                    271
+                  ],
+                  "type": "text",
+                  "content": "BILL TO,",
+                  "score": 0.951
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            83,
+            254,
+            128,
+            271
+          ]
+        },
+        {
+          "score": 0.9361,
+          "bbox": [
+            84,
+            271,
+            219,
+            285
+          ],
+          "index": 15,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                84,
+                271,
+                220,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    84,
+                    271,
+                    220,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "GUJARATSIDHEECEMENTLTD",
+                  "score": 0.975
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            84,
+            271,
+            220,
+            284
+          ]
+        },
+        {
+          "score": 0.9451,
+          "bbox": [
+            410,
+            255,
+            534,
+            268
+          ],
+          "index": 16,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                410,
+                255,
+                535,
+                269
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    410,
+                    255,
+                    535,
+                    269
+                  ],
+                  "type": "text",
+                  "content": "GSTIN:24AAFF00100L1ZR",
+                  "score": 0.985
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            410,
+            255,
+            535,
+            269
+          ]
+        },
+        {
+          "score": 0.9415,
+          "bbox": [
+            84,
+            287,
+            189,
+            301
+          ],
+          "index": 17,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                287,
+                189,
+                300
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    287,
+                    189,
+                    300
+                  ],
+                  "type": "text",
+                  "content": "SIDHEEGRAM,O",
+                  "score": 0.835
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            83,
+            287,
+            189,
+            300
+          ]
+        },
+        {
+          "score": 0.9345,
+          "bbox": [
+            387,
+            271,
+            534,
+            285
+          ],
+          "index": 18,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                386,
+                271,
+                534,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    386,
+                    271,
+                    534,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "SERVICEACCOUNTCODE:996601",
+                  "score": 0.992
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            386,
+            271,
+            534,
+            284
+          ]
+        },
+        {
+          "score": 0.9419,
+          "bbox": [
+            331,
+            286,
+            534,
+            300
+          ],
+          "index": 19,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                329,
+                286,
+                536,
+                300
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    329,
+                    286,
+                    536,
+                    300
+                  ],
+                  "type": "text",
+                  "content": "SERVICE CATEGORY:RENTAL SERVICES OF TRUCKS",
+                  "score": 0.965
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            329,
+            286,
+            536,
+            300
+          ]
+        },
+        {
+          "score": 0.9331,
+          "bbox": [
+            84,
+            302,
+            173,
+            316
+          ],
+          "index": 20,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                302,
+                174,
+                316
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    302,
+                    174,
+                    316
+                  ],
+                  "type": "text",
+                  "content": "VERAVAL--362276",
+                  "score": 0.998
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            83,
+            302,
+            174,
+            316
+          ]
+        },
+        {
+          "score": 0.9299,
+          "bbox": [
+            84,
+            318,
+            204,
+            331
+          ],
+          "index": 21,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                83,
+                317,
+                206,
+                332
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    83,
+                    317,
+                    206,
+                    332
+                  ],
+                  "type": "text",
+                  "content": "GSTIN:24AAACG8057G1ZP",
+                  "score": 0.993
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            83,
+            317,
+            206,
+            332
+          ]
+        },
+        {
+          "score": 0.9478,
+          "bbox": [
+            376,
+            317,
+            502,
+            331
+          ],
+          "index": 22,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                374,
+                316,
+                504,
+                332
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    374,
+                    316,
+                    504,
+                    332
+                  ],
+                  "type": "text",
+                  "content": "BILL NO.:OE22230294",
+                  "score": 0.914
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            374,
+            316,
+            504,
+            332
+          ]
+        },
+        {
+          "score": 0.9438,
+          "bbox": [
+            376,
+            333,
+            497,
+            347
+          ],
+          "index": 23,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                375,
+                332,
+                498,
+                347
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    375,
+                    332,
+                    498,
+                    347
+                  ],
+                  "type": "text",
+                  "content": "BILL DATE:- 09-07-2022",
+                  "score": 0.936
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            375,
+            332,
+            498,
+            347
+          ]
+        },
+        {
+          "type": "table",
+          "bbox": [
+            78,
+            360,
+            535,
+            730
+          ],
+          "blocks": [
+            {
+              "score": 0.9806,
+              "bbox": [
+                78,
+                360,
+                535,
+                730
+              ],
+              "index": 24,
+              "type": "table_body",
+              "lines": [
+                {
+                  "bbox": [
+                    78,
+                    360,
+                    535,
+                    730
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        78,
+                        360,
+                        535,
+                        730
+                      ],
+                      "type": "table",
+                      "html": "<table><tr><td rowspan=1 colspan=1>DESCRIPTION</td><td rowspan=1 colspan=1>QUANTITY</td><td rowspan=1 colspan=1>RATE</td><td rowspan=1 colspan=1>AMOUNT</td></tr><tr><td rowspan=1 colspan=1>TRUCK HIRE CHARGES(6WHEELERS)LESSIDLETIMECHARGESADDDOUBLETRIPINCENTIVELESSPENALTYCHARGESTOTALPERIOD01/06/2022T0.30/06/2022</td><td rowspan=1 colspan=1>11TOTAL117CGSTSGSTROUNDOFF</td><td rowspan=1 colspan=1>1100500/TRIP300/DAY9%9%</td><td rowspan=1 colspan=1>3,75,100.0030,800.003,44,300.005,100.003,39,200.0030,528.0030,528.00</td></tr><tr><td rowspan=1 colspan=3>TOTALAMOUNT</td><td rowspan=1 colspan=1>4,00,256.00</td></tr><tr><td rowspan=1 colspan=4>6784Four Lacs Two HundredFifty Six Only3934722109T22Enterprise<img src=\"3788333a53d45b8d98bb30ca78b2acb8b9057d560a8c3a188780ba17959e463e.jpg\"/>(Authorised Sign.)</td></tr></table>",
+                      "image_path": "6c9df0507203926b8efe8572a17e4a41cbd402c35f0a46a8539be26508cd1ab9.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 24,
+          "score": 0.9806
+        },
+        {
+          "score": 0.8324,
+          "bbox": [
+            298,
+            735,
+            437,
+            758
+          ],
+          "index": 25,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                297,
+                733,
+                439,
+                759
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    297,
+                    733,
+                    439,
+                    759
+                  ],
+                  "type": "text",
+                  "content": "P09300002623",
+                  "score": 0.941
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            297,
+            733,
+            439,
+            759
+          ]
+        },
+        {
+          "score": 0.8785,
+          "bbox": [
+            298,
+            765,
+            442,
+            786
+          ],
+          "index": 26,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                297,
+                763,
+                444,
+                787
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    297,
+                    763,
+                    444,
+                    787
+                  ],
+                  "type": "text",
+                  "content": "SES 1000095311",
+                  "score": 0.865
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            297,
+            763,
+            444,
+            787
+          ]
+        }
+      ]
+    }
+  ],
+  "_backend": "pipeline",
+  "_version_name": "3.2.3",
+  "runtime_seconds": 32.35053515434265
+}

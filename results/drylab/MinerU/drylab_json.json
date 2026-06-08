@@ -1,0 +1,7128 @@
+{
+  "pdf_info": [
+    {
+      "preproc_blocks": [
+        {
+          "score": 0.8166,
+          "bbox": [
+            61,
+            71,
+            549,
+            157
+          ],
+          "index": 1,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                46,
+                54,
+                568,
+                169
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    46,
+                    54,
+                    568,
+                    169
+                  ],
+                  "type": "text",
+                  "content": "DrylabNews",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "image",
+          "bbox": [
+            56,
+            176,
+            539,
+            426
+          ],
+          "blocks": [
+            {
+              "score": 0.9806,
+              "bbox": [
+                56,
+                176,
+                539,
+                426
+              ],
+              "index": 2,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    176,
+                    539,
+                    426
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        176,
+                        539,
+                        426
+                      ],
+                      "type": "image",
+                      "image_path": "34b57e4513ef8e276da96e9208599d9a887822b669918b2331d5750cb4e74343.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 2,
+          "score": 0.9806
+        },
+        {
+          "score": 0.9876,
+          "bbox": [
+            52,
+            439,
+            290,
+            608
+          ],
+          "index": 3,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                441,
+                289,
+                453
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    441,
+                    289,
+                    453
+                  ],
+                  "type": "text",
+                  "content": "Welcome to our first newsletter of 2017! It's",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                457,
+                284,
+                471
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    457,
+                    284,
+                    471
+                  ],
+                  "type": "text",
+                  "content": "been a while since the last one, and a lot has",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                473,
+                288,
+                489
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    473,
+                    288,
+                    489
+                  ],
+                  "type": "text",
+                  "content": "happened. We promise to keep them coming",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                492,
+                265,
+                504
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    492,
+                    265,
+                    504
+                  ],
+                  "type": "text",
+                  "content": "every two months hereafter, and permit",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                507,
+                280,
+                522
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    507,
+                    280,
+                    522
+                  ],
+                  "type": "text",
+                  "content": "ourselves to make this one rather long. The",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                524,
+                275,
+                539
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    524,
+                    275,
+                    539
+                  ],
+                  "type": "text",
+                  "content": "big news is the beginnings of our launch in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                541,
+                263,
+                555
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    541,
+                    263,
+                    555
+                  ],
+                  "type": "text",
+                  "content": "the American market, but there are also",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                558,
+                279,
+                572
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    558,
+                    279,
+                    572
+                  ],
+                  "type": "text",
+                  "content": "interesting updates on sales, development,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                575,
+                262,
+                588
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    575,
+                    262,
+                    588
+                  ],
+                  "type": "text",
+                  "content": "mentors and (of course) the investment",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                590,
+                207,
+                606
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    590,
+                    207,
+                    606
+                  ],
+                  "type": "text",
+                  "content": "round that closed in January.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9654,
+          "bbox": [
+            53,
+            616,
+            284,
+            649
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                54,
+                615,
+                273,
+                631
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    615,
+                    273,
+                    631
+                  ],
+                  "type": "text",
+                  "content": "New capital: The investment round was",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                633,
+                283,
+                647
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    633,
+                    283,
+                    647
+                  ],
+                  "type": "text",
+                  "content": "successful. We raised 2.13 MNOK to match",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.985,
+          "bbox": [
+            299,
+            439,
+            535,
+            557
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                301,
+                439,
+                499,
+                455
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    439,
+                    499,
+                    455
+                  ],
+                  "type": "text",
+                  "content": "the 2.05 MNOK loan from Innovation",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                458,
+                490,
+                471
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    458,
+                    490,
+                    471
+                  ],
+                  "type": "text",
+                  "content": "Norway. Including the development",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                474,
+                534,
+                488
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    474,
+                    534,
+                    488
+                  ],
+                  "type": "text",
+                  "content": "agreement with Filmlance International, the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                491,
+                523,
+                505
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    491,
+                    523,
+                    505
+                  ],
+                  "type": "text",
+                  "content": "total new capital is 5 MNOK, partly tied to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                508,
+                530,
+                521
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    508,
+                    530,
+                    521
+                  ],
+                  "type": "text",
+                  "content": "the successful completion of milestones. All",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                523,
+                529,
+                540
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    523,
+                    529,
+                    540
+                  ],
+                  "type": "text",
+                  "content": "formalities associated with this process are",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                542,
+                376,
+                554
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    542,
+                    376,
+                    554
+                  ],
+                  "type": "text",
+                  "content": "now finalized.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9824,
+          "bbox": [
+            299,
+            565,
+            540,
+            649
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                301,
+                564,
+                526,
+                582
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    564,
+                    526,
+                    582
+                  ],
+                  "type": "text",
+                  "content": "New owners: We would especially like to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                584,
+                512,
+                597
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    584,
+                    512,
+                    597
+                  ],
+                  "type": "text",
+                  "content": "warmly welcome our new owners to the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                600,
+                532,
+                615
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    600,
+                    532,
+                    615
+                  ],
+                  "type": "text",
+                  "content": "Drylab family: Unni Jacobsen, Torstein Jahr,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                617,
+                538,
+                632
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    617,
+                    538,
+                    632
+                  ],
+                  "type": "text",
+                  "content": "Suzanne Bolstad, Eivind Bergene, Turid Brun,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                634,
+                514,
+                648
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    634,
+                    514,
+                    648
+                  ],
+                  "type": "text",
+                  "content": "Vigdis Trondsen, Lea Blindheim, Kristine",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            56,
+            667,
+            111,
+            701
+          ],
+          "blocks": [
+            {
+              "score": 0.64,
+              "bbox": [
+                56,
+                667,
+                111,
+                701
+              ],
+              "index": 7,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    667,
+                    111,
+                    701
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        667,
+                        111,
+                        701
+                      ],
+                      "type": "image",
+                      "image_path": "8f5601dabc338ff687e0ba50865a0ab7b112c203e044b5d3cdfdd09fa3ff88f9.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 7,
+          "score": 0.64
+        },
+        {
+          "score": 0.7834,
+          "bbox": [
+            55,
+            665,
+            542,
+            762
+          ],
+          "index": 8,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                52,
+                664,
+                540,
+                705
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    52,
+                    664,
+                    117,
+                    705
+                  ],
+                  "type": "text",
+                  "content": "34",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    122,
+                    666,
+                    540,
+                    681
+                  ],
+                  "type": "text",
+                  "content": "Academy of Motion Picture Arts and Sciences · Alesha & Jamie Metzger · Amazon",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                121,
+                680,
+                540,
+                698
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    121,
+                    680,
+                    540,
+                    698
+                  ],
+                  "type": "text",
+                  "content": "AWS · Apple · Caitlin Burns, PGA · Carlos Melcer · Chimney L.A. · Dado Valentic ·",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                122,
+                698,
+                540,
+                713
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    122,
+                    698,
+                    540,
+                    713
+                  ],
+                  "type": "text",
+                  "content": "Dave Stump · DIT WIT · ERA NYC · Facebook · Fancy Film · FilmLight · Geo Labelle ·",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                704,
+                541,
+                732
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    704,
+                    115,
+                    726
+                  ],
+                  "type": "text",
+                  "content": "meetings",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    120,
+                    711,
+                    541,
+                    732
+                  ],
+                  "type": "text",
+                  "content": "Google · IBM · Innovation Norway (NYC) · Innovation Norway (SF) · International",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                723,
+                541,
+                747
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    723,
+                    110,
+                    742
+                  ],
+                  "type": "text",
+                  "content": "NY · SF",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    122,
+                    728,
+                    541,
+                    747
+                  ],
+                  "type": "text",
+                  "content": "Cinematographers Guild · NBC · Local 871 · Netflix · Pomfort · Radiant Images ·",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                60,
+                743,
+                470,
+                764
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    60,
+                    743,
+                    109,
+                    760
+                  ],
+                  "type": "text",
+                  "content": "LA · LV",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    120,
+                    744,
+                    470,
+                    764
+                  ],
+                  "type": "text",
+                  "content": "Screening Room · Signiant · Moods of Norway · Tapad · Team Downey",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page_idx": 0,
+      "page_size": [
+        595,
+        841
+      ],
+      "discarded_blocks": [],
+      "para_blocks": [
+        {
+          "score": 0.8166,
+          "bbox": [
+            61,
+            71,
+            549,
+            157
+          ],
+          "index": 1,
+          "type": "title",
+          "lines": [
+            {
+              "bbox": [
+                46,
+                54,
+                568,
+                169
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    46,
+                    54,
+                    568,
+                    169
+                  ],
+                  "type": "text",
+                  "content": "DrylabNews",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "level": 1
+        },
+        {
+          "type": "image",
+          "bbox": [
+            56,
+            176,
+            539,
+            426
+          ],
+          "blocks": [
+            {
+              "score": 0.9806,
+              "bbox": [
+                56,
+                176,
+                539,
+                426
+              ],
+              "index": 2,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    176,
+                    539,
+                    426
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        176,
+                        539,
+                        426
+                      ],
+                      "type": "image",
+                      "image_path": "34b57e4513ef8e276da96e9208599d9a887822b669918b2331d5750cb4e74343.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 2,
+          "score": 0.9806
+        },
+        {
+          "score": 0.9876,
+          "bbox": [
+            52,
+            439,
+            290,
+            608
+          ],
+          "index": 3,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                441,
+                289,
+                453
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    441,
+                    289,
+                    453
+                  ],
+                  "type": "text",
+                  "content": "Welcome to our first newsletter of 2017! It's",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                457,
+                284,
+                471
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    457,
+                    284,
+                    471
+                  ],
+                  "type": "text",
+                  "content": "been a while since the last one, and a lot has",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                473,
+                288,
+                489
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    473,
+                    288,
+                    489
+                  ],
+                  "type": "text",
+                  "content": "happened. We promise to keep them coming",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                492,
+                265,
+                504
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    492,
+                    265,
+                    504
+                  ],
+                  "type": "text",
+                  "content": "every two months hereafter, and permit",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                507,
+                280,
+                522
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    507,
+                    280,
+                    522
+                  ],
+                  "type": "text",
+                  "content": "ourselves to make this one rather long. The",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                524,
+                275,
+                539
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    524,
+                    275,
+                    539
+                  ],
+                  "type": "text",
+                  "content": "big news is the beginnings of our launch in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                541,
+                263,
+                555
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    541,
+                    263,
+                    555
+                  ],
+                  "type": "text",
+                  "content": "the American market, but there are also",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                558,
+                279,
+                572
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    558,
+                    279,
+                    572
+                  ],
+                  "type": "text",
+                  "content": "interesting updates on sales, development,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                575,
+                262,
+                588
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    575,
+                    262,
+                    588
+                  ],
+                  "type": "text",
+                  "content": "mentors and (of course) the investment",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                590,
+                207,
+                606
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    590,
+                    207,
+                    606
+                  ],
+                  "type": "text",
+                  "content": "round that closed in January.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            55,
+            441,
+            289,
+            606
+          ]
+        },
+        {
+          "score": 0.9654,
+          "bbox": [
+            53,
+            616,
+            284,
+            649
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                54,
+                615,
+                273,
+                631
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    615,
+                    273,
+                    631
+                  ],
+                  "type": "text",
+                  "content": "New capital: The investment round was",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                633,
+                283,
+                647
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    633,
+                    283,
+                    647
+                  ],
+                  "type": "text",
+                  "content": "successful. We raised 2.13 MNOK to match",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                439,
+                499,
+                455
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    439,
+                    499,
+                    455
+                  ],
+                  "type": "text",
+                  "content": "the 2.05 MNOK loan from Innovation",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                458,
+                490,
+                471
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    458,
+                    490,
+                    471
+                  ],
+                  "type": "text",
+                  "content": "Norway. Including the development",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                474,
+                534,
+                488
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    474,
+                    534,
+                    488
+                  ],
+                  "type": "text",
+                  "content": "agreement with Filmlance International, the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                491,
+                523,
+                505
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    491,
+                    523,
+                    505
+                  ],
+                  "type": "text",
+                  "content": "total new capital is 5 MNOK, partly tied to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                508,
+                530,
+                521
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    508,
+                    530,
+                    521
+                  ],
+                  "type": "text",
+                  "content": "the successful completion of milestones. All",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                523,
+                529,
+                540
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    523,
+                    529,
+                    540
+                  ],
+                  "type": "text",
+                  "content": "formalities associated with this process are",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                542,
+                376,
+                554
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    542,
+                    376,
+                    554
+                  ],
+                  "type": "text",
+                  "content": "now finalized.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            54,
+            615,
+            283,
+            647
+          ]
+        },
+        {
+          "score": 0.985,
+          "bbox": [
+            299,
+            439,
+            535,
+            557
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [],
+          "bbox_fs": [
+            301,
+            439,
+            534,
+            554
+          ],
+          "lines_deleted": true
+        },
+        {
+          "score": 0.9824,
+          "bbox": [
+            299,
+            565,
+            540,
+            649
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                301,
+                564,
+                526,
+                582
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    564,
+                    526,
+                    582
+                  ],
+                  "type": "text",
+                  "content": "New owners: We would especially like to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                584,
+                512,
+                597
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    584,
+                    512,
+                    597
+                  ],
+                  "type": "text",
+                  "content": "warmly welcome our new owners to the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                600,
+                532,
+                615
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    600,
+                    532,
+                    615
+                  ],
+                  "type": "text",
+                  "content": "Drylab family: Unni Jacobsen, Torstein Jahr,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                617,
+                538,
+                632
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    617,
+                    538,
+                    632
+                  ],
+                  "type": "text",
+                  "content": "Suzanne Bolstad, Eivind Bergene, Turid Brun,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                634,
+                514,
+                648
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    634,
+                    514,
+                    648
+                  ],
+                  "type": "text",
+                  "content": "Vigdis Trondsen, Lea Blindheim, Kristine",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            301,
+            564,
+            538,
+            648
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            56,
+            667,
+            111,
+            701
+          ],
+          "blocks": [
+            {
+              "score": 0.64,
+              "bbox": [
+                56,
+                667,
+                111,
+                701
+              ],
+              "index": 7,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    667,
+                    111,
+                    701
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        667,
+                        111,
+                        701
+                      ],
+                      "type": "image",
+                      "image_path": "8f5601dabc338ff687e0ba50865a0ab7b112c203e044b5d3cdfdd09fa3ff88f9.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 7,
+          "score": 0.64
+        },
+        {
+          "score": 0.7834,
+          "bbox": [
+            55,
+            665,
+            542,
+            762
+          ],
+          "index": 8,
+          "type": "list",
+          "lines": [
+            {
+              "bbox": [
+                52,
+                664,
+                540,
+                705
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    52,
+                    664,
+                    117,
+                    705
+                  ],
+                  "type": "text",
+                  "content": "34",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    122,
+                    666,
+                    540,
+                    681
+                  ],
+                  "type": "text",
+                  "content": "Academy of Motion Picture Arts and Sciences · Alesha & Jamie Metzger · Amazon",
+                  "score": 1.0
+                }
+              ],
+              "is_list_start_line": true
+            },
+            {
+              "bbox": [
+                121,
+                680,
+                540,
+                698
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    121,
+                    680,
+                    540,
+                    698
+                  ],
+                  "type": "text",
+                  "content": "AWS · Apple · Caitlin Burns, PGA · Carlos Melcer · Chimney L.A. · Dado Valentic ·",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                122,
+                698,
+                540,
+                713
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    122,
+                    698,
+                    540,
+                    713
+                  ],
+                  "type": "text",
+                  "content": "Dave Stump · DIT WIT · ERA NYC · Facebook · Fancy Film · FilmLight · Geo Labelle ·",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                704,
+                541,
+                732
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    704,
+                    115,
+                    726
+                  ],
+                  "type": "text",
+                  "content": "meetings",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    120,
+                    711,
+                    541,
+                    732
+                  ],
+                  "type": "text",
+                  "content": "Google · IBM · Innovation Norway (NYC) · Innovation Norway (SF) · International",
+                  "score": 1.0
+                }
+              ],
+              "is_list_start_line": true
+            },
+            {
+              "bbox": [
+                59,
+                723,
+                541,
+                747
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    723,
+                    110,
+                    742
+                  ],
+                  "type": "text",
+                  "content": "NY · SF",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    122,
+                    728,
+                    541,
+                    747
+                  ],
+                  "type": "text",
+                  "content": "Cinematographers Guild · NBC · Local 871 · Netflix · Pomfort · Radiant Images ·",
+                  "score": 1.0
+                }
+              ],
+              "is_list_start_line": true
+            },
+            {
+              "bbox": [
+                60,
+                743,
+                470,
+                764
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    60,
+                    743,
+                    109,
+                    760
+                  ],
+                  "type": "text",
+                  "content": "LA · LV",
+                  "score": 1.0
+                },
+                {
+                  "bbox": [
+                    120,
+                    744,
+                    470,
+                    764
+                  ],
+                  "type": "text",
+                  "content": "Screening Room · Signiant · Moods of Norway · Tapad · Team Downey",
+                  "score": 1.0
+                }
+              ],
+              "is_list_start_line": true,
+              "is_list_end_line": true
+            }
+          ],
+          "bbox_fs": [
+            52,
+            664,
+            541,
+            764
+          ]
+        }
+      ]
+    },
+    {
+      "preproc_blocks": [
+        {
+          "score": 0.9743,
+          "bbox": [
+            52,
+            58,
+            288,
+            107
+          ],
+          "index": 1,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                54,
+                59,
+                258,
+                72
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    59,
+                    258,
+                    72
+                  ],
+                  "type": "text",
+                  "content": "Holmsen, Torstein Hansen, and Jostein",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                76,
+                286,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    76,
+                    286,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "Aanensen. We look forward to working with",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                52,
+                92,
+                82,
+                107
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    52,
+                    92,
+                    82,
+                    107
+                  ],
+                  "type": "text",
+                  "content": "you!",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9872,
+          "bbox": [
+            53,
+            117,
+            286,
+            334
+          ],
+          "index": 2,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                117,
+                270,
+                131
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    117,
+                    270,
+                    131
+                  ],
+                  "type": "text",
+                  "content": "Sales: Return customer rate is now 80%,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                135,
+                271,
+                149
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    135,
+                    271,
+                    149
+                  ],
+                  "type": "text",
+                  "content": "proving value and willingness to pay. Film",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                152,
+                268,
+                164
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    152,
+                    268,
+                    164
+                  ],
+                  "type": "text",
+                  "content": "Factory Montreal is our first customer in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                168,
+                280,
+                182
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    168,
+                    280,
+                    182
+                  ],
+                  "type": "text",
+                  "content": "Canada. Lumiere Numeriques have started",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                185,
+                248,
+                199
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    185,
+                    248,
+                    199
+                  ],
+                  "type": "text",
+                  "content": "using us in France. We also have new",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                202,
+                285,
+                216
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    202,
+                    285,
+                    216
+                  ],
+                  "type": "text",
+                  "content": "customers in Norway, and high-profile users",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                219,
+                275,
+                232
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    219,
+                    275,
+                    232
+                  ],
+                  "type": "text",
+                  "content": "such as Gareth Unwin, producer of Oscar-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                235,
+                284,
+                249
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    235,
+                    284,
+                    249
+                  ],
+                  "type": "text",
+                  "content": "winning The King's Speech. Revenue for the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                251,
+                285,
+                266
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    251,
+                    285,
+                    266
+                  ],
+                  "type": "text",
+                  "content": "first four months is 200 kNOK, compared to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                267,
+                278,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    267,
+                    278,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "339 kNOK for all of 2016. We are working",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                286,
+                251,
+                299
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    286,
+                    251,
+                    299
+                  ],
+                  "type": "text",
+                  "content": "on a partnership to safeguard sales in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                302,
+                274,
+                317
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    302,
+                    274,
+                    317
+                  ],
+                  "type": "text",
+                  "content": "Norway while beginning to focus more on",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                319,
+                96,
+                332
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    319,
+                    96,
+                    332
+                  ],
+                  "type": "text",
+                  "content": "the US.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            56,
+            345,
+            290,
+            502
+          ],
+          "blocks": [
+            {
+              "score": 0.9852,
+              "bbox": [
+                56,
+                345,
+                290,
+                502
+              ],
+              "index": 3,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    345,
+                    290,
+                    502
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        345,
+                        290,
+                        502
+                      ],
+                      "type": "image",
+                      "image_path": "447d702993e670dbc7153099b18054c9d31f555e86123dfc248dd791de80d372.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 3,
+          "score": 0.9852
+        },
+        {
+          "score": 0.9849,
+          "bbox": [
+            53,
+            516,
+            291,
+            734
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                517,
+                290,
+                530
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    517,
+                    290,
+                    530
+                  ],
+                  "type": "text",
+                  "content": "New team members: We've extended our",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                534,
+                291,
+                548
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    534,
+                    291,
+                    548
+                  ],
+                  "type": "text",
+                  "content": "organization with two permanent developers",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                551,
+                289,
+                563
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    551,
+                    289,
+                    563
+                  ],
+                  "type": "text",
+                  "content": "based in Łódź, the film capital of Poland. Two",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                567,
+                283,
+                581
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    567,
+                    283,
+                    581
+                  ],
+                  "type": "text",
+                  "content": "highly skilled interns from the University of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                583,
+                271,
+                599
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    583,
+                    271,
+                    599
+                  ],
+                  "type": "text",
+                  "content": "Oslo's Entrepreneurship Program, will be",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                600,
+                282,
+                615
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    600,
+                    282,
+                    615
+                  ],
+                  "type": "text",
+                  "content": "working on market research until mid-June",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                617,
+                266,
+                632
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    617,
+                    266,
+                    632
+                  ],
+                  "type": "text",
+                  "content": "(starting in March), preparing for the US",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                634,
+                288,
+                649
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    634,
+                    288,
+                    649
+                  ],
+                  "type": "text",
+                  "content": "launch. Also, two computer science students",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                651,
+                262,
+                666
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    651,
+                    262,
+                    666
+                  ],
+                  "type": "text",
+                  "content": "are working as part-time interns during",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                668,
+                266,
+                683
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    668,
+                    266,
+                    683
+                  ],
+                  "type": "text",
+                  "content": "spring, on machine learning and analysis",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                685,
+                286,
+                699
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    685,
+                    286,
+                    699
+                  ],
+                  "type": "text",
+                  "content": "research, as well as innovative architectures",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                701,
+                275,
+                717
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    701,
+                    275,
+                    717
+                  ],
+                  "type": "text",
+                  "content": "based on the Swift language. We hope our",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                718,
+                249,
+                732
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    718,
+                    249,
+                    732
+                  ],
+                  "type": "text",
+                  "content": "interns will consider sticking around!",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9602,
+          "bbox": [
+            53,
+            743,
+            288,
+            775
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                54,
+                743,
+                264,
+                758
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    743,
+                    264,
+                    758
+                  ],
+                  "type": "text",
+                  "content": "New mentor: We are honored to have",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                759,
+                287,
+                776
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    759,
+                    287,
+                    776
+                  ],
+                  "type": "text",
+                  "content": "Caitlin Burns joining us as a mentor. She's an",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9843,
+          "bbox": [
+            300,
+            58,
+            532,
+            174
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                302,
+                58,
+                529,
+                73
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    58,
+                    529,
+                    73
+                  ],
+                  "type": "text",
+                  "content": "accomplished producer based in New York,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                76,
+                531,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    76,
+                    531,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "an active member of the Producers Guild of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                92,
+                526,
+                106
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    92,
+                    526,
+                    106
+                  ],
+                  "type": "text",
+                  "content": "America, and the collaboration has already",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                109,
+                509,
+                123
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    109,
+                    509,
+                    123
+                  ],
+                  "type": "text",
+                  "content": "yielded good results, including valuable",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                126,
+                527,
+                140
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    126,
+                    527,
+                    140
+                  ],
+                  "type": "text",
+                  "content": "contacts for our visit in Los Angeles. Oscar-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                142,
+                530,
+                157
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    142,
+                    530,
+                    157
+                  ],
+                  "type": "text",
+                  "content": "winning VFX supervisor Dave Stump joined",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                159,
+                355,
+                172
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    159,
+                    355,
+                    172
+                  ],
+                  "type": "text",
+                  "content": "us earlier.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9867,
+          "bbox": [
+            300,
+            184,
+            537,
+            386
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                303,
+                185,
+                536,
+                199
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    185,
+                    536,
+                    199
+                  ],
+                  "type": "text",
+                  "content": "New York, St. Louis, San Francisco and",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                203,
+                531,
+                216
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    203,
+                    531,
+                    216
+                  ],
+                  "type": "text",
+                  "content": "Los Angeles: Pontus and Audun did a tour",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                218,
+                521,
+                233
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    218,
+                    521,
+                    233
+                  ],
+                  "type": "text",
+                  "content": "of the US in February and March, meeting",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                236,
+                536,
+                249
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    236,
+                    536,
+                    249
+                  ],
+                  "type": "text",
+                  "content": "users, partners and potential customers. The",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                252,
+                520,
+                267
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    252,
+                    520,
+                    267
+                  ],
+                  "type": "text",
+                  "content": "trip was very successful, with several high",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                269,
+                527,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    269,
+                    527,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "points, including meetings with Netflix, the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                286,
+                495,
+                300
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    286,
+                    495,
+                    300
+                  ],
+                  "type": "text",
+                  "content": "Academy of Motion Picture Arts and",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                303,
+                443,
+                316
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    303,
+                    443,
+                    316
+                  ],
+                  "type": "text",
+                  "content": "Sciences, the International",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                320,
+                511,
+                333
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    320,
+                    511,
+                    333
+                  ],
+                  "type": "text",
+                  "content": "Cinematographers Guild, Local 871 (the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                336,
+                534,
+                351
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    336,
+                    534,
+                    351
+                  ],
+                  "type": "text",
+                  "content": "script supervisors' union), one of the world's",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                353,
+                518,
+                368
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    353,
+                    518,
+                    368
+                  ],
+                  "type": "text",
+                  "content": "leading DITs, and Apple. See the separate",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                369,
+                519,
+                385
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    369,
+                    519,
+                    385
+                  ],
+                  "type": "text",
+                  "content": "attachment for a more detailed summary.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9866,
+          "bbox": [
+            300,
+            394,
+            529,
+            595
+          ],
+          "index": 8,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                302,
+                394,
+                522,
+                408
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    394,
+                    522,
+                    408
+                  ],
+                  "type": "text",
+                  "content": "NAB: Andreas and Audun travelled to the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                412,
+                498,
+                425
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    412,
+                    498,
+                    425
+                  ],
+                  "type": "text",
+                  "content": "National Association of Broadcasters",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                429,
+                512,
+                444
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    429,
+                    512,
+                    444
+                  ],
+                  "type": "text",
+                  "content": "convention (NAB) in Las Vegas for three",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                446,
+                521,
+                460
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    446,
+                    521,
+                    460
+                  ],
+                  "type": "text",
+                  "content": "hectic days in April. NAB gathers 100,000",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                462,
+                511,
+                478
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    462,
+                    511,
+                    478
+                  ],
+                  "type": "text",
+                  "content": "participants from film and TV. It's a very",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                479,
+                499,
+                494
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    479,
+                    499,
+                    494
+                  ],
+                  "type": "text",
+                  "content": "efficient way of meeting people in the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                496,
+                528,
+                511
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    496,
+                    528,
+                    511
+                  ],
+                  "type": "text",
+                  "content": "business, and getting an updated picture of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                512,
+                521,
+                528
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    512,
+                    521,
+                    528
+                  ],
+                  "type": "text",
+                  "content": "the business landscape. The most exciting",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                530,
+                516,
+                544
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    530,
+                    516,
+                    544
+                  ],
+                  "type": "text",
+                  "content": "meeting was with PIX System, one of our",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                548,
+                487,
+                560
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    548,
+                    487,
+                    560
+                  ],
+                  "type": "text",
+                  "content": "most important competitors. It was",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                564,
+                521,
+                577
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    564,
+                    521,
+                    577
+                  ],
+                  "type": "text",
+                  "content": "interesting to note that they regarded the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                579,
+                501,
+                595
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    579,
+                    501,
+                    595
+                  ],
+                  "type": "text",
+                  "content": "indie market as bigger than their own.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9872,
+          "bbox": [
+            300,
+            597,
+            541,
+            764
+          ],
+          "index": 9,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                320,
+                597,
+                493,
+                610
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    320,
+                    597,
+                    493,
+                    610
+                  ],
+                  "type": "text",
+                  "content": "Andreas was able to secure us an",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                614,
+                538,
+                627
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    614,
+                    538,
+                    627
+                  ],
+                  "type": "text",
+                  "content": "invitation to the DIT-WIT party, with some of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                631,
+                539,
+                644
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    631,
+                    539,
+                    644
+                  ],
+                  "type": "text",
+                  "content": "the world's leading DITs in attendance. It was",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                647,
+                540,
+                661
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    647,
+                    540,
+                    661
+                  ],
+                  "type": "text",
+                  "content": "a great place for informal feedback on Drylab",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                664,
+                512,
+                678
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    664,
+                    512,
+                    678
+                  ],
+                  "type": "text",
+                  "content": "Viewer. The pattern was the same as for",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                680,
+                519,
+                695
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    680,
+                    519,
+                    695
+                  ],
+                  "type": "text",
+                  "content": "other users: Initial polite interest turns to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                698,
+                538,
+                711
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    698,
+                    538,
+                    711
+                  ],
+                  "type": "text",
+                  "content": "real enthusiasm the moment someone is able",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                715,
+                516,
+                729
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    715,
+                    516,
+                    729
+                  ],
+                  "type": "text",
+                  "content": "to personally try Drylab Viewer! We also",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                732,
+                524,
+                745
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    732,
+                    524,
+                    745
+                  ],
+                  "type": "text",
+                  "content": "met with Pomfort and Apple about our on-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                749,
+                514,
+                762
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    749,
+                    514,
+                    762
+                  ],
+                  "type": "text",
+                  "content": "going collaborations; ARRI and Teradek/",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page_idx": 1,
+      "page_size": [
+        595,
+        841
+      ],
+      "discarded_blocks": [],
+      "para_blocks": [
+        {
+          "score": 0.9743,
+          "bbox": [
+            52,
+            58,
+            288,
+            107
+          ],
+          "index": 1,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                54,
+                59,
+                258,
+                72
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    59,
+                    258,
+                    72
+                  ],
+                  "type": "text",
+                  "content": "Holmsen, Torstein Hansen, and Jostein",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                76,
+                286,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    76,
+                    286,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "Aanensen. We look forward to working with",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                52,
+                92,
+                82,
+                107
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    52,
+                    92,
+                    82,
+                    107
+                  ],
+                  "type": "text",
+                  "content": "you!",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            52,
+            59,
+            286,
+            107
+          ]
+        },
+        {
+          "score": 0.9872,
+          "bbox": [
+            53,
+            117,
+            286,
+            334
+          ],
+          "index": 2,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                117,
+                270,
+                131
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    117,
+                    270,
+                    131
+                  ],
+                  "type": "text",
+                  "content": "Sales: Return customer rate is now 80%,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                135,
+                271,
+                149
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    135,
+                    271,
+                    149
+                  ],
+                  "type": "text",
+                  "content": "proving value and willingness to pay. Film",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                152,
+                268,
+                164
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    152,
+                    268,
+                    164
+                  ],
+                  "type": "text",
+                  "content": "Factory Montreal is our first customer in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                168,
+                280,
+                182
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    168,
+                    280,
+                    182
+                  ],
+                  "type": "text",
+                  "content": "Canada. Lumiere Numeriques have started",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                185,
+                248,
+                199
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    185,
+                    248,
+                    199
+                  ],
+                  "type": "text",
+                  "content": "using us in France. We also have new",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                202,
+                285,
+                216
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    202,
+                    285,
+                    216
+                  ],
+                  "type": "text",
+                  "content": "customers in Norway, and high-profile users",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                219,
+                275,
+                232
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    219,
+                    275,
+                    232
+                  ],
+                  "type": "text",
+                  "content": "such as Gareth Unwin, producer of Oscar-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                235,
+                284,
+                249
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    235,
+                    284,
+                    249
+                  ],
+                  "type": "text",
+                  "content": "winning The King's Speech. Revenue for the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                251,
+                285,
+                266
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    251,
+                    285,
+                    266
+                  ],
+                  "type": "text",
+                  "content": "first four months is 200 kNOK, compared to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                267,
+                278,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    267,
+                    278,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "339 kNOK for all of 2016. We are working",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                286,
+                251,
+                299
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    286,
+                    251,
+                    299
+                  ],
+                  "type": "text",
+                  "content": "on a partnership to safeguard sales in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                302,
+                274,
+                317
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    302,
+                    274,
+                    317
+                  ],
+                  "type": "text",
+                  "content": "Norway while beginning to focus more on",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                319,
+                96,
+                332
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    319,
+                    96,
+                    332
+                  ],
+                  "type": "text",
+                  "content": "the US.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            54,
+            117,
+            285,
+            332
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            56,
+            345,
+            290,
+            502
+          ],
+          "blocks": [
+            {
+              "score": 0.9852,
+              "bbox": [
+                56,
+                345,
+                290,
+                502
+              ],
+              "index": 3,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    345,
+                    290,
+                    502
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        345,
+                        290,
+                        502
+                      ],
+                      "type": "image",
+                      "image_path": "447d702993e670dbc7153099b18054c9d31f555e86123dfc248dd791de80d372.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 3,
+          "score": 0.9852
+        },
+        {
+          "score": 0.9849,
+          "bbox": [
+            53,
+            516,
+            291,
+            734
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                517,
+                290,
+                530
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    517,
+                    290,
+                    530
+                  ],
+                  "type": "text",
+                  "content": "New team members: We've extended our",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                534,
+                291,
+                548
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    534,
+                    291,
+                    548
+                  ],
+                  "type": "text",
+                  "content": "organization with two permanent developers",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                551,
+                289,
+                563
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    551,
+                    289,
+                    563
+                  ],
+                  "type": "text",
+                  "content": "based in Łódź, the film capital of Poland. Two",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                567,
+                283,
+                581
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    567,
+                    283,
+                    581
+                  ],
+                  "type": "text",
+                  "content": "highly skilled interns from the University of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                583,
+                271,
+                599
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    583,
+                    271,
+                    599
+                  ],
+                  "type": "text",
+                  "content": "Oslo's Entrepreneurship Program, will be",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                600,
+                282,
+                615
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    600,
+                    282,
+                    615
+                  ],
+                  "type": "text",
+                  "content": "working on market research until mid-June",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                617,
+                266,
+                632
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    617,
+                    266,
+                    632
+                  ],
+                  "type": "text",
+                  "content": "(starting in March), preparing for the US",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                634,
+                288,
+                649
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    634,
+                    288,
+                    649
+                  ],
+                  "type": "text",
+                  "content": "launch. Also, two computer science students",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                651,
+                262,
+                666
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    651,
+                    262,
+                    666
+                  ],
+                  "type": "text",
+                  "content": "are working as part-time interns during",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                668,
+                266,
+                683
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    668,
+                    266,
+                    683
+                  ],
+                  "type": "text",
+                  "content": "spring, on machine learning and analysis",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                685,
+                286,
+                699
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    685,
+                    286,
+                    699
+                  ],
+                  "type": "text",
+                  "content": "research, as well as innovative architectures",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                701,
+                275,
+                717
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    701,
+                    275,
+                    717
+                  ],
+                  "type": "text",
+                  "content": "based on the Swift language. We hope our",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                718,
+                249,
+                732
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    718,
+                    249,
+                    732
+                  ],
+                  "type": "text",
+                  "content": "interns will consider sticking around!",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            54,
+            517,
+            291,
+            732
+          ]
+        },
+        {
+          "score": 0.9602,
+          "bbox": [
+            53,
+            743,
+            288,
+            775
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                54,
+                743,
+                264,
+                758
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    743,
+                    264,
+                    758
+                  ],
+                  "type": "text",
+                  "content": "New mentor: We are honored to have",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                759,
+                287,
+                776
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    759,
+                    287,
+                    776
+                  ],
+                  "type": "text",
+                  "content": "Caitlin Burns joining us as a mentor. She's an",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                58,
+                529,
+                73
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    58,
+                    529,
+                    73
+                  ],
+                  "type": "text",
+                  "content": "accomplished producer based in New York,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                76,
+                531,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    76,
+                    531,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "an active member of the Producers Guild of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                92,
+                526,
+                106
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    92,
+                    526,
+                    106
+                  ],
+                  "type": "text",
+                  "content": "America, and the collaboration has already",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                109,
+                509,
+                123
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    109,
+                    509,
+                    123
+                  ],
+                  "type": "text",
+                  "content": "yielded good results, including valuable",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                126,
+                527,
+                140
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    126,
+                    527,
+                    140
+                  ],
+                  "type": "text",
+                  "content": "contacts for our visit in Los Angeles. Oscar-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                142,
+                530,
+                157
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    142,
+                    530,
+                    157
+                  ],
+                  "type": "text",
+                  "content": "winning VFX supervisor Dave Stump joined",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                159,
+                355,
+                172
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    159,
+                    355,
+                    172
+                  ],
+                  "type": "text",
+                  "content": "us earlier.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            54,
+            743,
+            287,
+            776
+          ]
+        },
+        {
+          "score": 0.9843,
+          "bbox": [
+            300,
+            58,
+            532,
+            174
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [],
+          "bbox_fs": [
+            301,
+            58,
+            531,
+            172
+          ],
+          "lines_deleted": true
+        },
+        {
+          "score": 0.9867,
+          "bbox": [
+            300,
+            184,
+            537,
+            386
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                303,
+                185,
+                536,
+                199
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    185,
+                    536,
+                    199
+                  ],
+                  "type": "text",
+                  "content": "New York, St. Louis, San Francisco and",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                203,
+                531,
+                216
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    203,
+                    531,
+                    216
+                  ],
+                  "type": "text",
+                  "content": "Los Angeles: Pontus and Audun did a tour",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                218,
+                521,
+                233
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    218,
+                    521,
+                    233
+                  ],
+                  "type": "text",
+                  "content": "of the US in February and March, meeting",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                236,
+                536,
+                249
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    236,
+                    536,
+                    249
+                  ],
+                  "type": "text",
+                  "content": "users, partners and potential customers. The",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                252,
+                520,
+                267
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    252,
+                    520,
+                    267
+                  ],
+                  "type": "text",
+                  "content": "trip was very successful, with several high",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                269,
+                527,
+                284
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    269,
+                    527,
+                    284
+                  ],
+                  "type": "text",
+                  "content": "points, including meetings with Netflix, the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                286,
+                495,
+                300
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    286,
+                    495,
+                    300
+                  ],
+                  "type": "text",
+                  "content": "Academy of Motion Picture Arts and",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                303,
+                443,
+                316
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    303,
+                    443,
+                    316
+                  ],
+                  "type": "text",
+                  "content": "Sciences, the International",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                320,
+                511,
+                333
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    320,
+                    511,
+                    333
+                  ],
+                  "type": "text",
+                  "content": "Cinematographers Guild, Local 871 (the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                336,
+                534,
+                351
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    336,
+                    534,
+                    351
+                  ],
+                  "type": "text",
+                  "content": "script supervisors' union), one of the world's",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                353,
+                518,
+                368
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    353,
+                    518,
+                    368
+                  ],
+                  "type": "text",
+                  "content": "leading DITs, and Apple. See the separate",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                369,
+                519,
+                385
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    369,
+                    519,
+                    385
+                  ],
+                  "type": "text",
+                  "content": "attachment for a more detailed summary.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            301,
+            185,
+            536,
+            385
+          ]
+        },
+        {
+          "score": 0.9866,
+          "bbox": [
+            300,
+            394,
+            529,
+            595
+          ],
+          "index": 8,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                302,
+                394,
+                522,
+                408
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    394,
+                    522,
+                    408
+                  ],
+                  "type": "text",
+                  "content": "NAB: Andreas and Audun travelled to the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                412,
+                498,
+                425
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    412,
+                    498,
+                    425
+                  ],
+                  "type": "text",
+                  "content": "National Association of Broadcasters",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                429,
+                512,
+                444
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    429,
+                    512,
+                    444
+                  ],
+                  "type": "text",
+                  "content": "convention (NAB) in Las Vegas for three",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                446,
+                521,
+                460
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    446,
+                    521,
+                    460
+                  ],
+                  "type": "text",
+                  "content": "hectic days in April. NAB gathers 100,000",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                462,
+                511,
+                478
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    462,
+                    511,
+                    478
+                  ],
+                  "type": "text",
+                  "content": "participants from film and TV. It's a very",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                479,
+                499,
+                494
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    479,
+                    499,
+                    494
+                  ],
+                  "type": "text",
+                  "content": "efficient way of meeting people in the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                496,
+                528,
+                511
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    496,
+                    528,
+                    511
+                  ],
+                  "type": "text",
+                  "content": "business, and getting an updated picture of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                512,
+                521,
+                528
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    512,
+                    521,
+                    528
+                  ],
+                  "type": "text",
+                  "content": "the business landscape. The most exciting",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                530,
+                516,
+                544
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    530,
+                    516,
+                    544
+                  ],
+                  "type": "text",
+                  "content": "meeting was with PIX System, one of our",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                548,
+                487,
+                560
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    548,
+                    487,
+                    560
+                  ],
+                  "type": "text",
+                  "content": "most important competitors. It was",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                564,
+                521,
+                577
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    564,
+                    521,
+                    577
+                  ],
+                  "type": "text",
+                  "content": "interesting to note that they regarded the",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                579,
+                501,
+                595
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    579,
+                    501,
+                    595
+                  ],
+                  "type": "text",
+                  "content": "indie market as bigger than their own.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            301,
+            394,
+            528,
+            595
+          ]
+        },
+        {
+          "score": 0.9872,
+          "bbox": [
+            300,
+            597,
+            541,
+            764
+          ],
+          "index": 9,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                320,
+                597,
+                493,
+                610
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    320,
+                    597,
+                    493,
+                    610
+                  ],
+                  "type": "text",
+                  "content": "Andreas was able to secure us an",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                614,
+                538,
+                627
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    614,
+                    538,
+                    627
+                  ],
+                  "type": "text",
+                  "content": "invitation to the DIT-WIT party, with some of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                631,
+                539,
+                644
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    631,
+                    539,
+                    644
+                  ],
+                  "type": "text",
+                  "content": "the world's leading DITs in attendance. It was",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                647,
+                540,
+                661
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    647,
+                    540,
+                    661
+                  ],
+                  "type": "text",
+                  "content": "a great place for informal feedback on Drylab",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                664,
+                512,
+                678
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    664,
+                    512,
+                    678
+                  ],
+                  "type": "text",
+                  "content": "Viewer. The pattern was the same as for",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                680,
+                519,
+                695
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    680,
+                    519,
+                    695
+                  ],
+                  "type": "text",
+                  "content": "other users: Initial polite interest turns to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                698,
+                538,
+                711
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    698,
+                    538,
+                    711
+                  ],
+                  "type": "text",
+                  "content": "real enthusiasm the moment someone is able",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                715,
+                516,
+                729
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    715,
+                    516,
+                    729
+                  ],
+                  "type": "text",
+                  "content": "to personally try Drylab Viewer! We also",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                303,
+                732,
+                524,
+                745
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    303,
+                    732,
+                    524,
+                    745
+                  ],
+                  "type": "text",
+                  "content": "met with Pomfort and Apple about our on-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                749,
+                514,
+                762
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    749,
+                    514,
+                    762
+                  ],
+                  "type": "text",
+                  "content": "going collaborations; ARRI and Teradek/",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            301,
+            597,
+            540,
+            762
+          ]
+        }
+      ]
+    },
+    {
+      "preproc_blocks": [
+        {
+          "score": 0.9712,
+          "bbox": [
+            53,
+            58,
+            286,
+            91
+          ],
+          "index": 1,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                57,
+                286,
+                74
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    57,
+                    286,
+                    74
+                  ],
+                  "type": "text",
+                  "content": "Paralinx about camera integration; Amazon,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                74,
+                267,
+                91
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    74,
+                    267,
+                    91
+                  ],
+                  "type": "text",
+                  "content": "Google and IBM about cloud computing.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9868,
+          "bbox": [
+            52,
+            99,
+            291,
+            217
+          ],
+          "index": 2,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                98,
+                290,
+                116
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    98,
+                    290,
+                    116
+                  ],
+                  "type": "text",
+                  "content": "WWDC and Silicon Valley: We were very",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                56,
+                118,
+                291,
+                132
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    56,
+                    118,
+                    291,
+                    132
+                  ],
+                  "type": "text",
+                  "content": "pleasantly surprised to be invited by Apple to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                134,
+                288,
+                148
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    134,
+                    288,
+                    148
+                  ],
+                  "type": "text",
+                  "content": "their World Wide Developers Conference in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                151,
+                286,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    151,
+                    286,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "San Jose in June, despite not having applied.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                168,
+                287,
+                182
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    168,
+                    287,
+                    182
+                  ],
+                  "type": "text",
+                  "content": "It's a valuable chance to learn and make new",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                186,
+                288,
+                198
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    186,
+                    288,
+                    198
+                  ],
+                  "type": "text",
+                  "content": "connections. We’re also setting aside time to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                201,
+                216,
+                217
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    201,
+                    216,
+                    217
+                  ],
+                  "type": "text",
+                  "content": "meet other potential partners.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9853,
+          "bbox": [
+            52,
+            226,
+            289,
+            310
+          ],
+          "index": 3,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                226,
+                281,
+                241
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    226,
+                    281,
+                    241
+                  ],
+                  "type": "text",
+                  "content": "Cine Gear: We have decided not to attend",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                243,
+                270,
+                259
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    243,
+                    270,
+                    259
+                  ],
+                  "type": "text",
+                  "content": "the Cine Gear expo in L.A. this year, since",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                261,
+                277,
+                274
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    261,
+                    277,
+                    274
+                  ],
+                  "type": "text",
+                  "content": "feedback from many users about the show",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                277,
+                288,
+                291
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    277,
+                    288,
+                    291
+                  ],
+                  "type": "text",
+                  "content": "were mixed, and our planned beta version of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                294,
+                171,
+                309
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    294,
+                    171,
+                    309
+                  ],
+                  "type": "text",
+                  "content": "3.0 is slightly delayed.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9818,
+          "bbox": [
+            52,
+            318,
+            287,
+            385
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                318,
+                288,
+                335
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    318,
+                    288,
+                    335
+                  ],
+                  "type": "text",
+                  "content": "Development and launch: Development",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                336,
+                265,
+                351
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    336,
+                    265,
+                    351
+                  ],
+                  "type": "text",
+                  "content": "is around one month behind our original",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                352,
+                281,
+                369
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    352,
+                    281,
+                    369
+                  ],
+                  "type": "text",
+                  "content": "schedule. We expect the delay to decrease,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                370,
+                217,
+                384
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    370,
+                    217,
+                    384
+                  ],
+                  "type": "text",
+                  "content": "with new developers on board.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9846,
+          "bbox": [
+            300,
+            58,
+            540,
+            141
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                320,
+                57,
+                539,
+                73
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    320,
+                    57,
+                    539,
+                    73
+                  ],
+                  "type": "text",
+                  "content": "The launch of Drylab 3.0 will take place at",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                75,
+                528,
+                89
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    75,
+                    528,
+                    89
+                  ],
+                  "type": "text",
+                  "content": "the International Broadcasters Convention",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                92,
+                511,
+                106
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    92,
+                    511,
+                    106
+                  ],
+                  "type": "text",
+                  "content": "in Amsterdam in September, and we are",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                109,
+                539,
+                123
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    109,
+                    539,
+                    123
+                  ],
+                  "type": "text",
+                  "content": "working hard to get solid feedback from pilot",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                126,
+                399,
+                140
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    126,
+                    399,
+                    140
+                  ],
+                  "type": "text",
+                  "content": "users before then.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9798,
+          "bbox": [
+            299,
+            150,
+            531,
+            217
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                302,
+                151,
+                529,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    151,
+                    529,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "Annual General Meeting: Drylab's AGM",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                168,
+                499,
+                182
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    168,
+                    499,
+                    182
+                  ],
+                  "type": "text",
+                  "content": "will be held on June 16th at 15:00. An",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                183,
+                521,
+                199
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    183,
+                    521,
+                    199
+                  ],
+                  "type": "text",
+                  "content": "invitation will be distributed to all owners",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                201,
+                526,
+                216
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    201,
+                    526,
+                    216
+                  ],
+                  "type": "text",
+                  "content": "well in advance. We hope to see you there!",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "score": 0.9855,
+          "bbox": [
+            299,
+            226,
+            540,
+            345
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                301,
+                226,
+                515,
+                241
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    226,
+                    515,
+                    241
+                  ],
+                  "type": "text",
+                  "content": "As you can see it has been a hectic",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                244,
+                497,
+                259
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    244,
+                    497,
+                    259
+                  ],
+                  "type": "text",
+                  "content": "spring that has given us a lot of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                261,
+                523,
+                275
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    261,
+                    523,
+                    275
+                  ],
+                  "type": "text",
+                  "content": "confirmation about our product. We",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                278,
+                513,
+                292
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    278,
+                    513,
+                    292
+                  ],
+                  "type": "text",
+                  "content": "are now working eagerly and hard",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                300,
+                293,
+                540,
+                311
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    300,
+                    293,
+                    540,
+                    311
+                  ],
+                  "type": "text",
+                  "content": "towards the US launch with Drylab 3.0,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                311,
+                527,
+                328
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    311,
+                    527,
+                    328
+                  ],
+                  "type": "text",
+                  "content": "while keeping momentum in Europe",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                327,
+                458,
+                345
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    327,
+                    458,
+                    345
+                  ],
+                  "type": "text",
+                  "content": "with our existing system.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            515,
+            358,
+            537,
+            379
+          ],
+          "blocks": [
+            {
+              "score": 0.8434,
+              "bbox": [
+                515,
+                358,
+                537,
+                379
+              ],
+              "index": 8,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    515,
+                    358,
+                    537,
+                    379
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        515,
+                        358,
+                        537,
+                        379
+                      ],
+                      "type": "image",
+                      "image_path": "52966f3d08e4ef66ecf3da230f137f0e2ffd936733df5b3f580720c69d55fe42.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 8,
+          "score": 0.8434
+        },
+        {
+          "type": "image",
+          "bbox": [
+            55,
+            415,
+            538,
+            737
+          ],
+          "blocks": [
+            {
+              "score": 0.9879,
+              "bbox": [
+                55,
+                415,
+                538,
+                737
+              ],
+              "index": 9,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    55,
+                    415,
+                    538,
+                    737
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        55,
+                        415,
+                        538,
+                        737
+                      ],
+                      "type": "image",
+                      "image_path": "655217ac4ae3fb726c79b12057aea81ad65688d89ef673eab52b5237864ce642.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "score": 0.8613,
+              "bbox": [
+                53,
+                751,
+                534,
+                784
+              ],
+              "index": 10,
+              "type": "image_footnote",
+              "lines": [
+                {
+                  "bbox": [
+                    54,
+                    751,
+                    535,
+                    767
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        54,
+                        751,
+                        535,
+                        767
+                      ],
+                      "type": "text",
+                      "content": "[Drylab has kindly allowed this newsletter to be redone in HTML/CSS and converted to PDF",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    54,
+                    767,
+                    384,
+                    785
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        54,
+                        767,
+                        384,
+                        785
+                      ],
+                      "type": "text",
+                      "content": "with Prince. Navngen helped anonymize names in the process.]",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 9,
+          "score": 0.9879
+        }
+      ],
+      "page_idx": 2,
+      "page_size": [
+        595,
+        841
+      ],
+      "discarded_blocks": [],
+      "para_blocks": [
+        {
+          "score": 0.9712,
+          "bbox": [
+            53,
+            58,
+            286,
+            91
+          ],
+          "index": 1,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                57,
+                286,
+                74
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    57,
+                    286,
+                    74
+                  ],
+                  "type": "text",
+                  "content": "Paralinx about camera integration; Amazon,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                74,
+                267,
+                91
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    74,
+                    267,
+                    91
+                  ],
+                  "type": "text",
+                  "content": "Google and IBM about cloud computing.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            55,
+            57,
+            286,
+            91
+          ]
+        },
+        {
+          "score": 0.9868,
+          "bbox": [
+            52,
+            99,
+            291,
+            217
+          ],
+          "index": 2,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                98,
+                290,
+                116
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    98,
+                    290,
+                    116
+                  ],
+                  "type": "text",
+                  "content": "WWDC and Silicon Valley: We were very",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                56,
+                118,
+                291,
+                132
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    56,
+                    118,
+                    291,
+                    132
+                  ],
+                  "type": "text",
+                  "content": "pleasantly surprised to be invited by Apple to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                134,
+                288,
+                148
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    134,
+                    288,
+                    148
+                  ],
+                  "type": "text",
+                  "content": "their World Wide Developers Conference in",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                151,
+                286,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    151,
+                    286,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "San Jose in June, despite not having applied.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                168,
+                287,
+                182
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    168,
+                    287,
+                    182
+                  ],
+                  "type": "text",
+                  "content": "It's a valuable chance to learn and make new",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                186,
+                288,
+                198
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    186,
+                    288,
+                    198
+                  ],
+                  "type": "text",
+                  "content": "connections. We’re also setting aside time to",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                201,
+                216,
+                217
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    201,
+                    216,
+                    217
+                  ],
+                  "type": "text",
+                  "content": "meet other potential partners.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            54,
+            98,
+            291,
+            217
+          ]
+        },
+        {
+          "score": 0.9853,
+          "bbox": [
+            52,
+            226,
+            289,
+            310
+          ],
+          "index": 3,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                226,
+                281,
+                241
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    226,
+                    281,
+                    241
+                  ],
+                  "type": "text",
+                  "content": "Cine Gear: We have decided not to attend",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                243,
+                270,
+                259
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    243,
+                    270,
+                    259
+                  ],
+                  "type": "text",
+                  "content": "the Cine Gear expo in L.A. this year, since",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                261,
+                277,
+                274
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    261,
+                    277,
+                    274
+                  ],
+                  "type": "text",
+                  "content": "feedback from many users about the show",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                277,
+                288,
+                291
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    277,
+                    288,
+                    291
+                  ],
+                  "type": "text",
+                  "content": "were mixed, and our planned beta version of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                294,
+                171,
+                309
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    294,
+                    171,
+                    309
+                  ],
+                  "type": "text",
+                  "content": "3.0 is slightly delayed.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            54,
+            226,
+            288,
+            309
+          ]
+        },
+        {
+          "score": 0.9818,
+          "bbox": [
+            52,
+            318,
+            287,
+            385
+          ],
+          "index": 4,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                55,
+                318,
+                288,
+                335
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    318,
+                    288,
+                    335
+                  ],
+                  "type": "text",
+                  "content": "Development and launch: Development",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                54,
+                336,
+                265,
+                351
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    54,
+                    336,
+                    265,
+                    351
+                  ],
+                  "type": "text",
+                  "content": "is around one month behind our original",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                352,
+                281,
+                369
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    352,
+                    281,
+                    369
+                  ],
+                  "type": "text",
+                  "content": "schedule. We expect the delay to decrease,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                55,
+                370,
+                217,
+                384
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    55,
+                    370,
+                    217,
+                    384
+                  ],
+                  "type": "text",
+                  "content": "with new developers on board.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            54,
+            318,
+            288,
+            384
+          ]
+        },
+        {
+          "score": 0.9846,
+          "bbox": [
+            300,
+            58,
+            540,
+            141
+          ],
+          "index": 5,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                320,
+                57,
+                539,
+                73
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    320,
+                    57,
+                    539,
+                    73
+                  ],
+                  "type": "text",
+                  "content": "The launch of Drylab 3.0 will take place at",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                75,
+                528,
+                89
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    75,
+                    528,
+                    89
+                  ],
+                  "type": "text",
+                  "content": "the International Broadcasters Convention",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                92,
+                511,
+                106
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    92,
+                    511,
+                    106
+                  ],
+                  "type": "text",
+                  "content": "in Amsterdam in September, and we are",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                109,
+                539,
+                123
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    109,
+                    539,
+                    123
+                  ],
+                  "type": "text",
+                  "content": "working hard to get solid feedback from pilot",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                126,
+                399,
+                140
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    126,
+                    399,
+                    140
+                  ],
+                  "type": "text",
+                  "content": "users before then.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            301,
+            57,
+            539,
+            140
+          ]
+        },
+        {
+          "score": 0.9798,
+          "bbox": [
+            299,
+            150,
+            531,
+            217
+          ],
+          "index": 6,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                302,
+                151,
+                529,
+                165
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    151,
+                    529,
+                    165
+                  ],
+                  "type": "text",
+                  "content": "Annual General Meeting: Drylab's AGM",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                168,
+                499,
+                182
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    168,
+                    499,
+                    182
+                  ],
+                  "type": "text",
+                  "content": "will be held on June 16th at 15:00. An",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                183,
+                521,
+                199
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    183,
+                    521,
+                    199
+                  ],
+                  "type": "text",
+                  "content": "invitation will be distributed to all owners",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                201,
+                526,
+                216
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    201,
+                    526,
+                    216
+                  ],
+                  "type": "text",
+                  "content": "well in advance. We hope to see you there!",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            301,
+            151,
+            529,
+            216
+          ]
+        },
+        {
+          "score": 0.9855,
+          "bbox": [
+            299,
+            226,
+            540,
+            345
+          ],
+          "index": 7,
+          "type": "text",
+          "lines": [
+            {
+              "bbox": [
+                301,
+                226,
+                515,
+                241
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    226,
+                    515,
+                    241
+                  ],
+                  "type": "text",
+                  "content": "As you can see it has been a hectic",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                244,
+                497,
+                259
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    244,
+                    497,
+                    259
+                  ],
+                  "type": "text",
+                  "content": "spring that has given us a lot of",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                302,
+                261,
+                523,
+                275
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    302,
+                    261,
+                    523,
+                    275
+                  ],
+                  "type": "text",
+                  "content": "confirmation about our product. We",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                278,
+                513,
+                292
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    278,
+                    513,
+                    292
+                  ],
+                  "type": "text",
+                  "content": "are now working eagerly and hard",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                300,
+                293,
+                540,
+                311
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    300,
+                    293,
+                    540,
+                    311
+                  ],
+                  "type": "text",
+                  "content": "towards the US launch with Drylab 3.0,",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                311,
+                527,
+                328
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    311,
+                    527,
+                    328
+                  ],
+                  "type": "text",
+                  "content": "while keeping momentum in Europe",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                301,
+                327,
+                458,
+                345
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    301,
+                    327,
+                    458,
+                    345
+                  ],
+                  "type": "text",
+                  "content": "with our existing system.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "bbox_fs": [
+            300,
+            226,
+            540,
+            345
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            515,
+            358,
+            537,
+            379
+          ],
+          "blocks": [
+            {
+              "score": 0.8434,
+              "bbox": [
+                515,
+                358,
+                537,
+                379
+              ],
+              "index": 8,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    515,
+                    358,
+                    537,
+                    379
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        515,
+                        358,
+                        537,
+                        379
+                      ],
+                      "type": "image",
+                      "image_path": "52966f3d08e4ef66ecf3da230f137f0e2ffd936733df5b3f580720c69d55fe42.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 8,
+          "score": 0.8434
+        },
+        {
+          "type": "image",
+          "bbox": [
+            55,
+            415,
+            538,
+            737
+          ],
+          "blocks": [
+            {
+              "score": 0.9879,
+              "bbox": [
+                55,
+                415,
+                538,
+                737
+              ],
+              "index": 9,
+              "type": "image_body",
+              "lines": [
+                {
+                  "bbox": [
+                    55,
+                    415,
+                    538,
+                    737
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        55,
+                        415,
+                        538,
+                        737
+                      ],
+                      "type": "image",
+                      "image_path": "655217ac4ae3fb726c79b12057aea81ad65688d89ef673eab52b5237864ce642.jpg"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "score": 0.8613,
+              "bbox": [
+                53,
+                751,
+                534,
+                784
+              ],
+              "index": 10,
+              "type": "image_footnote",
+              "lines": [
+                {
+                  "bbox": [
+                    54,
+                    751,
+                    535,
+                    767
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        54,
+                        751,
+                        535,
+                        767
+                      ],
+                      "type": "text",
+                      "content": "[Drylab has kindly allowed this newsletter to be redone in HTML/CSS and converted to PDF",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    54,
+                    767,
+                    384,
+                    785
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        54,
+                        767,
+                        384,
+                        785
+                      ],
+                      "type": "text",
+                      "content": "with Prince. Navngen helped anonymize names in the process.]",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "index": 9,
+          "score": 0.9879
+        }
+      ]
+    }
+  ],
+  "_backend": "pipeline",
+  "_version_name": "3.2.3",
+  "runtime_seconds": 28.70525074005127
+}

@@ -1,0 +1,24 @@
+# =============================================================================
+# Torch-based extraction tools: MinerU, Docling, Granite Docling.
+#
+# Install into the torch venv (.venv):
+#   uv venv .venv --python 3.11
+#   VIRTUAL_ENV=.venv uv pip install -r requirements-torch.txt
+#
+# Do NOT install paddlepaddle/paddleocr in this environment — it breaks torch.
+# =============================================================================
+-r requirements.txt
+
+torch>=2.12.0
+torchvision>=0.27.0
+
+# Docling (also provides the Granite Docling pipeline via the `docling` CLI)
+docling>=2.97.0
+
+# MinerU. NOTE: the adapter runs it with `--backend pipeline` (see
+# adapters/mineru.py) to avoid the transformers 5.x VLM incompatibility.
+mineru>=3.2.0
+
+# OpenDataLoader PDF (rule-based, no ML/GPU). Wraps a Java engine, so it also
+# requires a system Java 11+ (e.g. `sudo apt install openjdk-17-jre-headless`).
+opendataloader-pdf>=2.4.7

@@ -1,0 +1,3915 @@
+{
+  "file name": "Leaflet Nicard inj -CS. 1.pdf",
+  "number of pages": 1,
+  "author": null,
+  "title": "22201534 - Nicard - Leaflet",
+  "creation date": "D:20251110164149+06'30'",
+  "modification date": "D:20251110164149+05'30'",
+  "kids": [
+    {
+      "type": "paragraph",
+      "pdfua_tag": "P",
+      "id": 2,
+      "page number": 1,
+      "bounding box": [
+        179.165,
+        1699.842,
+        1378.609,
+        1725.622
+      ],
+      "font": "Helvetica-Bold",
+      "font size": 10.0,
+      "text color": "[0.0, 1.0, 0.0, 0.0]",
+      "content": "920 mm 100 mm"
+    },
+    {
+      "type": "text block",
+      "id": 1,
+      "page number": 1,
+      "bounding box": [
+        56.693,
+        413.855,
+        2664.567,
+        1689.446
+      ],
+      "kids": [
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 57,
+          "page number": 1,
+          "bounding box": [
+            85.039,
+            1571.131,
+            331.767,
+            1663.075
+          ],
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "HIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use NICARDIPINE HYDROCHLORIDE IN SODIUM CHLORIDE INJECTION safely and effectively. See full prescribing information for NICARDIPINE HYDROCHLORIDE IN SODIUM CHLORIDE INJECTION. NICARDIPINE HYDROCHLORIDE IN SODIUM CHLORIDE injection, for intravenous use Initial U.S. Approval: 1988 Rx Only"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 58,
+          "level": "1",
+          "page number": 1,
+          "bounding box": [
+            85.039,
+            1528.155,
+            331.679,
+            1565.339
+          ],
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "----------------------------RECENT MAJOR CHANGES---------------------------Dosage Forms and Strengths (3) 08/2024 ----------------------------INDICATIONS AND USAGE----------------------------"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 59,
+          "page number": 1,
+          "bounding box": [
+            85.039,
+            1496.619,
+            331.663,
+            1524.971
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Nicardipine hydrochloride in 0.9% sodium chloride injection is a calcium channel blocker indicated for the short-term treatment of hypertension when oral therapy is not feasible. (1)"
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 60,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            85.055,
+            1481.251,
+            331.535,
+            1490.731
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "-------------------------DOSAGE AND ADMINISTRATION-------------------------"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 61,
+          "level": "2",
+          "page number": 1,
+          "bounding box": [
+            99.231,
+            1440.115,
+            331.767,
+            1478.067
+          ],
+          "numbering style": "unordered",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.231,
+                1459.315,
+                331.767,
+                1478.067
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Individualize dosage based upon the severity of hypertension and response of the patient during dosing (2.1).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.239,
+                1440.115,
+                331.735,
+                1458.867
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• When substituting for oral nicardipine therapy, use the intravenous infusion rate as follows (2.3):",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "pdfua_tag": "Table",
+          "id": 62,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            85.039,
+            1386.112,
+            331.654,
+            1432.137
+          ],
+          "number of rows": 4,
+          "number of columns": 2,
+          "rows": [
+            {
+              "type": "table row",
+              "row number": 1,
+              "cells": [
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    85.289,
+                    1420.505,
+                    208.346,
+                    1431.636
+                  ],
+                  "row number": 1,
+                  "column number": 1,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 1,
+                      "page number": 1,
+                      "bounding box": [
+                        88.124,
+                        1421.548,
+                        156.804,
+                        1431.028
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "Oral Nicardipine Dose"
+                    }
+                  ]
+                },
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    208.346,
+                    1420.505,
+                    331.403,
+                    1431.636
+                  ],
+                  "row number": 1,
+                  "column number": 2,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 2,
+                      "page number": 1,
+                      "bounding box": [
+                        211.18,
+                        1421.548,
+                        327.684,
+                        1431.028
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "Equivalent Intravenous Infusion Rate"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table row",
+              "row number": 2,
+              "cells": [
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    85.289,
+                    1409.124,
+                    208.346,
+                    1420.505
+                  ],
+                  "row number": 2,
+                  "column number": 1,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 3,
+                      "page number": 1,
+                      "bounding box": [
+                        88.124,
+                        1410.26,
+                        149.492,
+                        1419.412
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "20 mg every 8 hours"
+                    }
+                  ]
+                },
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    208.346,
+                    1409.124,
+                    331.403,
+                    1420.505
+                  ],
+                  "row number": 2,
+                  "column number": 2,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 4,
+                      "page number": 1,
+                      "bounding box": [
+                        211.18,
+                        1410.26,
+                        240.476,
+                        1419.412
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "0.5 mg/hr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table row",
+              "row number": 3,
+              "cells": [
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    85.289,
+                    1397.743,
+                    208.346,
+                    1409.124
+                  ],
+                  "row number": 3,
+                  "column number": 1,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 5,
+                      "page number": 1,
+                      "bounding box": [
+                        88.124,
+                        1398.876,
+                        149.492,
+                        1408.028
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "30 mg every 8 hours"
+                    }
+                  ]
+                },
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    208.346,
+                    1397.743,
+                    331.403,
+                    1409.124
+                  ],
+                  "row number": 3,
+                  "column number": 2,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 6,
+                      "page number": 1,
+                      "bounding box": [
+                        211.18,
+                        1398.876,
+                        240.476,
+                        1408.028
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "1.2 mg/hr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table row",
+              "row number": 4,
+              "cells": [
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    85.289,
+                    1386.612,
+                    208.346,
+                    1397.743
+                  ],
+                  "row number": 4,
+                  "column number": 1,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 7,
+                      "page number": 1,
+                      "bounding box": [
+                        88.124,
+                        1387.492,
+                        149.492,
+                        1396.644
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "40 mg every 8 hours"
+                    }
+                  ]
+                },
+                {
+                  "type": "table cell",
+                  "pdfua_tag": "TD",
+                  "page number": 1,
+                  "bounding box": [
+                    208.346,
+                    1386.612,
+                    331.403,
+                    1397.743
+                  ],
+                  "row number": 4,
+                  "column number": 2,
+                  "row span": 1,
+                  "column span": 1,
+                  "kids": [
+                    {
+                      "type": "paragraph",
+                      "pdfua_tag": "P",
+                      "id": 8,
+                      "page number": 1,
+                      "bounding box": [
+                        211.18,
+                        1387.492,
+                        240.476,
+                        1396.644
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "2.2 mg/hr"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 63,
+          "level": "2",
+          "page number": 1,
+          "bounding box": [
+            402.52,
+            1634.492,
+            1119.096,
+            1662.843
+          ],
+          "numbering style": "unordered",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.52,
+                1644.091,
+                1119.096,
+                1662.843
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• In a drug-free patient, initiate therapy at 5 mg/hr. Increase the infusion rate by 2.5 mg/hr to a maximum of 15 mg/hr until desired blood pressure reduction is achieved. For a gradual blood pressure reduction the rate can be increased every 15 minutes, for a rapid reduction, every 5 minutes (2.4).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.52,
+                1634.492,
+                837.543,
+                1643.644
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• If hypotension or tachycardia ensues, discontinue the infusion. After stabilized, patient can be restarted at low doses such as 3 mg/hr to 5 mg/hr (2.5).",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 64,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            388.346,
+            1619.126,
+            1118.738,
+            1628.606
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "----------------------------------------------------------------------------------------------------------DOSAGEFORMSANDSTRENGTHS----------------------------------------------------------------------------------------------------------"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 65,
+          "level": "2",
+          "page number": 1,
+          "bounding box": [
+            402.514,
+            1597.19,
+            763.21,
+            1615.942
+          ],
+          "numbering style": "unordered",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.514,
+                1606.79,
+                763.21,
+                1615.942
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• 20 mg nicardipine hydrochloride in 200 mL 0.9% sodium chloride injection (0.1 mg/mL) in a single dose container (3)",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.514,
+                1597.19,
+                747.226,
+                1606.342
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• 40 mg nicardipine hydrochloride in 200 mL 0.9% sodium chloride injection (0.2 mg/mL) in a single container (3)",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 66,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            388.346,
+            1581.822,
+            1118.73,
+            1591.302
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "---------------------------------------------------------------------------------------------------------------- CONTRAINDICATIONS ---------------------------------------------------------------------------------------------------------------"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 67,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            402.514,
+            1569.486,
+            588.018,
+            1578.638
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "• Do not use in patients with advanced aortic stenosis (4.1)."
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 68,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            388.346,
+            1554.118,
+            1117.338,
+            1563.598
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "-----------------------------------------------------------------------------------------------------------WARNINGS AND PRECAUTIONS ----------------------------------------------------------------------------------------------------------"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 69,
+          "level": "2",
+          "page number": 1,
+          "bounding box": [
+            402.514,
+            1512.982,
+            1043.042,
+            1550.934
+          ],
+          "numbering style": "unordered",
+          "number of list items": 4,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.514,
+                1541.782,
+                1043.042,
+                1550.934
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• To reduce the possibility of venous thrombosis, phlebitis, and vascular impairment, do not use small veins, such as those on the dorsum of the hand or wrist. Avoid intraarterial administration or extravasation (5.7).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.53,
+                1532.182,
+                751.874,
+                1541.334
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• To minimize the risk of peripheral venous irritation, change the site of infusion of nicardipine every 12 hours (5.7).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.538,
+                1522.582,
+                895.85,
+                1531.734
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Nicardipine is not a beta-blocker and therefore gives no protection against the dangers of abrupt beta-blocker withdrawal. Withdraw beta-blockers gradually (5.8).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.546,
+                1512.982,
+                1006.538,
+                1522.134
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Closely monitor response in patients with angina (5.3), congestive heart failure (5.4), impaired hepatic function (5.5), portal hypertension (5.5), and renal impairment (5.6) and pheochromocytoma (5.9).",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 70,
+          "level": "1",
+          "page number": 1,
+          "bounding box": [
+            388.386,
+            1469.91,
+            1117.925,
+            1507.094
+          ],
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "----------------------------------------------------------------------------------------------------------------ADVERSE REACTIONS --------------------------------------------------------------------------------------------------------------Most common adverse reactions are headache (13%), hypotension (5%), tachycardia (4%) and nausea/vomiting (4%). (6) To report SUSPECTED ADVERSE REACTIONS, contact Caplin Steriles at 1-866-978-6111 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 71,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            388.402,
+            1454.638,
+            1117.85,
+            1464.118
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "-----------------------------------------------------------------------------------------------------------------DRUG INTERACTIONS---------------------------------------------------------------------------------------------------------------"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 72,
+          "level": "2",
+          "page number": 1,
+          "bounding box": [
+            402.57,
+            1432.702,
+            1026.626,
+            1451.454
+          ],
+          "numbering style": "unordered",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.57,
+                1442.302,
+                572.346,
+                1451.454
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Cimetidine increases nicardipine plasma levels (7.3).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.578,
+                1432.702,
+                1026.626,
+                1441.854
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Nicardipine may increase cyclosporine and tacrolimus plasma levels. Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended when co-administering nicardipine. (7.5, 7.6).",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 73,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            388.41,
+            1417.334,
+            1117.962,
+            1426.814
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "-----------------------------------------------------------------------------------------------------------USE IN SPECIFIC POPULATIONS ----------------------------------------------------------------------------------------------------------"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 74,
+          "level": "2",
+          "page number": 1,
+          "bounding box": [
+            402.586,
+            1376.102,
+            1118.81,
+            1414.15
+          ],
+          "numbering style": "unordered",
+          "number of list items": 3,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.586,
+                1404.998,
+                600.194,
+                1414.15
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Pregnancy: Based on animal data, may cause fetal harm (8.1).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.594,
+                1395.398,
+                737.186,
+                1404.55
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Nursing Mothers: It is recommended that women who wish to breastfeed should not be given this drug (8.3).",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.602,
+                1376.102,
+                1118.81,
+                1394.95
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "• Safety and efﬁcacy in patients under the age of 18 have not been established (8.4). Revised: 11/2025",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 75,
+          "page number": 1,
+          "bounding box": [
+            85.13,
+            1347.454,
+            232.042,
+            1356.934
+          ],
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "FULL PRESCRIBING INFORMATION: CONTENTS*"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 76,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            85.044,
+            1123.819,
+            205.082,
+            1344.502
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 4,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.13,
+                1335.022,
+                178.554,
+                1344.502
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "1 INDICATIONS AND USAGE",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 54,
+                  "level": "4",
+                  "page number": 1,
+                  "bounding box": [
+                    99.306,
+                    1306.318,
+                    171.746,
+                    1334.67
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        99.306,
+                        1325.518,
+                        152.122,
+                        1334.67
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "1.1 Hypertension",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 53,
+                          "page number": 1,
+                          "bounding box": [
+                            85.13,
+                            1315.822,
+                            197.786,
+                            1325.302
+                          ],
+                          "font": "HelveticaNeueLTPro-BdCn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "2 DOSAGE AND ADMINISTRATION"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        99.306,
+                        1306.318,
+                        171.746,
+                        1315.47
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "2.1 General Information",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.138,
+                1248.622,
+                205.082,
+                1258.102
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "3 DOSAGE FORMS AND STRENGTHS",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.138,
+                1239.022,
+                165.962,
+                1248.502
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "4 CONTRAINDICATIONS",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 55,
+                  "level": "4",
+                  "page number": 1,
+                  "bounding box": [
+                    99.314,
+                    1210.318,
+                    210.01,
+                    1238.67
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        99.314,
+                        1229.518,
+                        187.962,
+                        1238.67
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "4.1 Advanced Aortic Stenosis",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 52,
+                          "page number": 1,
+                          "bounding box": [
+                            85.138,
+                            1219.822,
+                            195.922,
+                            1229.302
+                          ],
+                          "font": "HelveticaNeueLTPro-BdCn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "5 WARNINGS AND PRECAUTIONS"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        99.314,
+                        1210.318,
+                        210.01,
+                        1219.47
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "5.1 Excessive Pharmacologic Effects",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.044,
+                1123.819,
+                166.764,
+                1133.299
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "6 ADVERSE REACTIONS",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 56,
+                  "level": "4",
+                  "page number": 1,
+                  "bounding box": [
+                    99.22,
+                    1095.115,
+                    245.468,
+                    1123.467
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        99.22,
+                        1114.315,
+                        245.468,
+                        1123.467
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "6.1 Adverse Reactions Observed in Clinical Trials",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 51,
+                          "page number": 1,
+                          "bounding box": [
+                            85.052,
+                            1104.619,
+                            165.652,
+                            1114.099
+                          ],
+                          "font": "HelveticaNeueLTPro-BdCn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "7 DRUG INTERACTIONS"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        99.228,
+                        1095.115,
+                        184.324,
+                        1104.267
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "7.1 Antihypertensive Agents",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 77,
+          "level": "5",
+          "page number": 1,
+          "bounding box": [
+            99.306,
+            1258.318,
+            272.642,
+            1305.87
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 5,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.306,
+                1296.718,
+                192.474,
+                1305.87
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2.2 Inspection and Preparation",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.306,
+                1287.118,
+                266.138,
+                1296.27
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2.3 Dosage as a Substitute for Oral Nicardipine Therapy",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.306,
+                1277.518,
+                272.642,
+                1286.67
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2.4 Dosage for Initiation of Therapy in a Drug-Free Patient",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.306,
+                1267.918,
+                234.786,
+                1277.07
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2.5 Conditions Requiring Infusion Adjustment",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.306,
+                1258.318,
+                231.466,
+                1267.47
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2.6 Transfer to Oral Antihypertensive Agents",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 78,
+          "level": "6",
+          "page number": 1,
+          "bounding box": [
+            99.212,
+            1133.515,
+            250.956,
+            1209.87
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 8,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.314,
+                1200.718,
+                216.77,
+                1209.87
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.2 Rapid Decreases in Blood Pressure",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.314,
+                1191.118,
+                193.682,
+                1200.27
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.3 Use in Patients with Angina",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.314,
+                1181.515,
+                245.516,
+                1190.67
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.4 Use in Patients with Congestive Heart Failure",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.212,
+                1171.915,
+                250.956,
+                1181.067
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.5 Use in Patients with Impaired Hepatic Function",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.212,
+                1162.315,
+                245.26,
+                1171.467
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.6 Use in Patients with Impaired Renal Function",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.212,
+                1152.715,
+                186.164,
+                1161.867
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.7 Intravenous Infusion Site",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.212,
+                1143.115,
+                186.628,
+                1152.267
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.8 Beta-Blocker Withdrawal",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                99.212,
+                1133.515,
+                232.044,
+                1142.667
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.9 Use in Patients with Pheochromocytoma",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 79,
+          "level": "7",
+          "page number": 1,
+          "bounding box": [
+            402.532,
+            1299.547,
+            470.164,
+            1356.699
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 6,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1347.547,
+                458.324,
+                1356.699
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "7.2 Beta-Blockers",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1337.947,
+                448.116,
+                1347.099
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "7.3 Cimetidine",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1328.347,
+                438.628,
+                1337.499
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "7.4 Digoxin",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1318.747,
+                454.308,
+                1327.899
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "7.5 Cyclosporine",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1309.147,
+                448.7,
+                1318.299
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "7.6 Tacrolimus",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1299.547,
+                470.164,
+                1308.699
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "7.7 In Vitro Interaction",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 80,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            388.356,
+            1289.851,
+            499.692,
+            1299.331
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "8 USE IN SPECIFIC POPULATIONS"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 81,
+          "page number": 1,
+          "bounding box": [
+            402.532,
+            1280.347,
+            447.636,
+            1289.499
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "8.1 Pregnancy"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 82,
+          "level": "8",
+          "page number": 1,
+          "bounding box": [
+            402.532,
+            1251.547,
+            465.58,
+            1279.899
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 3,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1270.747,
+                465.58,
+                1279.899
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "8.3 Nursing Mothers",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1261.147,
+                455.3,
+                1270.299
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "8.4 Pediatric Use",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.532,
+                1251.547,
+                454.54,
+                1260.699
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "8.5 Geriatric Use",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 83,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            388.356,
+            1145.851,
+            578.98,
+            1251.331
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 5,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                388.356,
+                1241.851,
+                445.364,
+                1251.331
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "10 OVERDOSAGE",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                388.356,
+                1232.251,
+                445.028,
+                1241.731
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "11 DESCRIPTION",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                388.356,
+                1222.651,
+                486.852,
+                1232.131
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "12 CLINICAL PHARMACOLOGY",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 50,
+                  "level": "6",
+                  "page number": 1,
+                  "bounding box": [
+                    402.532,
+                    1193.947,
+                    486.108,
+                    1222.299
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 3,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        402.532,
+                        1213.147,
+                        486.108,
+                        1222.299
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "12.1 Mechanism of Action",
+                      "kids": []
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        402.532,
+                        1203.547,
+                        482.468,
+                        1212.699
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "12.2 Pharmacodynamics",
+                      "kids": []
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        402.532,
+                        1193.947,
+                        476.924,
+                        1203.099
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "12.3 Pharmacokinetics",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                388.356,
+                1165.147,
+                578.98,
+                1193.731
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility 13.3 Reproductive and Developmental Toxicology",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                388.364,
+                1145.851,
+                533.052,
+                1164.931
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND HANDLING",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 84,
+          "level": "7",
+          "page number": 1,
+          "bounding box": [
+            402.54,
+            1126.747,
+            487.964,
+            1145.499
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.54,
+                1136.347,
+                465.028,
+                1145.499
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "16.1 How Supplied",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                402.54,
+                1126.747,
+                487.964,
+                1135.899
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "16.2 Storage and Handling",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 85,
+          "level": "8",
+          "page number": 1,
+          "bounding box": [
+            402.54,
+            1094.467,
+            650.444,
+            1103.619
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "*Sections or subsections omitted from the full prescribing information are not listed."
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 86,
+          "page number": 1,
+          "bounding box": [
+            85.052,
+            1062.851,
+            191.396,
+            1072.331
+          ],
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "FULL PRESCRIBING INFORMATION"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 87,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            85.052,
+            1050.419,
+            178.476,
+            1059.899
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 1,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.052,
+                1050.419,
+                178.476,
+                1059.899
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "1 INDICATIONS AND USAGE",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 49,
+                  "level": "3",
+                  "page number": 1,
+                  "bounding box": [
+                    85.052,
+                    969.051,
+                    162.444,
+                    1047.467
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        85.052,
+                        1037.987,
+                        140.98,
+                        1047.467
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "1.1 Hypertension",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 47,
+                          "page number": 1,
+                          "bounding box": [
+                            85.052,
+                            996.371,
+                            331.924,
+                            1034.803
+                          ],
+                          "font": "HelveticaNeueLTPro-Cn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "Nicardipine hydrochloride in 0.9% sodium chloride injection is indicated for the short-term treatment of hypertension when oral therapy is not feasible or desirable. For prolonged control of blood pressure, transfer patients to oral medication as soon as their clinical condition permits [see Dosage and Administration (2.6)]."
+                        },
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 48,
+                          "page number": 1,
+                          "bounding box": [
+                            85.084,
+                            981.483,
+                            197.74,
+                            990.963
+                          ],
+                          "font": "HelveticaNeueLTPro-BdCn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "2 DOSAGE AND ADMINISTRATION"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        85.084,
+                        969.051,
+                        162.444,
+                        978.531
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "2.1 General Information",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 88,
+          "page number": 1,
+          "bounding box": [
+            85.047,
+            889.028,
+            331.844,
+            965.867
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Individualize dosing based on the severity of hypertension and the response of the patient during dosing. Monitor blood pressure and heart rate both during and after the infusion to avoid tachycardia or too rapid or excessive reduction in either systolic or diastolic blood pressure. Administer nicardipine hydrochloride in 0.9% sodium chloride injection by slow continuous infusion by a central line or through a large peripheral vein. Change the infusion site every 12 hours if administered via peripheral vein [see Intravenous Infusion Site (5.7)]."
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 89,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            85.055,
+            874.14,
+            185.079,
+            883.62
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "2.2 Inspection and Preparation"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 90,
+          "page number": 1,
+          "bounding box": [
+            85.055,
+            833.004,
+            332.055,
+            870.956
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Do not use the solution if particulate matter, precipitate, or crystallization is present, or if the container appears damaged."
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 91,
+          "page number": 1,
+          "bounding box": [
+            85.071,
+            696.388,
+            331.743,
+            827.116
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Single Dose Containers Dilution is not required for nicardipine hydrochloride in 0.9% sodium chloride injection. Check the container for minute leaks prior to use; ensure that the seal is intact. If leaks are found, discard solution as sterility may be impaired. Do not combine nicardipine hydrochloride in 0.9% sodium chloride injection with any product in the same intravenous line or premixed container. Do not add supplementary medication to the bag. Protect from light until ready to use. Do not use plastic containers in series connections. Such use could result in air embolism due to residual air being drawn from the primary container before the administration of the ﬂuid from the secondary container is complete. Discard Unused Portion Preparation for administration"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 92,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            85.127,
+            665.236,
+            310.455,
+            693.588
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 3,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.127,
+                684.436,
+                209.023,
+                693.588
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "1. Suspend container from eyelet support.",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.127,
+                674.836,
+                261.327,
+                683.988
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2. Remove protector from outlet port at bottom of container.",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                85.135,
+                665.236,
+                310.455,
+                674.388
+              ],
+              "font": "HelveticaNeueLTPro-Cn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "3. Attach administration set. Refer to complete directions accompanying set.",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 93,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            85.143,
+            652.708,
+            263.607,
+            662.188
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "2.3 Dosage as a Substitute for Oral Nicardipine Therapy"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 94,
+          "page number": 1,
+          "bounding box": [
+            85.143,
+            630.772,
+            331.719,
+            649.524
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "The intravenous infusion rate required to produce an average plasma concentration equivalent to a given oral dose at steady state is shown in the following table:"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 95,
+          "page number": 1,
+          "bounding box": [
+            95.759,
+            604.532,
+            146.831,
+            623.612
+          ],
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Oral Nicardipine Dose"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 96,
+          "page number": 1,
+          "bounding box": [
+            186.351,
+            614.132,
+            302.855,
+            623.612
+          ],
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Equivalent Intravenous Infusion Rate"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 97,
+          "page number": 1,
+          "bounding box": [
+            90.494,
+            563.48,
+            259.247,
+            600.068
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "20 mg every 8 hours 0.5 mg/hr 30 mg every 8 hours 1.2 mg/hr 40 mg every 8 hours 2.2 mg/hr"
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 98,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            85.038,
+            548.112,
+            270.974,
+            557.592
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "2.4 Dosage for Initiation of Therapy in a Drug-Free Patient"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 99,
+          "page number": 1,
+          "bounding box": [
+            85.038,
+            497.376,
+            331.662,
+            544.928
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "The time course of blood pressure decrease is dependent on the initial rate of infusion and the frequency of dosage adjustment. Nicardipine hydrochloride in 0.9% sodium chloride injection is administered by slow continuous infusion at a concentration of 0.1 mg/mL. With constant infusion, blood pressure begins to fall within minutes. It reaches about 50% of its ultimate decrease in about 45 minutes."
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 100,
+          "page number": 1,
+          "bounding box": [
+            85.07,
+            456.144,
+            331.974,
+            494.096
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "When treating acute hypertensive episodes in patients with chronic hypertension, discontinuation of infusion is followed by a 50% offset of action in 30 minutes plus/ minus 7 minutes but plasma levels of drug and gradually decreasing antihypertensive effects exist for many hours."
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 102,
+          "page number": 1,
+          "bounding box": [
+            389.292,
+            1013.215,
+            1120.163,
+            1072.335
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Titration For a gradual reduction in blood pressure, initiate therapy at a rate of 5 mg/hr. If desired blood pressure reduction is not achieved at this dose, increase the infusion rate by 2.5 mg/hr every 15 minutes up to a maximum of 15 mg/hr, until desired blood pressure reduction is achieved. For more rapid blood pressure reduction, titrate every 5 minutes. Maintenance Adjust the rate of infusion as needed to maintain desired response."
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 103,
+          "level": "5",
+          "page number": 1,
+          "bounding box": [
+            389.315,
+            902.303,
+            1076.132,
+            1007.327
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.315,
+                973.079,
+                1076.132,
+                1007.327
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2.5 Conditions Requiring Infusion Adjustment Hypotension or Tachycardia: In case of hypotension or tachycardia, discontinue infusion. When blood pressure and heart rate stabilize, restart infusion at low doses such as 30 mL/hr to 50 mL/hr (3 mg/hr to 5 mg/hr) and titrate to maintain desired blood pressure.",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 39,
+                  "page number": 1,
+                  "bounding box": [
+                    389.323,
+                    917.191,
+                    1032.308,
+                    966.959
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Infusion Site Changes: Change infusion site every 12 hours if administered via peripheral vein. Impaired Cardiac, Hepatic, or Renal Function: Monitor closely when titrating nicardipine hydrochloride in 0.9% sodium chloride injection in patients with congestive heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.4, 5.5 and 5.6)]."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.331,
+                902.303,
+                531.851,
+                911.783
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "2.6 Transfer to Oral Antihypertensive Agents",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 104,
+          "page number": 1,
+          "bounding box": [
+            389.331,
+            880.367,
+            979.283,
+            899.119
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "If treatment includes transfer to an oral antihypertensive agent other than nicardipine capsules, initiate oral therapy upon discontinuation of nicardipine hydrochloride in 0.9% sodium chloride injection. When switching to a three times a day regimen of nicardipine capsules, administer the ﬁrst dose 1 hour prior to discontinuation of the infusion."
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 105,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            389.347,
+            815.263,
+            815.267,
+            874.479
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.347,
+                852.663,
+                815.267,
+                874.479
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "3 DOSAGE FORMS AND STRENGTHS Nicardipine hydrochloride in 0.9% sodium chloride injection is a clear, colorless to yellow solution and is available in the following presentations:",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 37,
+                  "level": "2",
+                  "page number": 1,
+                  "bounding box": [
+                    403.523,
+                    830.631,
+                    754.604,
+                    849.383
+                  ],
+                  "numbering style": "unordered",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        403.523,
+                        840.231,
+                        754.604,
+                        849.383
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "• 20 mg nicardipine hydrochloride in 200 mL 0.9% sodium chloride injection (0.1 mg/mL) in a single dose container",
+                      "kids": []
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        403.523,
+                        830.631,
+                        738.62,
+                        839.783
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "• 40 mg nicardipine hydrochloride in 200 mL 0.9% sodium chloride injection (0.2 mg/mL) in a single container",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.355,
+                815.263,
+                470.179,
+                824.743
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "4 CONTRAINDICATIONS",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 38,
+                  "level": "3",
+                  "page number": 1,
+                  "bounding box": [
+                    389.355,
+                    762.695,
+                    1069.644,
+                    812.311
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        389.355,
+                        790.495,
+                        1069.644,
+                        812.311
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "4.1 Advanced Aortic Stenosis Do not use nicardipine in patients with advanced aortic stenosis because of the afterload reduction effect of nicardipine. Reduction of diastolic pressure in these patients may worsen rather than improve myocardial oxygen balance.",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 36,
+                          "page number": 1,
+                          "bounding box": [
+                            389.363,
+                            775.127,
+                            500.139,
+                            784.607
+                          ],
+                          "font": "HelveticaNeueLTPro-BdCn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "5 WARNINGS AND PRECAUTIONS"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        389.363,
+                        762.695,
+                        508.027,
+                        772.175
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "5.1 Excessive Pharmacologic Effects",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 106,
+          "page number": 1,
+          "bounding box": [
+            389.363,
+            740.759,
+            1119.788,
+            759.511
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "In administrating nicardipine, close monitoring of blood pressure and heart rate is required. Nicardipine may occasionally produce symptomatic hypotension or tachycardia. Avoid systemic hypotension when administering the drug to patients who have sustained an acute cerebral infarction or hemorrhage."
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 107,
+          "level": "5",
+          "page number": 1,
+          "bounding box": [
+            389.297,
+            461.514,
+            852.649,
+            734.871
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 8,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.38,
+                725.391,
+                514.436,
+                734.871
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.2 Rapid Decreases in Blood Pressure",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 30,
+                  "page number": 1,
+                  "bounding box": [
+                    389.297,
+                    703.442,
+                    1119.769,
+                    722.207
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "No clinical events have been reported suggestive of a too rapid decrease in blood pressure with nicardipine. However, as with any antihypertensive agent, blood pressure lowering should be accomplished over as long a time as is compatible with the patient’s clinical status."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.297,
+                688.074,
+                490.497,
+                697.554
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.3 Use in Patients with Angina",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 31,
+                  "page number": 1,
+                  "bounding box": [
+                    389.297,
+                    666.138,
+                    1119.881,
+                    684.89
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Increases in frequency, duration, or severity of angina have been seen in chronic oral therapy with nicardipine capsules. Induction or exacerbation of angina has been seen in less than 1% of coronary artery disease patients treated with nicardipine. The mechanism of this effect has not been established."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.313,
+                650.77,
+                545.705,
+                660.25
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.4 Use in Patients with Congestive Heart Failure",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 32,
+                  "page number": 1,
+                  "bounding box": [
+                    389.313,
+                    628.834,
+                    1119.841,
+                    647.586
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Nicardipine reduced afterload without impairing myocardial contractility in preliminary hemodynamic studies of CHF patients. However,in vitro and in some patients, a negative inotropic effect has been observed. Therefore, monitor vital signs carefully when using nicardipine, particularly in combination with a beta-blocker, in patients with CHF or signiﬁcant left ventricular dysfunction."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.345,
+                613.466,
+                551.961,
+                622.946
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.5 Use in Patients with Impaired Hepatic Function",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 33,
+                  "page number": 1,
+                  "bounding box": [
+                    389.345,
+                    591.53,
+                    1119.801,
+                    610.282
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Since nicardipine is metabolized in the liver, consider lower dosages and closely monitor response. Nicardipine administered intravenously increased hepatic venous pressure gradient by 4 mmHg in cirrhotic patients at high doses (5 mg/20 min) in one study. Use caution in patients with portal hypertension."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.361,
+                576.162,
+                545.905,
+                585.642
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.6 Use in Patients with Impaired Renal Function",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 34,
+                  "page number": 1,
+                  "bounding box": [
+                    389.297,
+                    554.227,
+                    1119.785,
+                    572.979
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "When nicardipine was given to mild-to-moderate hypertensive patients with moderate renal impairment, a signiﬁcantly lower systemic clearance and higher AUC was observed. These results are consistent with those seen after oral administration of nicardipine. Careful dose titration is advised when treating patients with more than mild renal impairment."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.305,
+                538.858,
+                482.801,
+                548.339
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.7 Intravenous Infusion Site",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 35,
+                  "page number": 1,
+                  "bounding box": [
+                    389.305,
+                    516.922,
+                    1119.577,
+                    535.675
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "To reduce the possibility of venous thrombosis, phlebitis, local irritation, swelling, extravasation, and the rare occurrence of vascular impairment, administer drug through large peripheral veins or central veins rather than arteries or small peripheral veins, such as those on the dorsum of the hand or wrist. To minimize the risk of peripheral venous irritation, consider changing the site of the drug infusion every 12 hours."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.329,
+                489.218,
+                852.649,
+                511.034
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.8 Beta-Blocker Withdrawal Nicardipine is not a beta-blocker and therefore gives no protection against the dangers of abrupt beta-blocker withdrawal. Withdraw beta-blockers gradually.",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                389.329,
+                461.514,
+                729.289,
+                483.33
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "5.9 Use in Patients with Pheochromocytoma Only limited clinical experience exists in use of nicardipine for patients with hypertension from pheochromocytoma.",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 108,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            1147.067,
+            1653.62,
+            1228.787,
+            1663.068
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 1,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.067,
+                1653.62,
+                1228.787,
+                1663.068
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "6 ADVERSE REACTIONS",
+              "kids": [
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 29,
+                  "level": "3",
+                  "page number": 1,
+                  "bounding box": [
+                    1147.067,
+                    1207.0,
+                    1304.219,
+                    1650.677
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 3,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        1147.067,
+                        1641.229,
+                        1304.219,
+                        1650.677
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 7.974,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "6.1 Adverse Reactions Observed in Clinical Trials",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 25,
+                          "page number": 1,
+                          "bounding box": [
+                            1147.067,
+                            1485.403,
+                            1877.594,
+                            1638.055
+                          ],
+                          "font": "HelveticaNeueLTPro-Cn",
+                          "font size": 7.974,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reﬂect the rates observed in practice. Two hundred forty-four patients participated in two multicenter, double-blind, placebo- controlled trials of nicardipine. Adverse experiences were generally not serious and most were expected consequences of vasodilation. Adverse reactions occasionally required dosage adjustment. Therapy was discontinued in approximately 12% of patients, mainly due to hypotension, headache, and tachycardia. Adverse reactions that occurred more often on nicardipine than on placebo by at least 2% were headache (13%) and nausea/vomiting (4%). The following adverse reactions have been reported in clinical trials or in the literature during the use of intravenously administered nicardipine. Body as a Whole: fever, neck pain Cardiovascular: angina pectoris, atrioventricular block, ST segment depression, inverted T wave, deep-vein thrombophlebitis Digestive: dyspepsia Hemic and Lymphatic: thrombocytopenia Metabolic and Nutritional: hypophosphatemia, peripheral edema Nervous: confusion, hypertonia Respiratory: respiratory disorder Special Senses: conjunctivitis, ear disorder, tinnitus Urogenital: urinary frequency Sinus node dysfunction and myocardial infarction, which may be due to disease progression, have been seen in patients on chronic therapy with orally administered nicardipine."
+                        },
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 26,
+                          "page number": 1,
+                          "bounding box": [
+                            1147.098,
+                            1470.086,
+                            1227.69,
+                            1479.535
+                          ],
+                          "font": "HelveticaNeueLTPro-BdCn",
+                          "font size": 7.974,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "7 DRUG INTERACTIONS"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        1147.098,
+                        1457.695,
+                        1238.722,
+                        1467.144
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 7.974,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "7.1 Antihypertensive Agents",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 27,
+                          "page number": 1,
+                          "bounding box": [
+                            1147.098,
+                            1435.831,
+                            1877.466,
+                            1454.522
+                          ],
+                          "font": "HelveticaNeueLTPro-Cn",
+                          "font size": 7.974,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "Since nicardipine hydrochloride injection may be administered to patients already being treated with other medications, including other antihypertensive agents, careful monitoring of these patients is necessary to detect and to treat promptly any undesired effects from concomitant administration."
+                        },
+                        {
+                          "type": "list",
+                          "pdfua_tag": "L",
+                          "id": 28,
+                          "level": "5",
+                          "page number": 1,
+                          "bounding box": [
+                            1147.072,
+                            1231.782,
+                            1841.73,
+                            1429.963
+                          ],
+                          "numbering style": "arabic numbers",
+                          "number of list items": 7,
+                          "list items": [
+                            {
+                              "type": "list item",
+                              "pdfua_tag": "LI",
+                              "page number": 1,
+                              "bounding box": [
+                                1147.114,
+                                1420.514,
+                                1206.45,
+                                1429.963
+                              ],
+                              "font": "HelveticaNeueLTPro-BdCn",
+                              "font size": 7.974,
+                              "text color": "[0.0, 0.0, 0.0, 1.0]",
+                              "content": "7.2 Beta-Blockers",
+                              "kids": [
+                                {
+                                  "type": "paragraph",
+                                  "pdfua_tag": "P",
+                                  "id": 22,
+                                  "page number": 1,
+                                  "bounding box": [
+                                    1147.114,
+                                    1398.172,
+                                    1877.498,
+                                    1417.341
+                                  ],
+                                  "font": "HelveticaNeueLTPro-Cn",
+                                  "font size": 7.974,
+                                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                                  "content": "In most patients, nicardipine hydrochloride injection can safely be used concomitantly with beta-blockers. However, monitor response carefully when combining nicardipine hydrochloride injection with a beta-blocker in the treatment of congestive heart failure patients [see Warnings and Precautions (5.4)]."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "list item",
+                              "pdfua_tag": "LI",
+                              "page number": 1,
+                              "bounding box": [
+                                1147.13,
+                                1371.038,
+                                1841.73,
+                                1392.782
+                              ],
+                              "font": "HelveticaNeueLTPro-BdCn",
+                              "font size": 7.974,
+                              "text color": "[0.0, 0.0, 0.0, 1.0]",
+                              "content": "7.3 Cimetidine Cimetidine has been shown to increase nicardipine plasma concentrations with oral nicardipine administration. Carefully monitor patients receiving the two drugs concomitantly. Data with other histamine-2 antagonists are not available.",
+                              "kids": []
+                            },
+                            {
+                              "type": "list item",
+                              "pdfua_tag": "LI",
+                              "page number": 1,
+                              "bounding box": [
+                                1147.146,
+                                1349.079,
+                                1426.346,
+                                1370.823
+                              ],
+                              "font": "HelveticaNeueLTPro-BdCn",
+                              "font size": 7.974,
+                              "text color": "[0.0, 0.0, 0.0, 1.0]",
+                              "content": "7.4 Digoxin Studies have shown that oral nicardipine usually does not alter digoxin plasma concentrations.",
+                              "kids": []
+                            },
+                            {
+                              "type": "list item",
+                              "pdfua_tag": "LI",
+                              "page number": 1,
+                              "bounding box": [
+                                1147.146,
+                                1333.761,
+                                1202.154,
+                                1343.21
+                              ],
+                              "font": "HelveticaNeueLTPro-BdCn",
+                              "font size": 7.974,
+                              "text color": "[0.0, 0.0, 0.0, 1.0]",
+                              "content": "7.5 Cyclosporine",
+                              "kids": [
+                                {
+                                  "type": "paragraph",
+                                  "pdfua_tag": "P",
+                                  "id": 23,
+                                  "page number": 1,
+                                  "bounding box": [
+                                    1147.072,
+                                    1311.893,
+                                    1877.552,
+                                    1330.588
+                                  ],
+                                  "font": "HelveticaNeueLTPro-Cn",
+                                  "font size": 7.974,
+                                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                                  "content": "Concomitant administration of oral or intravenous nicardipine and cyclosporine results in elevated plasma cyclosporine levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Monitor closely plasma concentrations of cyclosporine during nicardipine hydrochloride injection administration, and adjust the dose of cyclosporine accordingly."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "list item",
+                              "pdfua_tag": "LI",
+                              "page number": 1,
+                              "bounding box": [
+                                1147.072,
+                                1296.576,
+                                1196.008,
+                                1306.025
+                              ],
+                              "font": "HelveticaNeueLTPro-BdCn",
+                              "font size": 7.974,
+                              "text color": "[0.0, 0.0, 0.0, 1.0]",
+                              "content": "7.6 Tacrolimus",
+                              "kids": [
+                                {
+                                  "type": "paragraph",
+                                  "pdfua_tag": "P",
+                                  "id": 24,
+                                  "page number": 1,
+                                  "bounding box": [
+                                    1147.072,
+                                    1274.712,
+                                    1877.44,
+                                    1293.402
+                                  ],
+                                  "font": "HelveticaNeueLTPro-Cn",
+                                  "font size": 7.974,
+                                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                                  "content": "Concomitant administration of intravenous nicardipine and tacrolimus may result in elevated plasma tacrolimus levels through nicardipine inhibition of hepatic microsomal enzymes, including CYP3A4. Closely monitor plasma concentrations of tacrolimus during nicardipine administration, and adjust the dose of tacrolimus accordingly."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "list item",
+                              "pdfua_tag": "LI",
+                              "page number": 1,
+                              "bounding box": [
+                                1147.096,
+                                1246.621,
+                                1748.544,
+                                1268.844
+                              ],
+                              "font": "HelveticaNeueLTPro-BdCn",
+                              "font size": 7.974,
+                              "text color": "[0.0, 0.0, 0.0, 1.0]",
+                              "content": "7.7 In Vitro Interaction The plasma protein binding of nicardipine was not altered when therapeutic concentrations of furosemide, propranolol, dipyridamole, warfarin, quinidine, or naproxen were added to human plasma in vitro.",
+                              "kids": []
+                            },
+                            {
+                              "type": "list item",
+                              "pdfua_tag": "LI",
+                              "page number": 1,
+                              "bounding box": [
+                                1147.104,
+                                1231.782,
+                                1258.448,
+                                1241.231
+                              ],
+                              "font": "HelveticaNeueLTPro-BdCn",
+                              "font size": 7.974,
+                              "text color": "[0.0, 0.0, 0.0, 1.0]",
+                              "content": "8 USE IN SPECIFIC POPULATIONS",
+                              "kids": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        1147.104,
+                        1207.0,
+                        1219.12,
+                        1228.84
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 7.974,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "8.1 Pregnancy Pregnancy Category C.",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 109,
+          "page number": 1,
+          "bounding box": [
+            1147.073,
+            1136.812,
+            1877.801,
+            1203.827
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 7.974,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "There are no adequate and well-controlled studies of nicardipine use in pregnant women. There are limited human data in pregnant women with pre-eclampsia and preterm labor. In animal reproduction and developmental toxicity studies, evidence of fetal harm was observed. Therefore use nicardipine during pregnancy only if the potential beneﬁt justiﬁes the potential risk to the fetus. In reproduction studies conducted in rats and rabbits, increased embryolethality occurred when nicardipine was administered intravenously at doses equivalent to human intravenous doses of 1.6 (rats) and 0.32 mg/kg/day (rabbits). Increased embryolethality was also observed when nicardipine was administered orally to pregnant rabbits at a dose equivalent to a human oral dose of about 48 mg/kg/day (a dose 24 times the maximum recommended human oral dose and one associated with marked maternal body weight gain suppression). At a lower oral dose, equivalent to a human dose of about 32 mg/kg/day (16 times the maximum recommended human oral dose), in a different strain of rabbit, there were no adverse effects on the fetus, though there was increased maternal mortality. There was no evidence of embryolethality or teratogenicity when pregnant rats were administered nicardipine orally at a dose equivalent to a human oral dose of about 16 mg/kg/ day (8 times the MRHD); however, dystocia, reduced birth weight, reduced neonatal survival and reduced neonatal weight gain were reported [see Nonclinical Toxicology (13.3)]."
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 110,
+          "level": "6",
+          "page number": 1,
+          "bounding box": [
+            1147.089,
+            999.769,
+            1377.289,
+            1131.422
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 3,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.097,
+                1121.973,
+                1213.969,
+                1131.422
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "8.3 Nursing Mothers",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 21,
+                  "page number": 1,
+                  "bounding box": [
+                    1147.073,
+                    1042.699,
+                    1877.729,
+                    1118.799
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 7.974,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Nicardipine is minimally excreted into human milk. Among 18 infants exposed to nicardipine through breast milk in the postpartum period, calculated daily infant dose was less than 0.3 mcg and there were no adverse events observed. It is recommended that women who wish to breastfeed should not be given this drug. In a study of 11 women who received oral nicardipine 4 days to 14 days postpartum, 4 women received immediate-release nicardipine 40 to 80 mg daily, 6 women received sustained-release nicardipine 100 mg to 150 mg daily, and one woman received intravenous nicardipine 120 mg daily. The peak milk concentration was 7.3 mcg/L (range 1.9 to 18.8), and the mean milk concentration was 4.4 mcg/L (range 1.3 to 13.8). Infants received an average of 0.073% of the weight-adjusted maternal oral dose and 0.14% of the weight-adjusted maternal intravenous dose. In another study of seven women who received intravenous nicardipine for an average of 1.9 days in the immediate postpartum period as therapy for pre-eclampsia, 34 milk samples were obtained at unspeciﬁed times and nicardipine was undetectable (less than 5 mcg/L) in 82% of the samples. Four women who received 1 to 6.5 mg/hour of nicardipine had 6 milk samples with detectable nicardipine levels (range 5.1 to 18.5 mcg/L). The highest concentration of 18.5 mcg/L was found in a woman who received 5.5 mg/hour of nicardipine. The estimated maximum dose in a breastfed infant was less than 0.3 mcg daily or 0.015% to 0.004% of the therapeutic dose in a 1 kg infant."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.089,
+                1015.087,
+                1377.289,
+                1036.831
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "8.4 Pediatric Use Safety and efﬁcacy in patients under the age of 18 have not been established.",
+              "kids": []
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.089,
+                999.769,
+                1201.985,
+                1009.218
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "8.5 Geriatric Use",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 111,
+          "page number": 1,
+          "bounding box": [
+            1147.089,
+            958.769,
+            1877.689,
+            996.596
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 7.974,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (greater than 65 years) and young healthy adults. Clinical studies of nicardipine did not include sufﬁcient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identiﬁed differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reﬂecting the greater frequency of decreased hepatic, renal or cardiac function, and concomitant disease of other drug therapy."
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 112,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            1147.107,
+            635.72,
+            1251.267,
+            952.901
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 3,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.121,
+                943.452,
+                1204.129,
+                952.901
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "10 OVERDOSAGE",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 17,
+                  "page number": 1,
+                  "bounding box": [
+                    1147.072,
+                    873.747,
+                    1877.985,
+                    940.278
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 7.974,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Several overdosages with orally administered nicardipine have been reported. One adult patient allegedly ingested 600 mg of nicardipine immediate release capsules, and another patient, 2160 mg of the sustained release formulation of nicardipine. Symptoms included marked hypotension, bradycardia, palpitations, ﬂushing, drowsiness, confusion and slurred speech. All symptoms resolved without sequelae. An overdosage occurred in a one-year-old child who ingested half of the powder in a 30 mg nicardipine standard capsule. The child remained asymptomatic. Based on results obtained in laboratory animals, lethal overdose may cause systemic hypotension, bradycardia (following initial tachycardia) and progressive atrioventricular conduction block. Reversible hepatic function abnormalities and sporadic focal hepatic necrosis were noted in some animal species receiving very large doses of nicardipine. For treatment of overdosage, standard measures including monitoring of cardiac and respiratory functions should be implemented. The patient should be positioned to avoid cerebral anoxia. Frequent blood pressure determinations are essential. Vasopressors are clinically indicated for patients exhibiting profound hypotension. Intravenous calcium gluconate may help reverse the effects of calcium entry blockade."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.12,
+                858.43,
+                1203.792,
+                867.879
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "11 DESCRIPTION",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 18,
+                  "page number": 1,
+                  "bounding box": [
+                    1147.12,
+                    836.566,
+                    1877.368,
+                    855.257
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 7.974,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Nicardipine hydrochloride is a calcium ion inﬂux inhibitor (slow channel blocker or calcium channel blocker). Nicardipine hydrochloride is a dihydropyridine derivative with IUPAC (International Union of Pure and Applied Chemistry) chemical name (±)-2-(benzyl-methyl amino) ethyl methyl 1,4- dihydro-2, 6-dimethyl-4- (m-nitrophenyl)-3,5-pyridinedicarboxylate monohydrochloride and has the following structure:"
+                },
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 20,
+                  "page number": 1,
+                  "bounding box": [
+                    1147.067,
+                    651.037,
+                    1877.827,
+                    688.864
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 7.974,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Nicardipine hydrochloride is a yellow to pale yellow, odorless, crystalline powder that has a melting point range of 165-170° C. It is soluble in methanol, sparingly soluble in ethanol, slightly soluble in acetone, chloroform and water. It has a molecular weight of 515.99. Nicardipine hydrochloride in 0.9% sodium chloride injection is available as a sterile, single-use, ready-to-use, iso-osmotic, clear, colorless to yellow solution for intravenous administration in a 200 mL single dose container. Each mL contains 0.1 mg or 0.2 mg nicardipine hydrochloride, USP in 9 mg sodium chloride, USP. Hydrochloric acid (q.s.) may have been added to adjust pH to 3 to 5."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.107,
+                635.72,
+                1251.267,
+                645.169
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "12 CLINICAL PHARMACOLOGY",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 113,
+          "level": "5",
+          "page number": 1,
+          "bounding box": [
+            1147.107,
+            564.189,
+            1233.987,
+            632.778
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.107,
+                623.329,
+                1233.987,
+                632.778
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "12.1 Mechanism of Action",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 16,
+                  "page number": 1,
+                  "bounding box": [
+                    1147.107,
+                    591.897,
+                    1877.571,
+                    620.155
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 7.974,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Nicardipine inhibits the transmembrane inﬂux of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through speciﬁc ion channels. The effects of nicardipine are more selective to vascular smooth muscle than cardiac muscle. In animal models, nicardipine produced relaxation of coronary vascular smooth muscle at drug levels which cause little or no negative inotropic effect."
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1147.147,
+                564.189,
+                1229.747,
+                586.028
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 7.974,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "12.2 Pharmacodynamics Hemodynamics",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 114,
+          "page number": 1,
+          "bounding box": [
+            1147.073,
+            465.773,
+            1877.803,
+            561.015
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 7.974,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Nicardipine produces signiﬁcant decreases in systemic vascular resistance. In a study of intra-arterially administered nicardipine, the degree of vasodilation and the resultant decrease in blood pressure were more prominent in hypertensive patients than in normotensive volunteers. Administration of nicardipine to normotensive volunteers at dosages of 0.25 to 3 mg/hr for eight hours produced changes of less than 5 mmHg in systolic blood pressure and less than 3 mmHg in diastolic blood pressure. An increase in heart rate is a normal response to vasodilation and decrease in blood pressure; in some patients these increases in heart rate may be pronounced. In placebo-controlled trials, the mean increases in heart rate were 7 ± 1 bpm in postoperative patients and 8 ± 1 bpm in patients with severe hypertension at the end of the maintenance period. Hemodynamic studies following intravenous dosing in patients with coronary artery disease and normal or moderately abnormal left ventricular function have shown signiﬁcant increases in ejection fraction and cardiac output with no signiﬁcant change, or a small decrease, in left ventricular end-diastolic pressure (LVEDP). There is evidence that nicardipine increases blood ﬂow. Coronary dilatation induced by nicardipine improves perfusion and aerobic metabolism in areas with chronic ischemia, resulting in reduced lactate production and augmented oxygen consumption. In patients with coronary artery disease, nicardipine, administered after beta-blockade, signiﬁcantly improved systolic and diastolic left ventricular function. In congestive heart failure patients with impaired left ventricular function, nicardipine increased cardiac output both at rest and during exercise. Decreases in left ventricular end- diastolic pressure were also observed. However, in some patients with severe left ventricular dysfunction, it may have a negative inotropic effect and could lead to worsened failure."
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 115,
+          "page number": 1,
+          "bounding box": [
+            1905.846,
+            1605.691,
+            2636.438,
+            1662.843
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "“Coronary steal” has not been observed during treatment with nicardipine (Coronary steal is the detrimental redistribution of coronary blood ﬂow in patients with coronary artery disease from underperfused areas toward better perfused areas.) Nicardipine has been shown to improve systolic shortening in both normal and hypokinetic segments of myocardial muscle. Radionuclide angiography has conﬁrmed that wall motion remained improved during increased oxygen demand. (Occasional patients have developed increased angina upon receiving nicardipine capsules. Whether this represents coronary steal in these patients, or is the result of increased heart rate and decreased diastolic pressure, is not clear.) In patients with coronary artery disease, nicardipine improves left ventricular diastolic distensibility during the early ﬁlling phase, probably due to a faster rate of myocardial relaxation in previously underperfused areas. There is little or no effect on normal myocardium, suggesting the improvement is mainly by indirect mechanisms such as afterload reduction and reduced ischemia. Nicardipine has no negative effect on myocardial relaxation at therapeutic doses. The clinical beneﬁts of these properties have not yet been demonstrated."
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 116,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            1905.926,
+            1590.323,
+            1988.054,
+            1599.803
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Electrophysiologic Effects"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 117,
+          "page number": 1,
+          "bounding box": [
+            1905.861,
+            1558.787,
+            2636.141,
+            1587.139
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "In general, no detrimental effects on the cardiac conduction system have been seen with nicardipine. During acute electrophysiologic studies, it increased heart rate and prolonged the corrected QT interval to a minor degree. It did not affect sinus node recovery or SA conduction times. The PA, AH, and HV intervals* or the functional and effective refractory periods of the atrium were not prolonged. The relative and effective refractory periods of the His-Purkinje system were slightly shortened. *PA = conduction time from high to low right atrium; AH = conduction time from low right atrium to His bundle deﬂection, or AV nodal conduction time; HV = conduction time through the His bundle and the bundle branch-Purkinje system."
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 118,
+          "page number": 1,
+          "bounding box": [
+            1905.885,
+            1506.115,
+            2636.405,
+            1552.899
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Hepatic Function Because nicardipine is extensively metabolized by the liver, plasma concentrations are inﬂuenced by changes in hepatic function. In a clinical study with nicardipine capsules in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.5)]. Similar results were obtained in patients with hepatic disease when nicardipine hydrochloride was administered for 24 hours at 0.6 mg/hr. Renal Function"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 119,
+          "page number": 1,
+          "bounding box": [
+            1905.844,
+            1436.179,
+            2636.908,
+            1502.931
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "When nicardipine was given to mild-to-moderate hypertensive patients with moderate degrees of renal impairment, signiﬁcant reduction in glomerular ﬁltration rate (GFR) and effective renal plasma ﬂow (RPF) were observed. No signiﬁcant differences in liver blood ﬂow were observed in these patients. A signiﬁcantly lower systemic clearance and higher area under the curve (AUC) were observed. When nicardipine capsules (20 or 30 mg TID) were given to hypertensive patients with impaired renal function, mean plasma concentrations, AUC, and Cmax were approximately two-fold higher than in healthy controls. There was a transient increase in electrolyte excretion, including sodium [see Warnings and Precautions (5.6)]. Acute bolus administration of nicardipine hydrochloride injection (2.5 mg) in healthy volunteers decreased mean arterial pressure and renal vascular resistance; glomerular ﬁltration rate (GFR), renal plasma ﬂow (RPF), and the ﬁltration fraction were unchanged. In healthy patients undergoing abdominal surgery, nicardipine hydrochloride injection (10 mg over 20 minutes) increased GFR with no change in RPF when compared with placebo. In hypertensive type ll diabetic patients with nephropathy, nicardipine capsules (20 mg TID) did not change RPF and GFR, but reduced renal vascular resistance."
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 120,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            1905.884,
+            1420.811,
+            1969.516,
+            1430.291
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Pulmonary Function"
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 121,
+          "page number": 1,
+          "bounding box": [
+            1905.86,
+            1389.275,
+            2636.292,
+            1417.627
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "In two well-controlled studies of patients with obstructive airway disease treated with nicardipine capsules, no evidence of increased bronchospasm was seen. In one of the studies, nicardipine capsules improved forced expiratory volume 1 second (FEV1) and forced vital capacity (FVC) in comparison with metoprolol. Adverse reactions reported in a limited number of patients with asthma, reactive airway disease, or obstructive airway disease were similar to reactions in other patients treated with nicardipine capsules."
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 122,
+          "level": "3",
+          "page number": 1,
+          "bounding box": [
+            1905.86,
+            1361.475,
+            1982.988,
+            1383.387
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 1,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1905.86,
+                1361.475,
+                1982.988,
+                1383.387
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "12.3 Pharmacokinetics Distribution",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 13,
+                  "page number": 1,
+                  "bounding box": [
+                    1905.845,
+                    1291.537,
+                    2636.549,
+                    1358.291
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "A rapid dose-related increase in nicardipine plasma concentrations is seen during the ﬁrst two hours after the start of an infusion of nicardipine. Plasma concentrations increase at a much slower rate after the ﬁrst few hours, and approach steady state at 24 to 48 hours. The steady-state pharmacokinetics of nicardipine are similar in elderly hypertensive patients (greater than 65 years) and young healthy adults. On termination of the infusion, nicardipine concentrations decrease rapidly, with at least a 50% decrease during the ﬁrst two hours post-infusion. The effects of nicardipine on blood pressure signiﬁcantly correlate with plasma concentrations. Nicardipine is highly protein bound (greater than 95%) in human plasma over a wide concentration range. Following infusion, nicardipine plasma concentrations decline triexponentially, with a rapid early distribution phase (α-half-life of 3 minutes), an intermediate phase (β-half-life of 45 minutes), and a slow terminal phase (γ-half-life of 14 hours) that can only be detected after long-term infusions. Total plasma clearance (Cl) is 0.4 L/hr•kg, and the apparent volume of distribution (Vd) using a non-compartment model is 8.3 L/kg. The pharmacokinetics of nicardipine is linear over the dosage range of 0.5 mg/hr to 40 mg/hr."
+                },
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 14,
+                  "page number": 1,
+                  "bounding box": [
+                    1905.845,
+                    1225.433,
+                    2636.366,
+                    1285.649
+                  ],
+                  "font": "HelveticaNeueLTPro-Cn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "Metabolism and Excretion Nicardipine has been shown to be rapidly and extensively metabolized by the hepatic cytochrome P450 enzymes, CYP2C8, 2D6, and 3A4. Nicardipine does not induce or inhibit its own metabolism; however, nicardipine has been shown to inhibit certain cytochrome P450 enzymes (including CYP3A4, CYP2D6, CYP2C8, and CYP2C19). Inhibition of these enzymes may result in increased plasma levels of certain drugs, including cyclosporine and tacrolimus [see Drug Interactions (7.5, 7.6)]. The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment. After coadministration of a radioactive intravenous dose of nicardipine with an oral 30 mg dose given every 8 hours, 49% of the radioactivity was recovered in the urine and 43% in the feces within 96 hours. None of the dose was recovered as unchanged nicardipine."
+                },
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 15,
+                  "level": "3",
+                  "page number": 1,
+                  "bounding box": [
+                    1905.893,
+                    1014.59,
+                    2004.797,
+                    1219.545
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        1905.893,
+                        1210.065,
+                        2004.797,
+                        1219.545
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "13 NONCLINICAL TOXICOLOGY",
+                      "kids": [
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 11,
+                          "page number": 1,
+                          "bounding box": [
+                            1905.859,
+                            1102.727,
+                            2636.605,
+                            1207.113
+                          ],
+                          "font": "HelveticaNeueLTPro-Cn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility Rats treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of 5, 15, or 45 mg/kg/day) for two years showed a dose-dependent increase in thyroid hyperplasia and neoplasia (follicular adenoma/carcinoma). One-month and three-month studies in the rat have suggested that these results are linked to a nicardipine-induced reduction in plasma thyroxine (T4) levels with a consequent increase in plasma levels of thyroid stimulating hormone (TSH). Chronic elevation of TSH is known to cause hyperstimulation of the thyroid. In rats on an iodine deﬁcient diet, nicardipine administration for one month was associated with thyroid hyperplasia that was prevented by T4 supplementation. Mice treated with nicardipine in the diet (at concentrations calculated to provide daily dosage levels of up to 100 mg/kg/day) for up to 18 months showed no evidence of neoplasia of any tissue and no evidence of thyroid changes. There was no evidence of thyroid pathology in dogs treated with up to 25 mg nicardipine/kg/day for one year and no evidence of effects of nicardipine on thyroid function (plasma T4 and TSH) in man. There was no evidence of a mutagenic potential of nicardipine in a battery of genotoxicity tests conducted on microbial indicator organisms, in micronucleus tests in mice and hamsters, or in a sister chromatid exchange study in hamsters. No impairment of fertility was seen in male or female rats administered nicardipine at oral doses as high as 100 mg/kg/day (human equivalent dose about 16 mg/kg/day, 8 times the maximum recommended human oral dose). 13.3 Reproductive and Developmental Toxicology"
+                        },
+                        {
+                          "type": "paragraph",
+                          "pdfua_tag": "P",
+                          "id": 12,
+                          "page number": 1,
+                          "bounding box": [
+                            1905.846,
+                            1042.39,
+                            2636.566,
+                            1099.543
+                          ],
+                          "font": "HelveticaNeueLTPro-Cn",
+                          "font size": 8.0,
+                          "text color": "[0.0, 0.0, 0.0, 1.0]",
+                          "content": "Embryolethality, but no teratogenicity, was seen at intravenous doses of 10 mg nicardipine/kg/day in rats and 1 mg/kg/day in rabbits. These doses in the rat and rabbit are equivalent to human intravenous doses of about 1.6 and 0.32 mg/kg/day, respectively. (The total daily human dose delivered by a continuous intravenous infusion ranges from 1.2 to 6 mg/kg/day, depending on duration at different infusion rates ranging from 3 to 15 mg/hr as individual patients are titrated for optimal results.) Nicardipine was also embryocidal when administered orally to pregnant Japanese White rabbits, during organogenesis, at 150 mg/kg/day (a dose associated with marked body weight gain suppression in the treated doe), but not at 50 mg/kg/day (human equivalent dose about 16 mg/kg/day or about 8 times the maximum recommended human oral dose). No adverse effects on the fetus were observed when New Zealand albino rabbits were treated orally, during organogenesis, with up to 100 mg/kg/day (a dose associated with signiﬁcant mortality in the treated doe). In pregnant rats administered nicardipine orally at doses of up to 100 mg/kg/day (human equivalent dose about 16 mg/kg/day) there was no evidence of embryolethality or teratogenicity. However, dystocia, reduced birth weight, reduced neonatal survival and reduced neonatal weight gain were noted."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        1905.902,
+                        1014.59,
+                        1979.326,
+                        1036.502
+                      ],
+                      "font": "HelveticaNeueLTPro-BdCn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "14 CLINICAL STUDIES Effects in Hypertension",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 123,
+          "page number": 1,
+          "bounding box": [
+            1905.855,
+            963.852,
+            2636.439,
+            1011.406
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "In patients with mild-to-moderate chronic stable essential hypertension, nicardipine hydrochloride injection (0.5 to 4 mg/hr) produced dose-dependent decreases in blood pressure, although only the decreases at 4 mg/hr were statistically different from placebo. At the end of a 48-hour infusion at 4 mg/hr, the decreases were 26 mmHg (17%) in systolic blood pressure and 21 mmHg (20%) in diastolic blood pressure. In other settings (e.g., patients with severe or postoperative hypertension), nicardipine hydrochloride injection (5 to 15 mg/hr) produced dose-dependent decreases in blood pressure. Higher infusion rates produced therapeutic responses more rapidly. The mean time to therapeutic response for severe hypertension, deﬁned as diastolic blood pressure less than or equal to 95 mmHg or greater or equal to 25 mmHg decrease and systolic blood pressure less than or equal to 160 mmHg, was 77 ± 5 minutes. The average maintenance dose was 8.0 mg/hr. The mean time to therapeutic response for postoperative hypertension, deﬁned as greater than or equal to 15% reduction in diastolic or systolic blood pressure, was 12 minutes. The average maintenance dose was 3 mg/hr."
+        },
+        {
+          "type": "heading",
+          "pdfua_tag": "H2",
+          "id": 124,
+          "level": "Subtitle",
+          "page number": 1,
+          "bounding box": [
+            1905.895,
+            948.484,
+            2050.583,
+            957.964
+          ],
+          "heading level": 2,
+          "font": "HelveticaNeueLTPro-BdCn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "16 HOW SUPPLIED/STORAGE AND HANDLING"
+        },
+        {
+          "type": "list",
+          "pdfua_tag": "L",
+          "id": 125,
+          "level": "5",
+          "page number": 1,
+          "bounding box": [
+            1905.871,
+            821.5,
+            2311.807,
+            945.532
+          ],
+          "numbering style": "arabic numbers",
+          "number of list items": 2,
+          "list items": [
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1905.895,
+                923.716,
+                2311.807,
+                945.532
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "16.1 How Supplied Nicardipine hydrochloride in 0.9% sodium chloride injection is a clear, colorless to yellow solution and is available in packages as follows:",
+              "kids": [
+                {
+                  "type": "paragraph",
+                  "pdfua_tag": "P",
+                  "id": 9,
+                  "page number": 1,
+                  "bounding box": [
+                    1909.895,
+                    904.236,
+                    2495.279,
+                    913.716
+                  ],
+                  "font": "HelveticaNeueLTPro-BdCn",
+                  "font size": 8.0,
+                  "text color": "[0.0, 0.0, 0.0, 1.0]",
+                  "content": "NDC Strength Packaged"
+                },
+                {
+                  "type": "list",
+                  "pdfua_tag": "L",
+                  "id": 10,
+                  "level": "6",
+                  "page number": 1,
+                  "bounding box": [
+                    1909.879,
+                    876.908,
+                    2532.895,
+                    899.772
+                  ],
+                  "numbering style": "arabic numbers",
+                  "number of list items": 2,
+                  "list items": [
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        1909.887,
+                        890.62,
+                        2532.895,
+                        899.772
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "65145-197-01 20 mg in 200 mL (0.1 mg/mL) 1 single dose container",
+                      "kids": []
+                    },
+                    {
+                      "type": "list item",
+                      "pdfua_tag": "LI",
+                      "page number": 1,
+                      "bounding box": [
+                        1909.879,
+                        876.908,
+                        2532.887,
+                        886.06
+                      ],
+                      "font": "HelveticaNeueLTPro-Cn",
+                      "font size": 8.0,
+                      "text color": "[0.0, 0.0, 0.0, 1.0]",
+                      "content": "65145-198-01 40 mg in 200 mL (0.2 mg/mL) 1 single dose container",
+                      "kids": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list item",
+              "pdfua_tag": "LI",
+              "page number": 1,
+              "bounding box": [
+                1905.871,
+                821.5,
+                2272.567,
+                871.02
+              ],
+              "font": "HelveticaNeueLTPro-BdCn",
+              "font size": 8.0,
+              "text color": "[0.0, 0.0, 0.0, 1.0]",
+              "content": "16.2 Storage and Handling Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Freezing does not adversely affect the product, but exposure to elevated temperatures should be avoided. Protect from light. Made in India.",
+              "kids": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 127,
+          "page number": 1,
+          "bounding box": [
+            1905.844,
+            739.823,
+            1994.94,
+            786.503
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "Distributed by: Caplin Steriles USA Inc, Hamilton, NJ 08619. Code: TN/Drugs/TN00006405."
+        },
+        {
+          "type": "paragraph",
+          "pdfua_tag": "P",
+          "id": 128,
+          "page number": 1,
+          "bounding box": [
+            2588.74,
+            714.951,
+            2636.22,
+            733.703
+          ],
+          "font": "HelveticaNeueLTPro-Cn",
+          "font size": 8.0,
+          "text color": "[0.0, 0.0, 0.0, 1.0]",
+          "content": "November 2025 22201534"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "pdfua_tag": "P",
+      "id": 7,
+      "page number": 1,
+      "bounding box": [
+        36.296,
+        1315.854,
+        46.296,
+        1353.094
+      ],
+      "font": "Helvetica-Bold",
+      "font size": 10.0,
+      "text color": "[0.0, 1.0, 0.0, 0.0]",
+      "content": "250mm"
+    },
+    {
+      "type": "paragraph",
+      "pdfua_tag": "P",
+      "id": 5,
+      "page number": 1,
+      "bounding box": [
+        10.595,
+        1032.389,
+        20.595,
+        1069.629
+      ],
+      "font": "Helvetica-Bold",
+      "font size": 10.0,
+      "text color": "[0.0, 1.0, 0.0, 0.0]",
+      "content": "450mm"
+    },
+    {
+      "type": "heading",
+      "pdfua_tag": "H1",
+      "id": 8,
+      "level": "Doctitle",
+      "page number": 1,
+      "bounding box": [
+        111.279,
+        320.691,
+        164.559,
+        335.559
+      ],
+      "heading level": 1,
+      "font": "MyriadPro-Bold",
+      "font size": 12.0,
+      "text color": "[0.0, 0.0, 0.0, 1.0]",
+      "content": "22201534"
+    }
+  ]
+}

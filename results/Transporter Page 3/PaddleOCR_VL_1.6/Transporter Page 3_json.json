@@ -1,0 +1,354 @@
+[
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Transporter Page 3.pdf",
+      "page_index": 0,
+      "page_count": 3,
+      "width": 1224,
+      "height": 1584,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "figure_title",
+          "block_content": "SAGAR CARRIERS",
+          "block_bbox": [
+            408,
+            132,
+            818,
+            171
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              408.0,
+              132.0
+            ],
+            [
+              818.0,
+              132.0
+            ],
+            [
+              818.0,
+              171.0
+            ],
+            [
+              408.0,
+              171.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td colspan=\"10\">AUTHORIZE TRANSPORT CONTRARCTOR</td></tr><tr><td colspan=\"2\">Address :</td><td colspan=\"8\">C/O G.S.CL,SIDHEEGRAM MORASA TAL:-SUTRAPADA DIST GIR SOMNATH</td></tr><tr><td colspan=\"2\">Date</td><td colspan=\"8\">31-07-2022</td></tr><tr><td colspan=\"2\">Bill No.</td><td colspan=\"8\">79</td></tr><tr><td colspan=\"2\">Mo. No.</td><td colspan=\"8\">9099045907</td></tr><tr><td colspan=\"2\">TO</td><td colspan=\"8\">M/S-Gujrat Sidhee Cement Ltd</td></tr><tr><td colspan=\"2\">Address:</td><td colspan=\"8\">Morasha, Vrl - Kodinar Highway, Sidheegram Ta:-Sutrapada Dist:-Gir Somnath</td></tr><tr><td colspan=\"2\">PAN</td><td colspan=\"8\">AAACG8057G</td></tr><tr><td colspan=\"2\">GSTIN</td><td colspan=\"8\">24AAACG8057G1ZP</td></tr><tr><td colspan=\"2\">Types of Work</td><td colspan=\"8\">Transportation of cement</td></tr><tr><td colspan=\"2\">SAC Code</td><td colspan=\"8\">996511</td></tr><tr><td>Sr. No</td><td>Date</td><td>LR No.</td><td>S.DOC.NO</td><td>GP No.</td><td>Truck No.</td><td>MT</td><td>Destination</td><td>Rate</td><td>Amount</td></tr><tr><td>1</td><td>16-07-2022</td><td>1453</td><td>55692</td><td>3014012928</td><td>GJ12BV9639</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>2</td><td>17-07-2022</td><td>1460</td><td>56268</td><td>3014012999</td><td>GJ25U9077</td><td>30</td><td>JETPUR</td><td>429</td><td>12870</td></tr><tr><td>3</td><td>20-07-2022</td><td>1498</td><td>57713</td><td>3014013331</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>4</td><td>21-07-2022</td><td>1520</td><td>58530</td><td>3014013496</td><td>GJ25U8977</td><td>25</td><td>JAMNAGAR</td><td>611</td><td>15275</td></tr><tr><td>5</td><td>22-07-2022</td><td>1528</td><td>58579</td><td>3014013527</td><td>GJ25U7355</td><td>30</td><td>JASDAN 2</td><td>748</td><td>22440</td></tr><tr><td>6</td><td>22-07-2022</td><td>1532</td><td>58792</td><td>3014013559</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>7</td><td>23-07-2022</td><td>1542</td><td>59009</td><td>3014013641</td><td>GJ10TX7199</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>8</td><td>23-07-2022</td><td>1553</td><td>59387</td><td>3014013727</td><td>GJ11Z5499</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>9</td><td>24-07-2022</td><td>1571</td><td>59795</td><td>3014013804</td><td>GJ25U7355</td><td>5</td><td>KO SAGANI</td><td>553</td><td>2765</td></tr><tr><td>10</td><td>24-07-2022</td><td>1572</td><td>59795</td><td>3014013805</td><td>GJ25U7355</td><td>25</td><td>KO SAGANI</td><td>553</td><td>13825</td></tr><tr><td>11</td><td>24-07-2022</td><td>1576</td><td>59828</td><td>3014013821</td><td>GJ11VV7355</td><td>30</td><td>JAMNAGAR</td><td>599</td><td>17970</td></tr><tr><td>12</td><td>25-07-2022</td><td>1583</td><td>59836</td><td>3014013839</td><td>GJ25U8977</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>13</td><td>25-07-2022</td><td>1584</td><td>59855</td><td>3014013834</td><td>GJ10X7199</td><td>25</td><td>JAMNAGAR</td><td>599</td><td>14975</td></tr><tr><td>14</td><td>25-07-2022</td><td>1585</td><td>59855</td><td>3014013833</td><td>GJ10X7199</td><td>5</td><td>JAMNAGAR</td><td>599</td><td>2995</td></tr><tr><td>15</td><td>26-07-2022</td><td>1604</td><td>60335</td><td>3014013949</td><td>GJ25U9077</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>16</td><td>26-07-2022</td><td>1607</td><td>60471</td><td>3014013955</td><td>GJ11VV9830</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>17</td><td>26-07-2022</td><td>1608</td><td>60456</td><td>3014013958</td><td>GJ36T9330</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>18</td><td>26-07-2022</td><td>1611</td><td>60463</td><td>3080010425</td><td>GJ10Z7733</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>19</td><td>26-07-2022</td><td>1619</td><td>60660</td><td>3014014026</td><td>GJ25T8448</td><td>25</td><td>PADDHARI</td><td>675</td><td>16875</td></tr><tr><td>20</td><td>27-07-2022</td><td>1621</td><td>60751</td><td>3014014041</td><td>GJ25U7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>21</td><td>27-07-2022</td><td>1623</td><td>60739</td><td>3014014043</td><td>GJ03BT1999</td><td>25</td><td>JETPUR</td><td>434</td><td>10850</td></tr><tr><td>22</td><td>27-07-2022</td><td>1628</td><td>60971</td><td>3014014084</td><td>GJ32V9922</td><td>35</td><td>KO SAGANI</td><td>553</td><td>19355</td></tr><tr><td>23</td><td>28-07-2022</td><td>1637</td><td>61118</td><td>3014014140</td><td>GJ25U9095</td><td>15</td><td>KO SAGANI</td><td>558</td><td>8370</td></tr><tr><td>24</td><td>28-07-2022</td><td>1638</td><td>61118</td><td>3014014141</td><td>GJ25U9095</td><td>10</td><td>KO SAGANI</td><td>558</td><td>5580</td></tr><tr><td>25</td><td>28-07-2022</td><td>1646</td><td>61325</td><td>3014014181</td><td>GJ11Z5499</td><td>5</td><td>RAJKOT</td><td>590</td><td>2950</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>TOTAL</td><td>353195</td></tr><tr><td colspan=\"4\">M T</td><td colspan=\"3\">610</td><td colspan=\"2\">TDS 2%</td><td>7064</td></tr><tr><td colspan=\"4\">M T</td><td colspan=\"3\">610</td><td colspan=\"2\">TOTAL</td><td>346134</td></tr><tr><td colspan=\"10\">&quot;TAX IS PAYABLE ON REVERSE CHARGE YES&quot;</td></tr><tr><td colspan=\"10\">GTA DECLARATION=&#x27;AS PER SUB CLAUSE (V) OF RULE 2 (1) (D) LIABLE TO PAY GST IS CONSIGNOR OR CONSIGNEE AND NOT TRANSPORT AGENCY FOR SAGAR CARRIERS&#x27;</td></tr></table>",
+          "block_bbox": [
+            116,
+            159,
+            1112,
+            1458
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              116.0,
+              159.0
+            ],
+            [
+              1112.0,
+              159.0
+            ],
+            [
+              1112.0,
+              1458.0
+            ],
+            [
+              116.0,
+              1458.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 7,
+            "label": "figure_title",
+            "score": 0.43951356410980225,
+            "coordinate": [
+              408,
+              132,
+              818,
+              171
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                408.0,
+                132.0
+              ],
+              [
+                818.0,
+                132.0
+              ],
+              [
+                818.0,
+                171.0
+              ],
+              [
+                408.0,
+                171.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9661227464675903,
+            "coordinate": [
+              116,
+              159,
+              1112,
+              1458
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                116.0,
+                159.0
+              ],
+              [
+                1112.0,
+                159.0
+              ],
+              [
+                1112.0,
+                1458.0
+              ],
+              [
+                116.0,
+                1458.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Transporter Page 3.pdf",
+      "page_index": 1,
+      "page_count": 3,
+      "width": 1224,
+      "height": 1584,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Sr. No</td><td>Date</td><td>LR No.</td><td>S.DOC.NO</td><td>GP No.</td><td>Truck No.</td><td>MT</td><td>Destination</td><td>Rate</td><td>Amount</td></tr><tr><td>1</td><td>16-07-2022</td><td>1453</td><td>55692</td><td>3014012928</td><td>GJ12BV9639</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>2</td><td>17-07-2022</td><td>1460</td><td>56268</td><td>3014012999</td><td>GJ25U9077</td><td>30</td><td>JETPUR</td><td>429</td><td>12870</td></tr><tr><td>3</td><td>20-07-2022</td><td>1498</td><td>57713</td><td>3014013331</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>4</td><td>21-07-2022</td><td>1520</td><td>58530</td><td>3014013496</td><td>GJ25U8977</td><td>25</td><td>JAMNAGAR</td><td>611</td><td>15275</td></tr><tr><td>5</td><td>22-07-2022</td><td>1528</td><td>58579</td><td>3014013527</td><td>GJ25U7355</td><td>30</td><td>JASDAN 2</td><td>748</td><td>22440</td></tr><tr><td>6</td><td>22-07-2022</td><td>1532</td><td>58792</td><td>3014013559</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>7</td><td>23-07-2022</td><td>1542</td><td>59009</td><td>3014013641</td><td>GJ10TX7199</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>8</td><td>23-07-2022</td><td>1553</td><td>59387</td><td>3014013727</td><td>GJ11Z5499</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>9</td><td>24-07-2022</td><td>1571</td><td>59795</td><td>3014013804</td><td>GJ25U7355</td><td>5</td><td>KO SAGANI</td><td>553</td><td>2765</td></tr><tr><td>10</td><td>24-07-2022</td><td>1572</td><td>59795</td><td>3014013805</td><td>GJ25U7355</td><td>25</td><td>KO SAGANI</td><td>553</td><td>13825</td></tr><tr><td>11</td><td>24-07-2022</td><td>1576</td><td>59828</td><td>3014013821</td><td>GJ11VV7355</td><td>30</td><td>JAMNAGAR</td><td>599</td><td>17970</td></tr><tr><td>12</td><td>25-07-2022</td><td>1583</td><td>59836</td><td>3014013839</td><td>GJ25U8977</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>13</td><td>25-07-2022</td><td>1584</td><td>59855</td><td>3014013834</td><td>GJ10X7199</td><td>25</td><td>JAMNAGAR</td><td>599</td><td>14975</td></tr><tr><td>14</td><td>25-07-2022</td><td>1585</td><td>59855</td><td>3014013833</td><td>GJ10X7199</td><td>5</td><td>JAMNAGAR</td><td>599</td><td>2995</td></tr><tr><td>15</td><td>26-07-2022</td><td>1604</td><td>60335</td><td>3014013949</td><td>GJ25U9077</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>16</td><td>26-07-2022</td><td>1607</td><td>60471</td><td>3014013955</td><td>GJ11VV9830</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>17</td><td>26-07-2022</td><td>1608</td><td>60456</td><td>3014013958</td><td>GJ36T9330</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>18</td><td>26-07-2022</td><td>1611</td><td>60463</td><td>3080010425</td><td>GJ10Z7733</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>19</td><td>26-07-2022</td><td>1619</td><td>60660</td><td>3014014026</td><td>GJ25T8448</td><td>25</td><td>PADDHARI</td><td>675</td><td>16875</td></tr><tr><td>20</td><td>27-07-2022</td><td>1621</td><td>60751</td><td>3014014041</td><td>GJ25U7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>21</td><td>27-07-2022</td><td>1623</td><td>60739</td><td>3014014043</td><td>GJ03BT1999</td><td>25</td><td>JETPUR</td><td>434</td><td>10850</td></tr><tr><td>22</td><td>27-07-2022</td><td>1628</td><td>60971</td><td>3014014084</td><td>GJ32V9922</td><td>35</td><td>KO SAGANI</td><td>553</td><td>19355</td></tr><tr><td>23</td><td>28-07-2022</td><td>1637</td><td>61118</td><td>3014014140</td><td>GJ25U9095</td><td>15</td><td>KO SAGANI</td><td>558</td><td>8370</td></tr><tr><td>24</td><td>28-07-2022</td><td>1638</td><td>61118</td><td>3014014141</td><td>GJ25U9095</td><td>10</td><td>KO SAGANI</td><td>558</td><td>5580</td></tr><tr><td>25</td><td>28-07-2022</td><td>1646</td><td>61325</td><td>3014014181</td><td>GJ11Z5499</td><td>5</td><td>RAJKOT</td><td>590</td><td>2950</td></tr><tr><td>1</td><td>16-07-2022</td><td>1453</td><td>55692</td><td>3014012928</td><td>GJ12BV9639</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>2</td><td>17-07-2022</td><td>1460</td><td>56268</td><td>3014012999</td><td>GJ25U9077</td><td>30</td><td>JETPUR</td><td>429</td><td>12870</td></tr><tr><td>3</td><td>20-07-2022</td><td>1498</td><td>57713</td><td>3014013331</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>4</td><td>21-07-2022</td><td>1520</td><td>58530</td><td>3014013496</td><td>GJ25U8977</td><td>25</td><td>JAMNAGAR</td><td>611</td><td>15275</td></tr><tr><td>5</td><td>22-07-2022</td><td>1528</td><td>58579</td><td>3014013527</td><td>GJ25U7355</td><td>30</td><td>JASDAN 2</td><td>748</td><td>22440</td></tr><tr><td>6</td><td>22-07-2022</td><td>1532</td><td>58792</td><td>3014013559</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>7</td><td>23-07-2022</td><td>1542</td><td>59009</td><td>3014013641</td><td>GJ10TX7199</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>8</td><td>23-07-2022</td><td>1553</td><td>59387</td><td>3014013727</td><td>GJ11Z5499</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>9</td><td>24-07-2022</td><td>1571</td><td>59795</td><td>3014013804</td><td>GJ25U7355</td><td>5</td><td>KO SAGANI</td><td>553</td><td>2765</td></tr><tr><td>10</td><td>24-07-2022</td><td>1572</td><td>59795</td><td>3014013805</td><td>GJ25U7355</td><td>25</td><td>KO SAGANI</td><td>553</td><td>13825</td></tr><tr><td>11</td><td>24-07-2022</td><td>1576</td><td>59828</td><td>3014013821</td><td>GJ11VV7355</td><td>30</td><td>JAMNAGAR</td><td>599</td><td>17970</td></tr><tr><td>12</td><td>25-07-2022</td><td>1583</td><td>59836</td><td>3014013839</td><td>GJ25U8977</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>13</td><td>25-07-2022</td><td>1584</td><td>59855</td><td>3014013834</td><td>GJ10X7199</td><td>25</td><td>JAMNAGAR</td><td>599</td><td>14975</td></tr><tr><td>14</td><td>25-07-2022</td><td>1585</td><td>59855</td><td>3014013833</td><td>GJ10X7199</td><td>5</td><td>JAMNAGAR</td><td>599</td><td>2995</td></tr><tr><td>15</td><td>26-07-2022</td><td>1604</td><td>60335</td><td>3014013949</td><td>GJ25U9077</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>16</td><td>26-07-2022</td><td>1607</td><td>60471</td><td>3014013955</td><td>GJ11VV9830</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>17</td><td>26-07-2022</td><td>1608</td><td>60456</td><td>3014013958</td><td>GJ36T9330</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>18</td><td>26-07-2022</td><td>1611</td><td>60463</td><td>3080010425</td><td>GJ10Z7733</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>19</td><td>26-07-2022</td><td>1619</td><td>60660</td><td>3014014026</td><td>GJ25T8448</td><td>25</td><td>PADDHARI</td><td>675</td><td>16875</td></tr><tr><td>20</td><td>27-07-2022</td><td>1621</td><td>60751</td><td>3014014041</td><td>GJ25U7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>21</td><td>27-07-2022</td><td>1623</td><td>60739</td><td>3014014043</td><td>GJ03BT1999</td><td>25</td><td>JETPUR</td><td>434</td><td>10850</td></tr><tr><td>22</td><td>27-07-2022</td><td>1628</td><td>60971</td><td>3014014084</td><td>GJ32V9922</td><td>35</td><td>KO SAGANI</td><td>553</td><td>19355</td></tr><tr><td>23</td><td>28-07-2022</td><td>1637</td><td>61118</td><td>3014014140</td><td>GJ25U9095</td><td>15</td><td>KO SAGANI</td><td>558</td><td>8370</td></tr><tr><td>24</td><td>28-07-2022</td><td>1638</td><td>61118</td><td>3014014141</td><td>GJ25U9095</td><td>10</td><td>KO SAGANI</td><td>558</td><td>5580</td></tr><tr><td>25</td><td>28-07-2022</td><td>1646</td><td>61325</td><td>3014014181</td><td>GJ11Z5499</td><td>5</td><td>RAJKOT</td><td>590</td><td>2950</td></tr></table>",
+          "block_bbox": [
+            87,
+            32,
+            1118,
+            1584
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              87.0,
+              32.0
+            ],
+            [
+              1118.0,
+              32.0
+            ],
+            [
+              1118.0,
+              1584.0
+            ],
+            [
+              87.0,
+              1584.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9688472747802734,
+            "coordinate": [
+              87,
+              32,
+              1118,
+              1584
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                87.0,
+                32.0
+              ],
+              [
+                1118.0,
+                32.0
+              ],
+              [
+                1118.0,
+                1584.0
+              ],
+              [
+                87.0,
+                1584.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Transporter Page 3.pdf",
+      "page_index": 2,
+      "page_count": 3,
+      "width": 1224,
+      "height": 1584,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Sr. No</td><td>Date</td><td>LR No.</td><td>S.DOC.NO</td><td>GP No.</td><td>Truck No.</td><td>MT</td><td>Destination</td><td>Rate</td><td>Amount</td></tr><tr><td>1</td><td>16-07-2022</td><td>1453</td><td>55692</td><td>3014012928</td><td>GJ12BV9639</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>2</td><td>17-07-2022</td><td>1460</td><td>56268</td><td>3014012999</td><td>GJ25U9077</td><td>30</td><td>JETPUR</td><td>429</td><td>12870</td></tr><tr><td>3</td><td>20-07-2022</td><td>1498</td><td>57713</td><td>3014013331</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>4</td><td>21-07-2022</td><td>1520</td><td>58530</td><td>3014013496</td><td>GJ25U8977</td><td>25</td><td>JAMNAGAR</td><td>611</td><td>15275</td></tr><tr><td>5</td><td>22-07-2022</td><td>1528</td><td>58579</td><td>3014013527</td><td>GJ25U7355</td><td>30</td><td>JASDAN 2</td><td>748</td><td>22440</td></tr><tr><td>6</td><td>22-07-2022</td><td>1532</td><td>58792</td><td>3014013559</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>7</td><td>23-07-2022</td><td>1542</td><td>59009</td><td>3014013641</td><td>GJ10TX7199</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>8</td><td>23-07-2022</td><td>1553</td><td>59387</td><td>3014013727</td><td>GJ11Z5499</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>9</td><td>24-07-2022</td><td>1571</td><td>59795</td><td>3014013804</td><td>GJ25U7355</td><td>5</td><td>KO SAGANI</td><td>553</td><td>2765</td></tr><tr><td>10</td><td>24-07-2022</td><td>1572</td><td>59795</td><td>3014013805</td><td>GJ25U7355</td><td>25</td><td>KO SAGANI</td><td>553</td><td>13825</td></tr><tr><td>11</td><td>24-07-2022</td><td>1576</td><td>59828</td><td>3014013821</td><td>GJ11VV7355</td><td>30</td><td>JAMNAGAR</td><td>599</td><td>17970</td></tr><tr><td>12</td><td>25-07-2022</td><td>1583</td><td>59836</td><td>3014013839</td><td>GJ25U8977</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>13</td><td>25-07-2022</td><td>1584</td><td>59855</td><td>3014013834</td><td>GJ10X7199</td><td>25</td><td>JAMNAGAR</td><td>599</td><td>14975</td></tr><tr><td>14</td><td>25-07-2022</td><td>1585</td><td>59855</td><td>3014013833</td><td>GJ10X7199</td><td>5</td><td>JAMNAGAR</td><td>599</td><td>2995</td></tr><tr><td>15</td><td>26-07-2022</td><td>1604</td><td>60335</td><td>3014013949</td><td>GJ25U9077</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>16</td><td>26-07-2022</td><td>1607</td><td>60471</td><td>3014013955</td><td>GJ11VV9830</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>17</td><td>26-07-2022</td><td>1608</td><td>60456</td><td>3014013958</td><td>GJ36T9330</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>18</td><td>26-07-2022</td><td>1611</td><td>60463</td><td>3080010425</td><td>GJ10Z7733</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>19</td><td>26-07-2022</td><td>1619</td><td>60660</td><td>3014014026</td><td>GJ25T8448</td><td>25</td><td>PADDHARI</td><td>675</td><td>16875</td></tr><tr><td>20</td><td>27-07-2022</td><td>1621</td><td>60751</td><td>3014014041</td><td>GJ25U7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>21</td><td>27-07-2022</td><td>1623</td><td>60739</td><td>3014014043</td><td>GJ03BT1999</td><td>25</td><td>JETPUR</td><td>434</td><td>10850</td></tr><tr><td>22</td><td>27-07-2022</td><td>1628</td><td>60971</td><td>3014014084</td><td>GJ32V9922</td><td>35</td><td>KO SAGANI</td><td>553</td><td>19355</td></tr><tr><td>23</td><td>28-07-2022</td><td>1637</td><td>61118</td><td>3014014140</td><td>GJ25U9095</td><td>15</td><td>KO SAGANI</td><td>558</td><td>8370</td></tr><tr><td>24</td><td>28-07-2022</td><td>1638</td><td>61118</td><td>3014014141</td><td>GJ25U9095</td><td>10</td><td>KO SAGANI</td><td>558</td><td>5580</td></tr><tr><td>25</td><td>28-07-2022</td><td>1646</td><td>61325</td><td>3014014181</td><td>GJ11Z5499</td><td>5</td><td>RAJKOT</td><td>590</td><td>2950</td></tr><tr><td>1</td><td>16-07-2022</td><td>1453</td><td>55692</td><td>3014012928</td><td>GJ12BV9639</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>2</td><td>17-07-2022</td><td>1460</td><td>56268</td><td>3014012999</td><td>GJ25U9077</td><td>30</td><td>JETPUR</td><td>429</td><td>12870</td></tr><tr><td>3</td><td>20-07-2022</td><td>1498</td><td>57713</td><td>3014013331</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>4</td><td>21-07-2022</td><td>1520</td><td>58530</td><td>3014013496</td><td>GJ25U8977</td><td>25</td><td>JAMNAGAR</td><td>611</td><td>15275</td></tr><tr><td>5</td><td>22-07-2022</td><td>1528</td><td>58579</td><td>3014013527</td><td>GJ25U7355</td><td>30</td><td>JASDAN 2</td><td>748</td><td>22440</td></tr><tr><td>6</td><td>22-07-2022</td><td>1532</td><td>58792</td><td>3014013559</td><td>GJ11VV7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>7</td><td>23-07-2022</td><td>1542</td><td>59009</td><td>3014013641</td><td>GJ10TX7199</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>8</td><td>23-07-2022</td><td>1553</td><td>59387</td><td>3014013727</td><td>GJ11Z5499</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>9</td><td>24-07-2022</td><td>1571</td><td>59795</td><td>3014013804</td><td>GJ25U7355</td><td>5</td><td>KO SAGANI</td><td>553</td><td>2765</td></tr><tr><td>10</td><td>24-07-2022</td><td>1572</td><td>59795</td><td>3014013805</td><td>GJ25U7355</td><td>25</td><td>KO SAGANI</td><td>553</td><td>13825</td></tr><tr><td>11</td><td>24-07-2022</td><td>1576</td><td>59828</td><td>3014013821</td><td>GJ11VV7355</td><td>30</td><td>JAMNAGAR</td><td>599</td><td>17970</td></tr><tr><td>12</td><td>25-07-2022</td><td>1583</td><td>59836</td><td>3014013839</td><td>GJ25U8977</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>13</td><td>25-07-2022</td><td>1584</td><td>59855</td><td>3014013834</td><td>GJ10X7199</td><td>25</td><td>JAMNAGAR</td><td>599</td><td>14975</td></tr><tr><td>14</td><td>25-07-2022</td><td>1585</td><td>59855</td><td>3014013833</td><td>GJ10X7199</td><td>5</td><td>JAMNAGAR</td><td>599</td><td>2995</td></tr><tr><td>15</td><td>26-07-2022</td><td>1604</td><td>60335</td><td>3014013949</td><td>GJ25U9077</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>16</td><td>26-07-2022</td><td>1607</td><td>60471</td><td>3014013955</td><td>GJ11VV9830</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>17</td><td>26-07-2022</td><td>1608</td><td>60456</td><td>3014013958</td><td>GJ36T9330</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>18</td><td>26-07-2022</td><td>1611</td><td>60463</td><td>3080010425</td><td>GJ10Z7733</td><td>25</td><td>RAJKOT</td><td>590</td><td>14750</td></tr><tr><td>19</td><td>26-07-2022</td><td>1619</td><td>60660</td><td>3014014026</td><td>GJ25T8448</td><td>25</td><td>PADDHARI</td><td>675</td><td>16875</td></tr><tr><td>20</td><td>27-07-2022</td><td>1621</td><td>60751</td><td>3014014041</td><td>GJ25U7355</td><td>30</td><td>RAJKOT</td><td>580</td><td>17400</td></tr><tr><td>21</td><td>27-07-2022</td><td>1623</td><td>60739</td><td>3014014043</td><td>GJ03BT1999</td><td>25</td><td>JETPUR</td><td>434</td><td>10850</td></tr><tr><td>22</td><td>27-07-2022</td><td>1628</td><td>60971</td><td>3014014084</td><td>GJ32V9922</td><td>35</td><td>KO SAGANI</td><td>553</td><td>19355</td></tr><tr><td>23</td><td>28-07-2022</td><td>1637</td><td>61118</td><td>3014014140</td><td>GJ25U9095</td><td>15</td><td>KO SAGANI</td><td>558</td><td>8370</td></tr><tr><td>24</td><td>28-07-2022</td><td>1638</td><td>61118</td><td>3014014141</td><td>GJ25U9095</td><td>10</td><td>KO SAGANI</td><td>558</td><td>5580</td></tr><tr><td>25</td><td>28-07-2022</td><td>1646</td><td>61325</td><td>3014014181</td><td>GJ11Z5499</td><td>5</td><td>RAJKOT</td><td>590</td><td>2950</td></tr></table>",
+          "block_bbox": [
+            87,
+            32,
+            1118,
+            1584
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              87.0,
+              32.0
+            ],
+            [
+              1118.0,
+              32.0
+            ],
+            [
+              1118.0,
+              1584.0
+            ],
+            [
+              87.0,
+              1584.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9688472747802734,
+            "coordinate": [
+              87,
+              32,
+              1118,
+              1584
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                87.0,
+                32.0
+              ],
+              [
+                1118.0,
+                32.0
+              ],
+              [
+                1118.0,
+                1584.0
+              ],
+              [
+                87.0,
+                1584.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

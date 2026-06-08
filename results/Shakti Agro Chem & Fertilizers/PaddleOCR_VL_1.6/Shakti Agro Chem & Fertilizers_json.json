@@ -1,0 +1,7709 @@
+[
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 0,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            392,
+            1,
+            1002,
+            156
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              392.0,
+              1.0
+            ],
+            [
+              1002.0,
+              1.0
+            ],
+            [
+              1002.0,
+              156.0
+            ],
+            [
+              392.0,
+              156.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            232,
+            197,
+            368,
+            398
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              232.0,
+              197.0
+            ],
+            [
+              368.0,
+              197.0
+            ],
+            [
+              368.0,
+              398.0
+            ],
+            [
+              232.0,
+              398.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "वस्तु एवं सेवाकर आसूचना महिनदेशालय आंचলিক इकाई, अहमदाबाद\n6 वींव 7 वीमंजिल, \"आई-டி-एड्स\"एच.सी.जी. अस्पतालकेसामन,\nसोलाफलायओवरकेपास, सोला, अहमदाबाद (गुजरात) – 380 060.",
+          "block_bbox": [
+            411,
+            199,
+            962,
+            288
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              411.0,
+              199.0
+            ],
+            [
+              962.0,
+              199.0
+            ],
+            [
+              962.0,
+              288.0
+            ],
+            [
+              411.0,
+              288.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "DIRECTORATE GENERAL OF GOODS & SERVICES\nTAX INTELLIGENCE, ZONAL UNIT, AHMEDABAD",
+          "block_bbox": [
+            398,
+            289,
+            976,
+            344
+          ],
+          "block_id": 3,
+          "block_order": 2,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              398.0,
+              289.0
+            ],
+            [
+              976.0,
+              289.0
+            ],
+            [
+              976.0,
+              344.0
+            ],
+            [
+              398.0,
+              344.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": " $ 6^{th} $ &  $ 7^{th} $ Floor, “I-the Address”, Opp. H.C.G. Hospital, Near Sola Flyover, Sola, Ahmedabad, Gujarat-380060 Fax : 079-29600116 Phone : 079-26477011",
+          "block_bbox": [
+            389,
+            346,
+            977,
+            430
+          ],
+          "block_id": 4,
+          "block_order": 3,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              389.0,
+              346.0
+            ],
+            [
+              977.0,
+              346.0
+            ],
+            [
+              977.0,
+              430.0
+            ],
+            [
+              389.0,
+              430.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Alert Notice No. 10/2024-25",
+          "block_bbox": [
+            430,
+            437,
+            845,
+            481
+          ],
+          "block_id": 5,
+          "block_order": 4,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              430.0,
+              437.0
+            ],
+            [
+              845.0,
+              437.0
+            ],
+            [
+              845.0,
+              481.0
+            ],
+            [
+              430.0,
+              481.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Sub: Alert Notice regarding availment/passing on of Input Tax Credit (ITC) on the strength of bogus invoices without any supply of corresponding goods to/from M/s Shakti Agro Chem & Fertilizers (GSTIN:24DKMPP4401F1ZB) -reg.",
+          "block_bbox": [
+            264,
+            491,
+            1008,
+            620
+          ],
+          "block_id": 6,
+          "block_order": 5,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              264.0,
+              491.0
+            ],
+            [
+              1008.0,
+              491.0
+            ],
+            [
+              1008.0,
+              620.0
+            ],
+            [
+              264.0,
+              620.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Intelligence/information was received from the DGGI, Zonal Unit, Ahmedabad that various suppliers/aggregators are involved in the diversion of Agriculture Grade Urea (AGU) for industrial use, leading to loss to Government exchequer. Further, it was informed that commodity viz. Technical Grade Urea (TGU) falls under HSN 3102 and attracts 18% GST, whereas Agriculture Grade Urea also fall under HSN 3102 and the same is taxable @5% in GST. Intelligence further revealed that these firms were also involved in bogus invoice transactions to claim fake Input Tax Credit.",
+          "block_bbox": [
+            197,
+            648,
+            1009,
+            931
+          ],
+          "block_id": 7,
+          "block_order": 6,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              197.0,
+              648.0
+            ],
+            [
+              1009.0,
+              648.0
+            ],
+            [
+              1009.0,
+              931.0
+            ],
+            [
+              197.0,
+              931.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "2. An investigation is carried out against one such firm in the name of M/s. MH Acid and Chemicals, Rajkot which is found to be involved in the availment of fake ITC from the fake/non-existent firms and diversion of AGU to TGU. Also, it was observed that M/s. MH Acid and Chemicals, Rajkot had shown inward supplies of TGU from M/s. Shakti Agro Chem and Fertilizers (GSTIN: 24DKMPP4401F1ZB). Accordingly, an investigation was initiated against the above said supplier firm viz. M/s. Shakti Agro Chem and Fertilizers. The said firm was registered as proprietary firm of Smt. Ilaben Patel and had obtained the GST registration on 13.09.2017. The registration was cancelled suo-moto effective from 01.10.2018.",
+          "block_bbox": [
+            198,
+            947,
+            1009,
+            1264
+          ],
+          "block_id": 8,
+          "block_order": 7,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              198.0,
+              947.0
+            ],
+            [
+              1009.0,
+              947.0
+            ],
+            [
+              1009.0,
+              1264.0
+            ],
+            [
+              198.0,
+              1264.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "3. Working on the collected intelligence, DGGI, Zonal Unit, Ahmedabad conducted a search operation at the registered premises of M/s. Shakti",
+          "block_bbox": [
+            199,
+            1278,
+            1008,
+            1343
+          ],
+          "block_id": 9,
+          "block_order": 8,
+          "group_id": 9,
+          "block_polygon_points": [
+            [
+              199.0,
+              1278.0
+            ],
+            [
+              1008.0,
+              1278.0
+            ],
+            [
+              1008.0,
+              1343.0
+            ],
+            [
+              199.0,
+              1343.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            179,
+            1399,
+            466,
+            1572
+          ],
+          "block_id": 10,
+          "block_order": null,
+          "group_id": 10,
+          "block_polygon_points": [
+            [
+              176.5461883544922,
+              1407.512451171875
+            ],
+            [
+              459.4766845703125,
+              1390.365234375
+            ],
+            [
+              469.72735595703125,
+              1559.50146484375
+            ],
+            [
+              186.796875,
+              1576.648681640625
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.3718578815460205,
+            "coordinate": [
+              392,
+              1,
+              1002,
+              156
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                392.0,
+                1.0
+              ],
+              [
+                1002.0,
+                1.0
+              ],
+              [
+                1002.0,
+                156.0
+              ],
+              [
+                392.0,
+                156.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.8965368866920471,
+            "coordinate": [
+              232,
+              197,
+              368,
+              398
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                232.0,
+                197.0
+              ],
+              [
+                368.0,
+                197.0
+              ],
+              [
+                368.0,
+                398.0
+              ],
+              [
+                232.0,
+                398.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.754467785358429,
+            "coordinate": [
+              411,
+              199,
+              962,
+              288
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                411.0,
+                199.0
+              ],
+              [
+                962.0,
+                199.0
+              ],
+              [
+                962.0,
+                288.0
+              ],
+              [
+                411.0,
+                288.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.4405698776245117,
+            "coordinate": [
+              398,
+              289,
+              976,
+              344
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                398.0,
+                289.0
+              ],
+              [
+                976.0,
+                289.0
+              ],
+              [
+                976.0,
+                344.0
+              ],
+              [
+                398.0,
+                344.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5319800972938538,
+            "coordinate": [
+              389,
+              346,
+              977,
+              430
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                389.0,
+                346.0
+              ],
+              [
+                977.0,
+                346.0
+              ],
+              [
+                977.0,
+                430.0
+              ],
+              [
+                389.0,
+                430.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.38957223296165466,
+            "coordinate": [
+              430,
+              437,
+              845,
+              481
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                430.0,
+                437.0
+              ],
+              [
+                845.0,
+                437.0
+              ],
+              [
+                845.0,
+                481.0
+              ],
+              [
+                430.0,
+                481.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7734144926071167,
+            "coordinate": [
+              264,
+              491,
+              1008,
+              620
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                264.0,
+                491.0
+              ],
+              [
+                1008.0,
+                491.0
+              ],
+              [
+                1008.0,
+                620.0
+              ],
+              [
+                264.0,
+                620.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9503163695335388,
+            "coordinate": [
+              197,
+              648,
+              1009,
+              931
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                197.0,
+                648.0
+              ],
+              [
+                1009.0,
+                648.0
+              ],
+              [
+                1009.0,
+                931.0
+              ],
+              [
+                197.0,
+                931.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9532588124275208,
+            "coordinate": [
+              198,
+              947,
+              1009,
+              1264
+            ],
+            "order": 7,
+            "polygon_points": [
+              [
+                198.0,
+                947.0
+              ],
+              [
+                1009.0,
+                947.0
+              ],
+              [
+                1009.0,
+                1264.0
+              ],
+              [
+                198.0,
+                1264.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8949551582336426,
+            "coordinate": [
+              199,
+              1278,
+              1008,
+              1343
+            ],
+            "order": 8,
+            "polygon_points": [
+              [
+                199.0,
+                1278.0
+              ],
+              [
+                1008.0,
+                1278.0
+              ],
+              [
+                1008.0,
+                1343.0
+              ],
+              [
+                199.0,
+                1343.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.6620346307754517,
+            "coordinate": [
+              179,
+              1399,
+              466,
+              1572
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                176.5461883544922,
+                1407.512451171875
+              ],
+              [
+                459.4766845703125,
+                1390.365234375
+              ],
+              [
+                469.72735595703125,
+                1559.50146484375
+              ],
+              [
+                186.796875,
+                1576.648681640625
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 1,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td></td><td></td><td></td><td></td><td></td><td>22/07/2019)</td><td>DHIDHAM</td></tr><tr><td>7</td><td>24AAACC7852K1 ZJ</td><td>COROMANDEL INTERNATIONAL LIMITED</td><td>4285383</td><td>214269</td><td>Active</td><td>VADODARA-II</td></tr><tr><td>8</td><td>24BRTPM0763R1ZX</td><td>SHIKHAR IMP EX</td><td>869500</td><td>156510</td><td>Cancelled suomo\\n(Effective from 25/06/2018)</td><td>AHMEDABAD SOUTH</td></tr><tr><td>9</td><td>24ARXPC8680J1Z4</td><td>AADHARSH TR ADING</td><td>795000</td><td>143100</td><td>Cancelled on application of Tax payer\\n(Effective from 31/12/2018)</td><td>RAJKOT</td></tr><tr><td>10</td><td>24ACOFS0560R1ZI</td><td>SHREE FERTIL IZERS</td><td>1949575</td><td>97479</td><td>Active</td><td>AHMEDABAD-NORTH</td></tr><tr><td>11</td><td>24AABCN4107F1Z0</td><td>NARMADA BIO-CHEM LIMITED</td><td>1671883</td><td>94111</td><td>Active</td><td>AHMEDABAD-NORTH</td></tr><tr><td>12</td><td>24AAATG5120B1ZI</td><td>GUJARAT FER TILIZERS DEALERS ASSOCIATION</td><td>1777087</td><td>88854</td><td>Active</td><td>RAJKOT</td></tr><tr><td>13</td><td>24ABFPC0721L1Z5</td><td>BHAVESH LINING WORKS</td><td>349177</td><td>62852</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr><tr><td>14</td><td>24AACAT3283F1ZM</td><td>THE INDIAN FAR MERS &amp; FER TILIZER DEALERS ASSOCIATION</td><td>776292</td><td>38814</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr><tr><td>15</td><td>24AIPPR3854A1Z8</td><td>BHARGAV TRANSPORT</td><td>408472</td><td>20424</td><td>Active</td><td>KUTCH -GAN DHIDHAM</td></tr><tr><td>16</td><td>24ACMFS2558R1ZA</td><td>SWASTIK MUL TIPACK</td><td>103364</td><td>18605</td><td>Active</td><td>GANDHINAGAR</td></tr><tr><td>17</td><td>24AFVPP4702Q1ZP</td><td>YASH ENTERPRISE</td><td>102000</td><td>18360</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr><tr><td>18</td><td>24ACRPP3141J1ZE</td><td>PRUTHVI ENTERPRISES</td><td>126600</td><td>15192</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr><tr><td>19</td><td>24ALRPP6564E1ZP</td><td>GAYATRI FERTILIZERS</td><td>54575</td><td>8312</td><td>Active</td><td>VADODARA-I</td></tr><tr><td>20</td><td>24AAKFM9427D1Z9</td><td>MADURAM ELECTRONICS</td><td>22969</td><td>6431</td><td>Active</td><td>AHMEDABAD-NORTH</td></tr><tr><td>21</td><td>24AAACII314G1Z9</td><td>INDUSIND BANK LIMITED</td><td>22577</td><td>4064</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr><tr><td>22</td><td>24AACCB9905E1ZX</td><td>BEC FERTILIZERS LIMITED</td><td>74286</td><td>3714</td><td>Active</td><td>VADODARA-II</td></tr><tr><td>23</td><td>24AFAPB4432J1ZZ</td><td>NEW SHAKTI TYRE SERVICES</td><td>6875</td><td>1925</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr></table>",
+          "block_bbox": [
+            213,
+            107,
+            1014,
+            1356
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              213.0,
+              107.0
+            ],
+            [
+              1014.0,
+              107.0
+            ],
+            [
+              1014.0,
+              1356.0
+            ],
+            [
+              213.0,
+              1356.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.981711745262146,
+            "coordinate": [
+              213,
+              107,
+              1014,
+              1356
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                213.0,
+                107.0
+              ],
+              [
+                1014.0,
+                107.0
+              ],
+              [
+                1014.0,
+                1356.0
+              ],
+              [
+                213.0,
+                1356.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 2,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>8</td><td>24AMQPP0016P1ZQ</td><td>VAIDIK INDUSTRIES</td><td>396900</td><td>71442</td><td>n application of Taxpayer</td><td>AHMEDABAD SOUTH</td></tr><tr><td>9</td><td>24ALLPS1213M1ZZ</td><td>DUPTON CHEMICAL AND MARKETING</td><td>237500</td><td>42750</td><td>Active</td><td>AHMEDABAD -NORTH</td></tr><tr><td>10</td><td>24AAYAS4999K1Z9</td><td>SHAKTI KRUSHISEVA MANDAL</td><td>456403</td><td>27230</td><td>Cancelled suo-moto (Effective from 31/01/2020)</td><td>AHMEDABAD SOUTH</td></tr><tr><td>11</td><td>24AABTT9942P1ZP</td><td>THE KUHA SEVA SAHAKARI MANDLI LIMITED</td><td>299851</td><td>23149</td><td>Active</td><td>GANDHINAGAR</td></tr><tr><td>12</td><td>24BIBPP3050P2Z3</td><td>AGRI BUSINESS CENTER</td><td>285000</td><td>14250</td><td>Active</td><td>AHMEDABAD -NORTH</td></tr><tr><td>13</td><td>24AAMPV4708N1Z2</td><td>AGRI BUSINESS CENTER</td><td>188185</td><td>10889</td><td>Active</td><td>GANDHINAGAR</td></tr><tr><td>14</td><td>24AAAAD0317L1Z6</td><td>THE DEHGAM SAHAKARI KARID VECHAN SANG LTD</td><td>183333</td><td>9167</td><td>Active</td><td>GANDHINAGAR</td></tr><tr><td>15</td><td>24AAAAT1333L1ZO</td><td>THE MATAR TALUKA SAHAKRI KARID VECHAN SA</td><td>173714</td><td>8686</td><td>Active</td><td>VADODARA-I</td></tr><tr><td>16</td><td>24AFHPB0403L1Z1</td><td>NEW GAYATRI SEEDS AND FETRILIZERS</td><td>143985</td><td>8679</td><td>Active</td><td>GANDHINAGAR</td></tr><tr><td>17</td><td>24AAAAN2487P1Z5</td><td>THE NANDOL SEVA SAHAKARI MANDLI LTD.</td><td>154000</td><td>7700</td><td>Active</td><td>GANDHINAGAR</td></tr><tr><td>18</td><td>24AODPP6493F1ZR</td><td>AGRO SERVICE CENTRE</td><td>132600</td><td>6630</td><td>Active</td><td>GANDHINAGAR</td></tr><tr><td>19</td><td>24BFPPP3279B1ZB</td><td>SHREE UMIYA A GRO</td><td>117940</td><td>5897</td><td>Active</td><td>VADODARA-I</td></tr><tr><td>20</td><td>24AAABT2862R1ZY</td><td>THE MIROLY GROUP SEVA SAH KARI MANDALILTD</td><td>117333</td><td>5867</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr><tr><td>21</td><td>24AACAT5082A1ZV</td><td>THE ODD KAMOD GROUP SEVA SAHKARI MANDLI LIMITED</td><td>117333</td><td>5867</td><td>Active</td><td>AHMEDABAD SOUTH</td></tr><tr><td></td><td></td><td>THE BADRKHA</td><td></td><td></td><td></td><td></td></tr></table>",
+          "block_bbox": [
+            189,
+            108,
+            991,
+            1354
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              189.0,
+              108.0
+            ],
+            [
+              991.0,
+              108.0
+            ],
+            [
+              991.0,
+              1354.0
+            ],
+            [
+              189.0,
+              1354.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9744340181350708,
+            "coordinate": [
+              189,
+              108,
+              991,
+              1354
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                189.0,
+                108.0
+              ],
+              [
+                991.0,
+                108.0
+              ],
+              [
+                991.0,
+                1354.0
+              ],
+              [
+                189.0,
+                1354.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 3,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "text",
+          "block_content": "2017-18, which gets time barred shortly. Due care and prompt action is necessitated from the Jurisdictional Commissionerate in this regard.",
+          "block_bbox": [
+            201,
+            115,
+            1008,
+            178
+          ],
+          "block_id": 0,
+          "block_order": 1,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              201.0,
+              115.0
+            ],
+            [
+              1008.0,
+              115.0
+            ],
+            [
+              1008.0,
+              178.0
+            ],
+            [
+              201.0,
+              178.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "7. This issues with the approval of the ADG, DGGI, AZU, Ahmedabad.",
+          "block_bbox": [
+            202,
+            196,
+            985,
+            227
+          ],
+          "block_id": 1,
+          "block_order": 2,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              202.0,
+              196.0
+            ],
+            [
+              985.0,
+              196.0
+            ],
+            [
+              985.0,
+              227.0
+            ],
+            [
+              202.0,
+              227.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Signed by\nShyam Dadwal\nDate: 15-07-2024 17:39:57\n(Dr. Shyam Dadwal)\nJoint Director\nDGGI, Zonal Unit\nAhmedabad.",
+          "block_bbox": [
+            272,
+            273,
+            694,
+            387
+          ],
+          "block_id": 2,
+          "block_order": 3,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              272.0,
+              273.0
+            ],
+            [
+              694.0,
+              273.0
+            ],
+            [
+              694.0,
+              387.0
+            ],
+            [
+              272.0,
+              387.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            718,
+            386,
+            947,
+            491
+          ],
+          "block_id": 3,
+          "block_order": 4,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              718.0,
+              386.0
+            ],
+            [
+              947.0,
+              386.0
+            ],
+            [
+              947.0,
+              491.0
+            ],
+            [
+              718.0,
+              491.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "The Pr. Commissioner/Commissioner, CGST & Central Excise Commissionerate-Ahmedabad North/Ahmedabad South/Rajkot/Kutch-Gandhidham/Gandhinagar/Vadodara-I &II/Mumbai-East/Surat/Thane.",
+          "block_bbox": [
+            264,
+            531,
+            1006,
+            653
+          ],
+          "block_id": 4,
+          "block_order": 5,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              264.1302185058594,
+              527.9352416992188
+            ],
+            [
+              1006.2529296875,
+              535.9473266601562
+            ],
+            [
+              1005.0,
+              651.9999389648438
+            ],
+            [
+              262.8772888183594,
+              643.9878540039062
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Copy to: The Pr. Chief Commissioner/Chief Commissioner, all CGST & Central Excise Zones.",
+          "block_bbox": [
+            198,
+            673,
+            1007,
+            729
+          ],
+          "block_id": 5,
+          "block_order": 6,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              198.0,
+              673.0
+            ],
+            [
+              1007.0,
+              673.0
+            ],
+            [
+              1007.0,
+              729.0
+            ],
+            [
+              198.0,
+              729.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Copy for information to:",
+          "block_bbox": [
+            200,
+            753,
+            485,
+            781
+          ],
+          "block_id": 6,
+          "block_order": 7,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              200.0,
+              753.0
+            ],
+            [
+              485.0,
+              753.0
+            ],
+            [
+              485.0,
+              781.0
+            ],
+            [
+              200.0,
+              781.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "1. - The Principal Director General, DGGI (HQ), New Delhi.",
+          "block_bbox": [
+            220,
+            829,
+            862,
+            858
+          ],
+          "block_id": 7,
+          "block_order": 8,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              220.0,
+              829.0
+            ],
+            [
+              862.0,
+              829.0
+            ],
+            [
+              862.0,
+              858.0
+            ],
+            [
+              220.0,
+              858.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "2. - The Principal Addl. Director General/Addl. Director General, DGGI, all Zonal Units.",
+          "block_bbox": [
+            219,
+            859,
+            926,
+            914
+          ],
+          "block_id": 8,
+          "block_order": 9,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              219.0,
+              859.0
+            ],
+            [
+              926.0,
+              859.0
+            ],
+            [
+              926.0,
+              914.0
+            ],
+            [
+              219.0,
+              914.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "3. - The Deputy Director, DGGI, Regional Unit, Gandhidham.",
+          "block_bbox": [
+            220,
+            916,
+            889,
+            945
+          ],
+          "block_id": 9,
+          "block_order": 10,
+          "group_id": 9,
+          "block_polygon_points": [
+            [
+              220.0,
+              916.0
+            ],
+            [
+              889.0,
+              916.0
+            ],
+            [
+              889.0,
+              945.0
+            ],
+            [
+              220.0,
+              945.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "4. - The Deputy/Assistant Director, CEIB, New Delhi.",
+          "block_bbox": [
+            192,
+            947,
+            857,
+            978
+          ],
+          "block_id": 10,
+          "block_order": 11,
+          "group_id": 10,
+          "block_polygon_points": [
+            [
+              192.0,
+              947.0
+            ],
+            [
+              857.0,
+              947.0
+            ],
+            [
+              857.0,
+              978.0
+            ],
+            [
+              192.0,
+              978.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "5. - Guard file.",
+          "block_bbox": [
+            222,
+            975,
+            399,
+            1002
+          ],
+          "block_id": 11,
+          "block_order": 12,
+          "group_id": 11,
+          "block_polygon_points": [
+            [
+              222.0,
+              975.0
+            ],
+            [
+              399.0,
+              975.0
+            ],
+            [
+              399.0,
+              1002.0
+            ],
+            [
+              222.0,
+              1002.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(Vikram R.K.)\nDeputy Director\nDGGI, RRU, Rajkot",
+          "block_bbox": [
+            754,
+            1109,
+            965,
+            1190
+          ],
+          "block_id": 12,
+          "block_order": 13,
+          "group_id": 12,
+          "block_polygon_points": [
+            [
+              754.0,
+              1109.0
+            ],
+            [
+              965.0,
+              1109.0
+            ],
+            [
+              965.0,
+              1190.0
+            ],
+            [
+              754.0,
+              1190.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.905388355255127,
+            "coordinate": [
+              201,
+              115,
+              1008,
+              178
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                201.0,
+                115.0
+              ],
+              [
+                1008.0,
+                115.0
+              ],
+              [
+                1008.0,
+                178.0
+              ],
+              [
+                201.0,
+                178.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.45616915822029114,
+            "coordinate": [
+              202,
+              196,
+              985,
+              227
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                202.0,
+                196.0
+              ],
+              [
+                985.0,
+                196.0
+              ],
+              [
+                985.0,
+                227.0
+              ],
+              [
+                202.0,
+                227.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6298787593841553,
+            "coordinate": [
+              272,
+              273,
+              694,
+              387
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                272.0,
+                273.0
+              ],
+              [
+                694.0,
+                273.0
+              ],
+              [
+                694.0,
+                387.0
+              ],
+              [
+                272.0,
+                387.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8914557099342346,
+            "coordinate": [
+              718,
+              386,
+              947,
+              491
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                718.0,
+                386.0
+              ],
+              [
+                947.0,
+                386.0
+              ],
+              [
+                947.0,
+                491.0
+              ],
+              [
+                718.0,
+                491.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8396817445755005,
+            "coordinate": [
+              264,
+              531,
+              1006,
+              653
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                264.1302185058594,
+                527.9352416992188
+              ],
+              [
+                1006.2529296875,
+                535.9473266601562
+              ],
+              [
+                1005.0,
+                651.9999389648438
+              ],
+              [
+                262.8772888183594,
+                643.9878540039062
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8726676106452942,
+            "coordinate": [
+              198,
+              673,
+              1007,
+              729
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                198.0,
+                673.0
+              ],
+              [
+                1007.0,
+                673.0
+              ],
+              [
+                1007.0,
+                729.0
+              ],
+              [
+                198.0,
+                729.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4891374707221985,
+            "coordinate": [
+              200,
+              753,
+              485,
+              781
+            ],
+            "order": 7,
+            "polygon_points": [
+              [
+                200.0,
+                753.0
+              ],
+              [
+                485.0,
+                753.0
+              ],
+              [
+                485.0,
+                781.0
+              ],
+              [
+                200.0,
+                781.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8361342549324036,
+            "coordinate": [
+              220,
+              829,
+              862,
+              858
+            ],
+            "order": 8,
+            "polygon_points": [
+              [
+                220.0,
+                829.0
+              ],
+              [
+                862.0,
+                829.0
+              ],
+              [
+                862.0,
+                858.0
+              ],
+              [
+                220.0,
+                858.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8854279518127441,
+            "coordinate": [
+              219,
+              859,
+              926,
+              914
+            ],
+            "order": 9,
+            "polygon_points": [
+              [
+                219.0,
+                859.0
+              ],
+              [
+                926.0,
+                859.0
+              ],
+              [
+                926.0,
+                914.0
+              ],
+              [
+                219.0,
+                914.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8301106691360474,
+            "coordinate": [
+              220,
+              916,
+              889,
+              945
+            ],
+            "order": 10,
+            "polygon_points": [
+              [
+                220.0,
+                916.0
+              ],
+              [
+                889.0,
+                916.0
+              ],
+              [
+                889.0,
+                945.0
+              ],
+              [
+                220.0,
+                945.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6144009828567505,
+            "coordinate": [
+              192,
+              947,
+              857,
+              978
+            ],
+            "order": 11,
+            "polygon_points": [
+              [
+                192.0,
+                947.0
+              ],
+              [
+                857.0,
+                947.0
+              ],
+              [
+                857.0,
+                978.0
+              ],
+              [
+                192.0,
+                978.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5577088594436646,
+            "coordinate": [
+              222,
+              975,
+              399,
+              1002
+            ],
+            "order": 12,
+            "polygon_points": [
+              [
+                222.0,
+                975.0
+              ],
+              [
+                399.0,
+                975.0
+              ],
+              [
+                399.0,
+                1002.0
+              ],
+              [
+                222.0,
+                1002.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.41868916153907776,
+            "coordinate": [
+              771,
+              1108,
+              934,
+              1135
+            ],
+            "order": 13,
+            "polygon_points": [
+              [
+                771.0,
+                1108.0
+              ],
+              [
+                934.0,
+                1108.0
+              ],
+              [
+                934.0,
+                1135.0
+              ],
+              [
+                771.0,
+                1135.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5249583721160889,
+            "coordinate": [
+              754,
+              1109,
+              965,
+              1190
+            ],
+            "order": 14,
+            "polygon_points": [
+              [
+                754.0,
+                1109.0
+              ],
+              [
+                965.0,
+                1109.0
+              ],
+              [
+                965.0,
+                1190.0
+              ],
+              [
+                754.0,
+                1190.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3120063245296478,
+            "coordinate": [
+              760,
+              1135,
+              941,
+              1160
+            ],
+            "order": 15,
+            "polygon_points": [
+              [
+                760.0,
+                1135.0
+              ],
+              [
+                941.0,
+                1135.0
+              ],
+              [
+                941.0,
+                1160.0
+              ],
+              [
+                760.0,
+                1160.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.30018097162246704,
+            "coordinate": [
+              752,
+              1161,
+              964,
+              1189
+            ],
+            "order": 16,
+            "polygon_points": [
+              [
+                752.0,
+                1161.0
+              ],
+              [
+                964.0,
+                1161.0
+              ],
+              [
+                964.0,
+                1189.0
+              ],
+              [
+                752.0,
+                1189.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 4,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td colspan=\"3\">Annexure-A to the Alert Notice No. 10/2023-24 dated 15.07.2024 in case of M/s Shakti Agro Chem and Fertilizers (GSTIN: 24DKMPP4401F1ZB)</td></tr><tr><td>Sl. No.</td><td>Description of evidences collected</td><td>Remarks</td></tr><tr><td>1</td><td>Copy of Panchnama dated 25.05.2022, drawn at the registered premises of M/s Shakti Agro Chem and Fertilizers i.e. Shop no. 10,  $ 2^{{nd}} $ floor, Radhey Corner, lal Gebi circle, S.P. Ring road, Hathijan, Ahmedabad.</td><td>Found Non-existent</td></tr></table>",
+          "block_bbox": [
+            139,
+            128,
+            1106,
+            509
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              139.0,
+              128.0
+            ],
+            [
+              1106.0,
+              128.0
+            ],
+            [
+              1106.0,
+              509.0
+            ],
+            [
+              139.0,
+              509.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.8307147026062012,
+            "coordinate": [
+              139,
+              128,
+              1106,
+              509
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                139.0,
+                128.0
+              ],
+              [
+                1106.0,
+                128.0
+              ],
+              [
+                1106.0,
+                509.0
+              ],
+              [
+                139.0,
+                509.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 5,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "number",
+          "block_content": "1",
+          "block_bbox": [
+            619,
+            48,
+            632,
+            69
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              619.0,
+              48.0
+            ],
+            [
+              631.0,
+              48.0
+            ],
+            [
+              631.0,
+              68.0
+            ],
+            [
+              619.0,
+              68.0
+            ]
+          ]
+        },
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            1114,
+            22,
+            1150,
+            52
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              1114.0,
+              22.0
+            ],
+            [
+              1149.0,
+              22.0
+            ],
+            [
+              1149.0,
+              51.0
+            ],
+            [
+              1114.0,
+              51.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "PANCHNAMA DRAWN AT M/s SHAKTI AGRO CHEM & FERTILIZER (GSTIN: 24DKMPP4401F1ZB) AT SHOP NO.10, 2nd FLOOR, RADHEY CORNER, LAL GEBI CIRCLE, S.P. RING ROAD, HATHIJAN, AHMEDABAD, 382445 ON 25/05/2022.",
+          "block_bbox": [
+            172,
+            98,
+            1077,
+            225
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              172.0,
+              98.0
+            ],
+            [
+              1077.0,
+              98.0
+            ],
+            [
+              1077.0,
+              225.0
+            ],
+            [
+              172.0,
+              225.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Sr. No.</td><td>Name &amp; Address of the Panchas</td><td>Age (Years)</td><td>Occupation</td></tr><tr><td>(1)</td><td>Shri. Patel Atulbhai\\nC-1, Shriji Colony, viratnagar road, odhav, odhav industrial estate, Ahmedabad-382415</td><td>48</td><td>Service</td></tr><tr><td>(2)</td><td>Shri. Lalluvadia PragneshKumar Anantray, A-201, Platinum Enclave, Opp. Ayojan Nagar, S P Ring Road, Daskroi, Ahmedabad- 382445</td><td>48</td><td>Business</td></tr></table>",
+          "block_bbox": [
+            164,
+            256,
+            1083,
+            514
+          ],
+          "block_id": 3,
+          "block_order": null,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              164.0,
+              256.0
+            ],
+            [
+              1083.0,
+              256.0
+            ],
+            [
+              1083.0,
+              514.0
+            ],
+            [
+              164.0,
+              514.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "We, the above detailed persons, on being called upon by a person who introduces himself as Shri Navdeep Singh Sidhu, Intelligence Officer, Directorate General of GST Intelligence (DGGI), Ahmedabad Zonal Unit, Ahmedabad, present ourselves at Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445. Shri Navdeep Singh Sidhu, IO informs us that a search in premise of M/s. Shakti Agro Chem & Fertilizer (GSTIN: 24DKMPP4401F1ZB) registered in GST at shop no. 10, 2ND Floor, Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445, is to be conducted in the matter of evasion of Goods and Services Tax and shows us the Authorization for Search (GST-INS-01) bearing CBIC DIN –202205DWW30000000CA8 dated 25/05/2022 issued under Section-67(2) of the Central Goods and Services Tax Act, 2017, by the Additional Director, DGGI, Ahmedabad Zonal Unit which is valid for 02 days for search at the above said address. The officer then requests us to witness the said search proceedings as independent Panchas and also requests us to remain present during entire search proceedings. We, give our consent to witness the said search proceedings as independent Panchas and agree to remain present at the premises till the completion of the entire search proceeding and we put our dated signature on the said Authorization for Search bearing CBIC DIN –202205DWW30000000CA8 dated 25/05/2022. Shri Navdeep Singh Sidhu, IO then introduces other accompanying officer as Shri Kopula Balakrishna, IO, DGGI-Ahmedabad Zonal Unit, Ahmedabad (hereinafter called as \"the Officers\" for brevity).",
+          "block_bbox": [
+            168,
+            547,
+            1080,
+            1273
+          ],
+          "block_id": 4,
+          "block_order": 2,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              168.0,
+              547.0
+            ],
+            [
+              1080.0,
+              547.0
+            ],
+            [
+              1080.0,
+              1273.0
+            ],
+            [
+              168.0,
+              1273.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "We both the panchas and the officers wearing masks and by maintaining proper social distance, arrive at the entrance of the registered  $ \\uwave{\\text{Before me,}} $",
+          "block_bbox": [
+            172,
+            1274,
+            1078,
+            1337
+          ],
+          "block_id": 5,
+          "block_order": 3,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              171.57456970214844,
+              1281.0030517578125
+            ],
+            [
+              1077.0001220703125,
+              1273.9998779296875
+            ],
+            [
+              1077.4254150390625,
+              1328.9967041015625
+            ],
+            [
+              171.9998779296875,
+              1335.9998779296875
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            173,
+            1353,
+            292,
+            1379
+          ],
+          "block_id": 6,
+          "block_order": 4,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              173.0,
+              1353.0
+            ],
+            [
+              292.0,
+              1353.0
+            ],
+            [
+              292.0,
+              1379.0
+            ],
+            [
+              173.0,
+              1379.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            173,
+            1356,
+            326,
+            1432
+          ],
+          "block_id": 7,
+          "block_order": null,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              173.0,
+              1356.0
+            ],
+            [
+              326.0,
+              1356.0
+            ],
+            [
+              326.0,
+              1432.0
+            ],
+            [
+              173.0,
+              1432.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(Navdeep Singh Sidhu)\nIntelligence Officer,",
+          "block_bbox": [
+            174,
+            1425,
+            415,
+            1451
+          ],
+          "block_id": 8,
+          "block_order": 5,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              174.0,
+              1425.0
+            ],
+            [
+              415.0,
+              1425.0
+            ],
+            [
+              415.0,
+              1451.0
+            ],
+            [
+              174.0,
+              1451.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            173,
+            1451,
+            379,
+            1474
+          ],
+          "block_id": 9,
+          "block_order": 6,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              173.0,
+              1451.0
+            ],
+            [
+              379.0,
+              1451.0
+            ],
+            [
+              379.0,
+              1474.0
+            ],
+            [
+              173.0,
+              1474.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "DGGI, Ahmedabad Zonal Unit\n25/5/22",
+          "block_bbox": [
+            173,
+            1473,
+            492,
+            1499
+          ],
+          "block_id": 10,
+          "block_order": 7,
+          "group_id": 10,
+          "block_polygon_points": [
+            [
+              173.0,
+              1473.0
+            ],
+            [
+              492.0,
+              1473.0
+            ],
+            [
+              492.0,
+              1499.0
+            ],
+            [
+              173.0,
+              1499.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            571,
+            1477,
+            735,
+            1519
+          ],
+          "block_id": 11,
+          "block_order": 8,
+          "group_id": 10,
+          "block_polygon_points": [
+            [
+              571.0,
+              1477.0
+            ],
+            [
+              735.0,
+              1477.0
+            ],
+            [
+              735.0,
+              1519.0
+            ],
+            [
+              571.0,
+              1519.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            557,
+            1405,
+            727,
+            1484
+          ],
+          "block_id": 12,
+          "block_order": null,
+          "group_id": 12,
+          "block_polygon_points": [
+            [
+              557.0,
+              1405.0
+            ],
+            [
+              727.0,
+              1405.0
+            ],
+            [
+              727.0,
+              1484.0
+            ],
+            [
+              557.0,
+              1484.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(Shri. Tejas P Jolapara)\nP2-",
+          "block_bbox": [
+            534,
+            1519,
+            789,
+            1546
+          ],
+          "block_id": 13,
+          "block_order": 9,
+          "group_id": 13,
+          "block_polygon_points": [
+            [
+              534.0,
+              1519.0
+            ],
+            [
+              789.0,
+              1519.0
+            ],
+            [
+              789.0,
+              1546.0
+            ],
+            [
+              534.0,
+              1546.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            819,
+            1447,
+            983,
+            1496
+          ],
+          "block_id": 14,
+          "block_order": 10,
+          "group_id": 13,
+          "block_polygon_points": [
+            [
+              819.0,
+              1447.0
+            ],
+            [
+              983.0,
+              1447.0
+            ],
+            [
+              983.0,
+              1496.0
+            ],
+            [
+              819.0,
+              1496.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            815,
+            1339,
+            1043,
+            1420
+          ],
+          "block_id": 15,
+          "block_order": null,
+          "group_id": 15,
+          "block_polygon_points": [
+            [
+              815.0,
+              1339.0
+            ],
+            [
+              1043.0,
+              1339.0
+            ],
+            [
+              1043.0,
+              1420.0
+            ],
+            [
+              815.0,
+              1420.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            821,
+            1443,
+            1096,
+            1555
+          ],
+          "block_id": 16,
+          "block_order": null,
+          "group_id": 16,
+          "block_polygon_points": [
+            [
+              1095.0,
+              1459.0
+            ],
+            [
+              1090.0,
+              1451.0
+            ],
+            [
+              1072.0,
+              1443.0
+            ],
+            [
+              953.0,
+              1443.0
+            ],
+            [
+              821.0,
+              1451.0
+            ],
+            [
+              821.0,
+              1546.0
+            ],
+            [
+              845.0,
+              1554.0
+            ],
+            [
+              880.0,
+              1554.0
+            ],
+            [
+              958.0,
+              1546.0
+            ],
+            [
+              1054.0,
+              1538.0
+            ],
+            [
+              1095.0,
+              1530.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": " $ \\frac{25-5-22}{} $",
+          "block_bbox": [
+            852,
+            1493,
+            1094,
+            1552
+          ],
+          "block_id": 17,
+          "block_order": 11,
+          "group_id": 17,
+          "block_polygon_points": [
+            [
+              1093.0,
+              1502.0
+            ],
+            [
+              1088.0,
+              1493.0
+            ],
+            [
+              1012.0,
+              1493.0
+            ],
+            [
+              876.0,
+              1502.0
+            ],
+            [
+              852.0,
+              1510.0
+            ],
+            [
+              852.0,
+              1551.0
+            ],
+            [
+              946.0,
+              1551.0
+            ],
+            [
+              1011.0,
+              1543.0
+            ],
+            [
+              1082.0,
+              1535.0
+            ],
+            [
+              1093.0,
+              1526.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 16,
+            "label": "number",
+            "score": 0.5791149735450745,
+            "coordinate": [
+              619,
+              48,
+              632,
+              69
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                619.0,
+                48.0
+              ],
+              [
+                631.0,
+                48.0
+              ],
+              [
+                631.0,
+                68.0
+              ],
+              [
+                619.0,
+                68.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.5675815343856812,
+            "coordinate": [
+              1114,
+              22,
+              1150,
+              52
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                1114.0,
+                22.0
+              ],
+              [
+                1149.0,
+                22.0
+              ],
+              [
+                1149.0,
+                51.0
+              ],
+              [
+                1114.0,
+                51.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7841722965240479,
+            "coordinate": [
+              172,
+              98,
+              1077,
+              225
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                172.0,
+                98.0
+              ],
+              [
+                1077.0,
+                98.0
+              ],
+              [
+                1077.0,
+                225.0
+              ],
+              [
+                172.0,
+                225.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9706711173057556,
+            "coordinate": [
+              164,
+              256,
+              1083,
+              514
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                164.0,
+                256.0
+              ],
+              [
+                1083.0,
+                256.0
+              ],
+              [
+                1083.0,
+                514.0
+              ],
+              [
+                164.0,
+                514.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9701381325721741,
+            "coordinate": [
+              168,
+              547,
+              1080,
+              1273
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                168.0,
+                547.0
+              ],
+              [
+                1080.0,
+                547.0
+              ],
+              [
+                1080.0,
+                1273.0
+              ],
+              [
+                168.0,
+                1273.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9197533130645752,
+            "coordinate": [
+              172,
+              1274,
+              1078,
+              1337
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                171.57456970214844,
+                1281.0030517578125
+              ],
+              [
+                1077.0001220703125,
+                1273.9998779296875
+              ],
+              [
+                1077.4254150390625,
+                1328.9967041015625
+              ],
+              [
+                171.9998779296875,
+                1335.9998779296875
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.30369246006011963,
+            "coordinate": [
+              173,
+              1353,
+              292,
+              1379
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                173.0,
+                1353.0
+              ],
+              [
+                292.0,
+                1353.0
+              ],
+              [
+                292.0,
+                1379.0
+              ],
+              [
+                173.0,
+                1379.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.614973783493042,
+            "coordinate": [
+              173,
+              1356,
+              326,
+              1432
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                173.0,
+                1356.0
+              ],
+              [
+                326.0,
+                1356.0
+              ],
+              [
+                326.0,
+                1432.0
+              ],
+              [
+                173.0,
+                1432.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6330049633979797,
+            "coordinate": [
+              174,
+              1425,
+              415,
+              1451
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                174.0,
+                1425.0
+              ],
+              [
+                415.0,
+                1425.0
+              ],
+              [
+                415.0,
+                1451.0
+              ],
+              [
+                174.0,
+                1451.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6746554374694824,
+            "coordinate": [
+              173,
+              1451,
+              379,
+              1474
+            ],
+            "order": 7,
+            "polygon_points": [
+              [
+                173.0,
+                1451.0
+              ],
+              [
+                379.0,
+                1451.0
+              ],
+              [
+                379.0,
+                1474.0
+              ],
+              [
+                173.0,
+                1474.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7311941981315613,
+            "coordinate": [
+              173,
+              1473,
+              492,
+              1499
+            ],
+            "order": 8,
+            "polygon_points": [
+              [
+                173.0,
+                1473.0
+              ],
+              [
+                492.0,
+                1473.0
+              ],
+              [
+                492.0,
+                1499.0
+              ],
+              [
+                173.0,
+                1499.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.7745550274848938,
+            "coordinate": [
+              557,
+              1405,
+              727,
+              1484
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                557.0,
+                1405.0
+              ],
+              [
+                727.0,
+                1405.0
+              ],
+              [
+                727.0,
+                1484.0
+              ],
+              [
+                557.0,
+                1484.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.530389130115509,
+            "coordinate": [
+              571,
+              1477,
+              735,
+              1519
+            ],
+            "order": 9,
+            "polygon_points": [
+              [
+                571.0,
+                1477.0
+              ],
+              [
+                735.0,
+                1477.0
+              ],
+              [
+                735.0,
+                1519.0
+              ],
+              [
+                571.0,
+                1519.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6750457286834717,
+            "coordinate": [
+              534,
+              1519,
+              789,
+              1546
+            ],
+            "order": 10,
+            "polygon_points": [
+              [
+                534.0,
+                1519.0
+              ],
+              [
+                789.0,
+                1519.0
+              ],
+              [
+                789.0,
+                1546.0
+              ],
+              [
+                534.0,
+                1546.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.7947131991386414,
+            "coordinate": [
+              815,
+              1339,
+              1043,
+              1420
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                815.0,
+                1339.0
+              ],
+              [
+                1043.0,
+                1339.0
+              ],
+              [
+                1043.0,
+                1420.0
+              ],
+              [
+                815.0,
+                1420.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3177948594093323,
+            "coordinate": [
+              819,
+              1447,
+              983,
+              1496
+            ],
+            "order": 11,
+            "polygon_points": [
+              [
+                819.0,
+                1447.0
+              ],
+              [
+                983.0,
+                1447.0
+              ],
+              [
+                983.0,
+                1496.0
+              ],
+              [
+                819.0,
+                1496.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.45260313153266907,
+            "coordinate": [
+              821,
+              1443,
+              1096,
+              1555
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                1095.0,
+                1459.0
+              ],
+              [
+                1090.0,
+                1451.0
+              ],
+              [
+                1072.0,
+                1443.0
+              ],
+              [
+                953.0,
+                1443.0
+              ],
+              [
+                821.0,
+                1451.0
+              ],
+              [
+                821.0,
+                1546.0
+              ],
+              [
+                845.0,
+                1554.0
+              ],
+              [
+                880.0,
+                1554.0
+              ],
+              [
+                958.0,
+                1546.0
+              ],
+              [
+                1054.0,
+                1538.0
+              ],
+              [
+                1095.0,
+                1530.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3118000626564026,
+            "coordinate": [
+              852,
+              1493,
+              1094,
+              1552
+            ],
+            "order": 12,
+            "polygon_points": [
+              [
+                1093.0,
+                1502.0
+              ],
+              [
+                1088.0,
+                1493.0
+              ],
+              [
+                1012.0,
+                1493.0
+              ],
+              [
+                876.0,
+                1502.0
+              ],
+              [
+                852.0,
+                1510.0
+              ],
+              [
+                852.0,
+                1551.0
+              ],
+              [
+                946.0,
+                1551.0
+              ],
+              [
+                1011.0,
+                1543.0
+              ],
+              [
+                1082.0,
+                1535.0
+              ],
+              [
+                1093.0,
+                1526.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 6,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "number",
+          "block_content": "2",
+          "block_bbox": [
+            620,
+            49,
+            639,
+            72
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              620.0,
+              49.0
+            ],
+            [
+              638.0,
+              49.0
+            ],
+            [
+              638.0,
+              71.0
+            ],
+            [
+              620.0,
+              71.0
+            ]
+          ]
+        },
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            1125,
+            34,
+            1160,
+            69
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              1125.0,
+              34.0
+            ],
+            [
+              1159.0,
+              34.0
+            ],
+            [
+              1159.0,
+              68.0
+            ],
+            [
+              1125.0,
+              68.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "business premise of M/s. Shakti Agro Chem & Fertilizer (GSTIN: 24DKMPP4401F1ZB) registered in GST at shop no. 10, 2ND Floor, Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445 at 15:00 Hrs. On reaching the entrance of shop no. 10, 2ND Floor, Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445 it is observed that a board with name of Vinayak Road Tech and GST No. 24AZBPJ0114C2ZC is affixed at the Shop as follows:",
+          "block_bbox": [
+            165,
+            97,
+            1083,
+            325
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              165.0,
+              97.0
+            ],
+            [
+              1083.0,
+              97.0
+            ],
+            [
+              1083.0,
+              325.0
+            ],
+            [
+              165.0,
+              325.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            246,
+            355,
+            1048,
+            1040
+          ],
+          "block_id": 3,
+          "block_order": null,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              246.0,
+              355.0
+            ],
+            [
+              1048.0,
+              355.0
+            ],
+            [
+              1048.0,
+              1040.0
+            ],
+            [
+              246.0,
+              1040.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "In presence of we the panchas, the officers knock at the door of the shop and a person comes forward and introduces himself as Shri. Tejas P Jolapara husband of proprietor of M/s. Vinayak Road Tech. The officers in presence of we the panchas inquire from Shri. Tejas P Jolapara about M/s. Shakti Agro Chem & Fertilizer (GSTIN: 24DKMPP4401F1ZB) and its owner Smt. Ilaben Patel, to which Shri. Tejas P Jolapara informs the officers that he has never heard of M/s. Shakti Agro Chem & Fertilizer, however Shri. Tejas P Jolapara informs the officers that he has taken the shop on rent from Shri. Ankit Patel, Before me,",
+          "block_bbox": [
+            167,
+            1079,
+            1076,
+            1330
+          ],
+          "block_id": 4,
+          "block_order": 2,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              167.0,
+              1079.0
+            ],
+            [
+              1076.0,
+              1079.0
+            ],
+            [
+              1076.0,
+              1330.0
+            ],
+            [
+              167.0,
+              1330.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            170,
+            1356,
+            288,
+            1379
+          ],
+          "block_id": 5,
+          "block_order": 3,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              170.0,
+              1356.0
+            ],
+            [
+              287.0,
+              1356.0
+            ],
+            [
+              287.0,
+              1378.0
+            ],
+            [
+              170.0,
+              1378.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            158,
+            1372,
+            325,
+            1438
+          ],
+          "block_id": 6,
+          "block_order": null,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              158.0,
+              1372.0
+            ],
+            [
+              325.0,
+              1372.0
+            ],
+            [
+              325.0,
+              1438.0
+            ],
+            [
+              158.0,
+              1438.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            560,
+            1372,
+            742,
+            1452
+          ],
+          "block_id": 7,
+          "block_order": null,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              560.0,
+              1372.0
+            ],
+            [
+              742.0,
+              1372.0
+            ],
+            [
+              742.0,
+              1452.0
+            ],
+            [
+              560.0,
+              1452.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            565,
+            1451,
+            740,
+            1496
+          ],
+          "block_id": 8,
+          "block_order": null,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              565.0,
+              1451.0
+            ],
+            [
+              740.0,
+              1451.0
+            ],
+            [
+              740.0,
+              1496.0
+            ],
+            [
+              565.0,
+              1496.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            811,
+            1344,
+            1064,
+            1425
+          ],
+          "block_id": 9,
+          "block_order": null,
+          "group_id": 9,
+          "block_polygon_points": [
+            [
+              811.0,
+              1344.0
+            ],
+            [
+              1064.0,
+              1344.0
+            ],
+            [
+              1064.0,
+              1425.0
+            ],
+            [
+              811.0,
+              1425.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(Shri. Tejas P Jolapara)",
+          "block_bbox": [
+            530,
+            1522,
+            787,
+            1551
+          ],
+          "block_id": 10,
+          "block_order": 4,
+          "group_id": 10,
+          "block_polygon_points": [
+            [
+              530.0,
+              1522.0
+            ],
+            [
+              787.0,
+              1522.0
+            ],
+            [
+              787.0,
+              1551.0
+            ],
+            [
+              530.0,
+              1551.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            814,
+            1458,
+            1127,
+            1569
+          ],
+          "block_id": 11,
+          "block_order": null,
+          "group_id": 11,
+          "block_polygon_points": [
+            [
+              814.0,
+              1458.0
+            ],
+            [
+              1127.0,
+              1458.0
+            ],
+            [
+              1127.0,
+              1569.0
+            ],
+            [
+              814.0,
+              1569.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 16,
+            "label": "number",
+            "score": 0.6259449124336243,
+            "coordinate": [
+              620,
+              49,
+              639,
+              72
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                620.0,
+                49.0
+              ],
+              [
+                638.0,
+                49.0
+              ],
+              [
+                638.0,
+                71.0
+              ],
+              [
+                620.0,
+                71.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.3856661021709442,
+            "coordinate": [
+              1125,
+              34,
+              1160,
+              69
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                1125.0,
+                34.0
+              ],
+              [
+                1159.0,
+                34.0
+              ],
+              [
+                1159.0,
+                68.0
+              ],
+              [
+                1125.0,
+                68.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.952098548412323,
+            "coordinate": [
+              165,
+              97,
+              1083,
+              325
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                165.0,
+                97.0
+              ],
+              [
+                1083.0,
+                97.0
+              ],
+              [
+                1083.0,
+                325.0
+              ],
+              [
+                165.0,
+                325.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.9826142191886902,
+            "coordinate": [
+              246,
+              355,
+              1048,
+              1040
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                246.0,
+                355.0
+              ],
+              [
+                1048.0,
+                355.0
+              ],
+              [
+                1048.0,
+                1040.0
+              ],
+              [
+                246.0,
+                1040.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9599235653877258,
+            "coordinate": [
+              167,
+              1079,
+              1076,
+              1330
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                167.0,
+                1079.0
+              ],
+              [
+                1076.0,
+                1079.0
+              ],
+              [
+                1076.0,
+                1330.0
+              ],
+              [
+                167.0,
+                1330.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3140130937099457,
+            "coordinate": [
+              170,
+              1356,
+              288,
+              1379
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                170.0,
+                1356.0
+              ],
+              [
+                287.0,
+                1356.0
+              ],
+              [
+                287.0,
+                1378.0
+              ],
+              [
+                170.0,
+                1378.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.4553107023239136,
+            "coordinate": [
+              158,
+              1372,
+              325,
+              1438
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                158.0,
+                1372.0
+              ],
+              [
+                325.0,
+                1372.0
+              ],
+              [
+                325.0,
+                1438.0
+              ],
+              [
+                158.0,
+                1438.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.6652116775512695,
+            "coordinate": [
+              560,
+              1372,
+              742,
+              1452
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                560.0,
+                1372.0
+              ],
+              [
+                742.0,
+                1372.0
+              ],
+              [
+                742.0,
+                1452.0
+              ],
+              [
+                560.0,
+                1452.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.5155113935470581,
+            "coordinate": [
+              565,
+              1451,
+              740,
+              1496
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                565.0,
+                1451.0
+              ],
+              [
+                740.0,
+                1451.0
+              ],
+              [
+                740.0,
+                1496.0
+              ],
+              [
+                565.0,
+                1496.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.6581813097000122,
+            "coordinate": [
+              811,
+              1344,
+              1064,
+              1425
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                811.0,
+                1344.0
+              ],
+              [
+                1064.0,
+                1344.0
+              ],
+              [
+                1064.0,
+                1425.0
+              ],
+              [
+                811.0,
+                1425.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.49755924940109253,
+            "coordinate": [
+              530,
+              1522,
+              787,
+              1551
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                530.0,
+                1522.0
+              ],
+              [
+                787.0,
+                1522.0
+              ],
+              [
+                787.0,
+                1551.0
+              ],
+              [
+                530.0,
+                1551.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.4639459550380707,
+            "coordinate": [
+              814,
+              1458,
+              1127,
+              1569
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                814.0,
+                1458.0
+              ],
+              [
+                1127.0,
+                1458.0
+              ],
+              [
+                1127.0,
+                1569.0
+              ],
+              [
+                814.0,
+                1569.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 7,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "number",
+          "block_content": "3",
+          "block_bbox": [
+            616,
+            49,
+            633,
+            71
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              616.0,
+              49.0
+            ],
+            [
+              632.0,
+              49.0
+            ],
+            [
+              632.0,
+              70.0
+            ],
+            [
+              616.0,
+              70.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "the son of Smt. Ilaben Patel since 1st April, 2022 but he has not executed the rent agreement yet. The officers then show Shri. Tejas P Jolapara Authorization for Search (GST-INS-01) bearing CBIC DIN -202205DWW30000000CA8 dated 25/05/2022 issued under Section-67(2) of the Central Goods and Services Tax Act, 2017, by the Additional Director, DGGI, Ahmedabad Zonal Unit and as token of confirmation Shri. Tejas P Jolaparam puts his dated signature on Authorization for Search (GST-INS-01). The officers in presence of we the panchas offer their personal search to Shri. Tejas P Jolapara to which he declines politely. Upon asked by the officers to call the owner of the shop, Shri. Tejas P Jolapara (mobile no. 9879564583) calls Shri. Ankit Patel on mobile no. 8849022903 in presence of we the panchas and the officers, Shri. Ankit Patel attends the call and informs Shri. Tejas P Jolapara that he and his family including his mother Smt. Ilaben Patel and his father Shri. Chandrakant R Patel are out of Ahmedabad and cannot come at this moment. The officers then in presence of we the panchas check the registered premises of M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2ZC) on GST network on the laptop brought by the officers and it is noticed that the principal place of business of M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2) is B/32, Akshardham Ind Estate, under Ramol Bridge, Ramol GIDC Vatva, Ahmedabad, Gujarat, 382445 and no other additional place of business is registered in the registration details of M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2ZC). The officers in presence of we the panchas inquire from Shri. Tejas P Jolapara as to why shop no. 10, 2ND Floor, Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445 from where M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2ZC) is currently being operated has not been shown in the registration details of M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2ZC) to which Shri. Tejas P Jolapara informs the officers in presence of we the panchas that as the rent agreement has not been executed yet therefore he has not filed for amendment in the GST registration. In presence of we the panchas, the officers start the search of the shop however no documents related to M/s. Shakti Agro Chem & Fertilizer (GSTIN: 24DKMPP4401F1ZB) are found at the premises however some records related to M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2ZC) and one more firm namely M/s. Vinayak Engineers having GST No. 24ABPPD1014M1ZW are recovered from the shop. The officers inquire about M/s. Vinayak Engineers from Shri. Tejas P Jolapara to which he replies that he was the proprietor of the firm M/s. Vinayak Engineers (GST No. 24ABPPD1014M1ZW) but as he has not filed the GST returns of the said firm, the GST registration of the firm M/s. Vinayak",
+          "block_bbox": [
+            164,
+            102,
+            1078,
+            1337
+          ],
+          "block_id": 1,
+          "block_order": 1,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              164.0,
+              102.0
+            ],
+            [
+              1078.0,
+              102.0
+            ],
+            [
+              1078.0,
+              1337.0
+            ],
+            [
+              164.0,
+              1337.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            142,
+            1353,
+            319,
+            1436
+          ],
+          "block_id": 2,
+          "block_order": null,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              142.0,
+              1353.0
+            ],
+            [
+              319.0,
+              1353.0
+            ],
+            [
+              319.0,
+              1436.0
+            ],
+            [
+              142.0,
+              1436.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Before me,\n2505.2027\n(Navdeep Singh Sidhu)\nIntelligence Officer,\nDGGI, Ahmedabad Zonal Unit",
+          "block_bbox": [
+            138,
+            1354,
+            491,
+            1501
+          ],
+          "block_id": 3,
+          "block_order": 2,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              138.0,
+              1354.0
+            ],
+            [
+              491.0,
+              1354.0
+            ],
+            [
+              491.0,
+              1501.0
+            ],
+            [
+              138.0,
+              1501.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            529,
+            1403,
+            711,
+            1474
+          ],
+          "block_id": 4,
+          "block_order": null,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              529.0,
+              1403.0
+            ],
+            [
+              711.0,
+              1403.0
+            ],
+            [
+              711.0,
+              1474.0
+            ],
+            [
+              529.0,
+              1474.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            548,
+            1471,
+            741,
+            1517
+          ],
+          "block_id": 5,
+          "block_order": null,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              555.0,
+              1490.0
+            ],
+            [
+              555.0,
+              1498.0
+            ],
+            [
+              561.0,
+              1516.0
+            ],
+            [
+              686.0,
+              1516.0
+            ],
+            [
+              699.0,
+              1516.0
+            ],
+            [
+              710.0,
+              1516.0
+            ],
+            [
+              723.0,
+              1516.0
+            ],
+            [
+              734.0,
+              1516.0
+            ],
+            [
+              740.0,
+              1507.0
+            ],
+            [
+              740.0,
+              1471.0
+            ],
+            [
+              603.0,
+              1471.0
+            ],
+            [
+              561.0,
+              1481.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            812,
+            1350,
+            1064,
+            1446
+          ],
+          "block_id": 6,
+          "block_order": null,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              812.0,
+              1350.0
+            ],
+            [
+              1064.0,
+              1350.0
+            ],
+            [
+              1064.0,
+              1446.0
+            ],
+            [
+              812.0,
+              1446.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(Shri. Tejas P Jolapara)",
+          "block_bbox": [
+            532,
+            1519,
+            789,
+            1548
+          ],
+          "block_id": 7,
+          "block_order": 3,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              532.0,
+              1519.0
+            ],
+            [
+              789.0,
+              1519.0
+            ],
+            [
+              789.0,
+              1548.0
+            ],
+            [
+              532.0,
+              1548.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            819,
+            1465,
+            1119,
+            1555
+          ],
+          "block_id": 8,
+          "block_order": null,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              819.0,
+              1465.0
+            ],
+            [
+              1119.0,
+              1465.0
+            ],
+            [
+              1119.0,
+              1555.0
+            ],
+            [
+              819.0,
+              1555.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 16,
+            "label": "number",
+            "score": 0.6038614511489868,
+            "coordinate": [
+              616,
+              49,
+              633,
+              71
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                616.0,
+                49.0
+              ],
+              [
+                632.0,
+                49.0
+              ],
+              [
+                632.0,
+                70.0
+              ],
+              [
+                616.0,
+                70.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9681081771850586,
+            "coordinate": [
+              164,
+              102,
+              1078,
+              1337
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                164.0,
+                102.0
+              ],
+              [
+                1078.0,
+                102.0
+              ],
+              [
+                1078.0,
+                1337.0
+              ],
+              [
+                164.0,
+                1337.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.495678186416626,
+            "coordinate": [
+              142,
+              1353,
+              319,
+              1436
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                142.0,
+                1353.0
+              ],
+              [
+                319.0,
+                1353.0
+              ],
+              [
+                319.0,
+                1436.0
+              ],
+              [
+                142.0,
+                1436.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3276253938674927,
+            "coordinate": [
+              138,
+              1354,
+              491,
+              1501
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                138.0,
+                1354.0
+              ],
+              [
+                491.0,
+                1354.0
+              ],
+              [
+                491.0,
+                1501.0
+              ],
+              [
+                138.0,
+                1501.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3258138597011566,
+            "coordinate": [
+              154,
+              1423,
+              492,
+              1503
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                154.0,
+                1455.0
+              ],
+              [
+                154.0,
+                1462.0
+              ],
+              [
+                154.0,
+                1478.0
+              ],
+              [
+                166.0,
+                1494.0
+              ],
+              [
+                491.0,
+                1494.0
+              ],
+              [
+                491.0,
+                1447.0
+              ],
+              [
+                486.0,
+                1423.0
+              ],
+              [
+                178.0,
+                1423.0
+              ],
+              [
+                172.0,
+                1431.0
+              ],
+              [
+                160.0,
+                1447.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.6205438375473022,
+            "coordinate": [
+              529,
+              1403,
+              711,
+              1474
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                529.0,
+                1403.0
+              ],
+              [
+                711.0,
+                1403.0
+              ],
+              [
+                711.0,
+                1474.0
+              ],
+              [
+                529.0,
+                1474.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.3950923681259155,
+            "coordinate": [
+              548,
+              1471,
+              741,
+              1517
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                555.0,
+                1490.0
+              ],
+              [
+                555.0,
+                1498.0
+              ],
+              [
+                561.0,
+                1516.0
+              ],
+              [
+                686.0,
+                1516.0
+              ],
+              [
+                699.0,
+                1516.0
+              ],
+              [
+                710.0,
+                1516.0
+              ],
+              [
+                723.0,
+                1516.0
+              ],
+              [
+                734.0,
+                1516.0
+              ],
+              [
+                740.0,
+                1507.0
+              ],
+              [
+                740.0,
+                1471.0
+              ],
+              [
+                603.0,
+                1471.0
+              ],
+              [
+                561.0,
+                1481.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.6403780579566956,
+            "coordinate": [
+              812,
+              1350,
+              1064,
+              1446
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                812.0,
+                1350.0
+              ],
+              [
+                1064.0,
+                1350.0
+              ],
+              [
+                1064.0,
+                1446.0
+              ],
+              [
+                812.0,
+                1446.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.48752355575561523,
+            "coordinate": [
+              532,
+              1519,
+              789,
+              1548
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                532.0,
+                1519.0
+              ],
+              [
+                789.0,
+                1519.0
+              ],
+              [
+                789.0,
+                1548.0
+              ],
+              [
+                532.0,
+                1548.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.4643397033214569,
+            "coordinate": [
+              819,
+              1465,
+              1119,
+              1555
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                819.0,
+                1465.0
+              ],
+              [
+                1119.0,
+                1465.0
+              ],
+              [
+                1119.0,
+                1555.0
+              ],
+              [
+                819.0,
+                1555.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 8,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "number",
+          "block_content": "4",
+          "block_bbox": [
+            627,
+            48,
+            646,
+            69
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              627.0,
+              48.0
+            ],
+            [
+              645.0,
+              48.0
+            ],
+            [
+              645.0,
+              68.0
+            ],
+            [
+              627.0,
+              68.0
+            ]
+          ]
+        },
+        {
+          "block_label": "number",
+          "block_content": "-13",
+          "block_bbox": [
+            1126,
+            33,
+            1158,
+            64
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              1126.0,
+              33.0
+            ],
+            [
+              1157.0,
+              33.0
+            ],
+            [
+              1157.0,
+              63.0
+            ],
+            [
+              1126.0,
+              63.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Engineers (GST No. 24ABPPD1014M1ZW) was cancelled by the GST department. The officers in presence of we the panchas also recover two invoices pertaining to firm M/s. Sabarmati Fertilizer and Chemicals Industries Private Limited (24AAYCS3916Q1ZE) having registered premises at shop no. 10, 2ND Floor, Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445 issued by M/s. Mitachem Pulveriser Industries and M/s. SGS India Private Limited. The officers in presence of we the panchas inquire from Shri. Tejas P Jolapara about M/s. Sabarmati Fertilizer and Chemicals Industries Private Limited (24AAYCS3916Q1ZE) to which he replies that he is not aware of M/s. Sabarmati Fertilizer and Chemicals Industries Private Limited (24AAYCS3916Q1ZE). The officers in presence of we the panchas under the reasonable belief that the documents related to M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2ZC), M/s. Vinayak Engineers (GST No. 24ABPPD1014M1ZW) and M/s. Sabarmati Fertilizer and Chemicals Industries Private Limited (24AAYCS3916Q1ZE) may be useful for further investigation withdraw the records pertaining to the three firms recovered from shop no. 10, 2ND Floor, Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445 under Panchnama proceedings. The said documents are seized by the officers in presence of we the panchas as detailed in Form GST INS-02.",
+          "block_bbox": [
+            179,
+            96,
+            1088,
+            737
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              179.0,
+              96.0
+            ],
+            [
+              1088.0,
+              96.0
+            ],
+            [
+              1088.0,
+              737.0
+            ],
+            [
+              179.0,
+              737.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "This Panchnama has been recorded as per our say and version with our consent in laptop and printer of the officers. No untoward incidence happened during the course of the entire Panchnama proceedings and nobody's religious feelings were hurt and the entire search proceedings were carried out in a very peaceful and cordial manner. All the facts and figures narrated in this Panchnama are true and correct and all the contents of the Panchnama have been explained to us in the local language and in token of its correctness we the Panchas put our dated signature in all the pages of this Panchnama. Shri. Tejas P Jolapara puts his dated signature on all the pages of this panchnama. We the above detailed Panchas, all the Officers and Shri. Tejas P Jolapara remain present during the entire course of Panchnama proceedings. After completion of Panchnama proceedings and before leaving the premises all the officers and we the Panchas offer for personal search to Shri. Tejas P Jolapara to which he politely declines. During the panchnama proceedings all protocol related to pandemic Covid-19 has been followed. The Panchnama proceedings commenced at 15:00 Hrs. on 25/05/2022 and concluded at 21:30 Hrs. on the same day i.e., 25/05/2022.",
+          "block_bbox": [
+            178,
+            767,
+            1088,
+            1304
+          ],
+          "block_id": 3,
+          "block_order": 2,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              178.0,
+              767.0
+            ],
+            [
+              1088.0,
+              767.0
+            ],
+            [
+              1088.0,
+              1304.0
+            ],
+            [
+              178.0,
+              1304.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Before me,\n(Navdeep Singh Sidhu)\nIntelligence Officer,\nDGGI, Ahmedabad Zonal Unit",
+          "block_bbox": [
+            163,
+            1350,
+            492,
+            1499
+          ],
+          "block_id": 4,
+          "block_order": 3,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              163.0,
+              1350.0
+            ],
+            [
+              492.0,
+              1350.0
+            ],
+            [
+              492.0,
+              1499.0
+            ],
+            [
+              163.0,
+              1499.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            553,
+            1416,
+            719,
+            1471
+          ],
+          "block_id": 5,
+          "block_order": 4,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              553.0,
+              1424.0
+            ],
+            [
+              553.0,
+              1470.0
+            ],
+            [
+              594.0,
+              1470.0
+            ],
+            [
+              665.0,
+              1463.0
+            ],
+            [
+              718.0,
+              1455.0
+            ],
+            [
+              718.0,
+              1424.0
+            ],
+            [
+              713.0,
+              1416.0
+            ],
+            [
+              625.0,
+              1416.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            463,
+            1335,
+            1053,
+            1427
+          ],
+          "block_id": 6,
+          "block_order": null,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              463.0,
+              1335.0
+            ],
+            [
+              1053.0,
+              1335.0
+            ],
+            [
+              1053.0,
+              1427.0
+            ],
+            [
+              463.0,
+              1427.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "25/5/22",
+          "block_bbox": [
+            574,
+            1465,
+            761,
+            1515
+          ],
+          "block_id": 7,
+          "block_order": 5,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              574.0,
+              1465.0
+            ],
+            [
+              761.0,
+              1465.0
+            ],
+            [
+              761.0,
+              1515.0
+            ],
+            [
+              574.0,
+              1515.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(Shri. Tejas P Jolapara)\nP2-  $ \\frac{P_{cl}}{25-5-22} $",
+          "block_bbox": [
+            541,
+            1517,
+            798,
+            1548
+          ],
+          "block_id": 8,
+          "block_order": 6,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              541.0,
+              1517.0
+            ],
+            [
+              798.0,
+              1517.0
+            ],
+            [
+              798.0,
+              1548.0
+            ],
+            [
+              541.0,
+              1548.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "",
+          "block_bbox": [
+            827,
+            1456,
+            1096,
+            1545
+          ],
+          "block_id": 9,
+          "block_order": 7,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              827.0,
+              1456.0
+            ],
+            [
+              1096.0,
+              1456.0
+            ],
+            [
+              1096.0,
+              1545.0
+            ],
+            [
+              827.0,
+              1545.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 16,
+            "label": "number",
+            "score": 0.5013774633407593,
+            "coordinate": [
+              627,
+              48,
+              646,
+              69
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                627.0,
+                48.0
+              ],
+              [
+                645.0,
+                48.0
+              ],
+              [
+                645.0,
+                68.0
+              ],
+              [
+                627.0,
+                68.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 16,
+            "label": "number",
+            "score": 0.7591941356658936,
+            "coordinate": [
+              1126,
+              33,
+              1158,
+              64
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                1126.0,
+                33.0
+              ],
+              [
+                1157.0,
+                33.0
+              ],
+              [
+                1157.0,
+                63.0
+              ],
+              [
+                1126.0,
+                63.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9663710594177246,
+            "coordinate": [
+              179,
+              96,
+              1088,
+              737
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                179.0,
+                96.0
+              ],
+              [
+                1088.0,
+                96.0
+              ],
+              [
+                1088.0,
+                737.0
+              ],
+              [
+                179.0,
+                737.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9652422666549683,
+            "coordinate": [
+              178,
+              767,
+              1088,
+              1304
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                178.0,
+                767.0
+              ],
+              [
+                1088.0,
+                767.0
+              ],
+              [
+                1088.0,
+                1304.0
+              ],
+              [
+                178.0,
+                1304.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3256959915161133,
+            "coordinate": [
+              179,
+              1352,
+              300,
+              1381
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                179.0,
+                1352.0
+              ],
+              [
+                300.0,
+                1352.0
+              ],
+              [
+                300.0,
+                1381.0
+              ],
+              [
+                179.0,
+                1381.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.357210248708725,
+            "coordinate": [
+              169,
+              1353,
+              325,
+              1442
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                169.0,
+                1353.0
+              ],
+              [
+                325.0,
+                1353.0
+              ],
+              [
+                325.0,
+                1442.0
+              ],
+              [
+                169.0,
+                1442.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.32549360394477844,
+            "coordinate": [
+              163,
+              1350,
+              492,
+              1499
+            ],
+            "order": 7,
+            "polygon_points": [
+              [
+                163.0,
+                1350.0
+              ],
+              [
+                492.0,
+                1350.0
+              ],
+              [
+                492.0,
+                1499.0
+              ],
+              [
+                163.0,
+                1499.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.4386020004749298,
+            "coordinate": [
+              170,
+              1423,
+              423,
+              1451
+            ],
+            "order": 8,
+            "polygon_points": [
+              [
+                170.0,
+                1423.0
+              ],
+              [
+                423.0,
+                1423.0
+              ],
+              [
+                423.0,
+                1451.0
+              ],
+              [
+                170.0,
+                1451.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.42404988408088684,
+            "coordinate": [
+              181,
+              1473,
+              501,
+              1500
+            ],
+            "order": 9,
+            "polygon_points": [
+              [
+                181.0,
+                1473.0
+              ],
+              [
+                501.0,
+                1473.0
+              ],
+              [
+                501.0,
+                1500.0
+              ],
+              [
+                181.0,
+                1500.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.5090929865837097,
+            "coordinate": [
+              463,
+              1335,
+              1053,
+              1427
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                463.0,
+                1335.0
+              ],
+              [
+                1053.0,
+                1335.0
+              ],
+              [
+                1053.0,
+                1427.0
+              ],
+              [
+                463.0,
+                1427.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6069267988204956,
+            "coordinate": [
+              553,
+              1416,
+              719,
+              1471
+            ],
+            "order": 10,
+            "polygon_points": [
+              [
+                553.0,
+                1424.0
+              ],
+              [
+                553.0,
+                1470.0
+              ],
+              [
+                594.0,
+                1470.0
+              ],
+              [
+                665.0,
+                1463.0
+              ],
+              [
+                718.0,
+                1455.0
+              ],
+              [
+                718.0,
+                1424.0
+              ],
+              [
+                713.0,
+                1416.0
+              ],
+              [
+                625.0,
+                1416.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5500762462615967,
+            "coordinate": [
+              574,
+              1465,
+              761,
+              1515
+            ],
+            "order": 11,
+            "polygon_points": [
+              [
+                574.0,
+                1465.0
+              ],
+              [
+                761.0,
+                1465.0
+              ],
+              [
+                761.0,
+                1515.0
+              ],
+              [
+                574.0,
+                1515.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.647009015083313,
+            "coordinate": [
+              541,
+              1517,
+              798,
+              1548
+            ],
+            "order": 12,
+            "polygon_points": [
+              [
+                541.0,
+                1517.0
+              ],
+              [
+                798.0,
+                1517.0
+              ],
+              [
+                798.0,
+                1548.0
+              ],
+              [
+                541.0,
+                1548.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.4086375832557678,
+            "coordinate": [
+              826,
+              1458,
+              1001,
+              1499
+            ],
+            "order": 13,
+            "polygon_points": [
+              [
+                826.0,
+                1458.0
+              ],
+              [
+                1001.0,
+                1458.0
+              ],
+              [
+                1001.0,
+                1499.0
+              ],
+              [
+                826.0,
+                1499.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3810790479183197,
+            "coordinate": [
+              827,
+              1456,
+              1096,
+              1545
+            ],
+            "order": 14,
+            "polygon_points": [
+              [
+                827.0,
+                1456.0
+              ],
+              [
+                1096.0,
+                1456.0
+              ],
+              [
+                1096.0,
+                1545.0
+              ],
+              [
+                827.0,
+                1545.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3879738748073578,
+            "coordinate": [
+              883,
+              1497,
+              1094,
+              1544
+            ],
+            "order": 15,
+            "polygon_points": [
+              [
+                883.0,
+                1497.0
+              ],
+              [
+                1094.0,
+                1497.0
+              ],
+              [
+                1094.0,
+                1544.0
+              ],
+              [
+                883.0,
+                1544.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 9,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            574,
+            525,
+            724,
+            639
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              574.0,
+              525.0
+            ],
+            [
+              724.0,
+              525.0
+            ],
+            [
+              724.0,
+              639.0
+            ],
+            [
+              574.0,
+              639.0
+            ]
+          ]
+        },
+        {
+          "block_label": "doc_title",
+          "block_content": "시리 2012, 시리 2012",
+          "block_bbox": [
+            476,
+            578,
+            514,
+            918
+          ],
+          "block_id": 1,
+          "block_order": 1,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              476.0,
+              578.0
+            ],
+            [
+              514.0,
+              578.0
+            ],
+            [
+              514.0,
+              918.0
+            ],
+            [
+              476.0,
+              918.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            527,
+            861,
+            632,
+            963
+          ],
+          "block_id": 2,
+          "block_order": null,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              527.0,
+              861.0
+            ],
+            [
+              632.0,
+              861.0
+            ],
+            [
+              632.0,
+              963.0
+            ],
+            [
+              527.0,
+              963.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Jolapara Iejasbnai\n&ম তিল / DOB : 30/09/1981\nযুম / Male",
+          "block_bbox": [
+            645,
+            647,
+            695,
+            837
+          ],
+          "block_id": 3,
+          "block_order": 2,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              645.0,
+              647.0
+            ],
+            [
+              695.0,
+              647.0
+            ],
+            [
+              695.0,
+              837.0
+            ],
+            [
+              645.0,
+              837.0
+            ]
+          ]
+        },
+        {
+          "block_label": "doc_title",
+          "block_content": "7265 6204 0292",
+          "block_bbox": [
+            519,
+            655,
+            545,
+            841
+          ],
+          "block_id": 4,
+          "block_order": 3,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              519.0,
+              655.0
+            ],
+            [
+              545.0,
+              655.0
+            ],
+            [
+              545.0,
+              841.0
+            ],
+            [
+              519.0,
+              841.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.7194280028343201,
+            "coordinate": [
+              574,
+              525,
+              724,
+              639
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                574.0,
+                525.0
+              ],
+              [
+                724.0,
+                525.0
+              ],
+              [
+                724.0,
+                639.0
+              ],
+              [
+                574.0,
+                639.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 6,
+            "label": "doc_title",
+            "score": 0.5114797353744507,
+            "coordinate": [
+              476,
+              578,
+              514,
+              918
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                476.0,
+                578.0
+              ],
+              [
+                514.0,
+                578.0
+              ],
+              [
+                514.0,
+                918.0
+              ],
+              [
+                476.0,
+                918.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.9417775869369507,
+            "coordinate": [
+              527,
+              861,
+              632,
+              963
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                527.0,
+                861.0
+              ],
+              [
+                632.0,
+                861.0
+              ],
+              [
+                632.0,
+                963.0
+              ],
+              [
+                527.0,
+                963.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.33665794134140015,
+            "coordinate": [
+              645,
+              647,
+              695,
+              837
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                645.0,
+                647.0
+              ],
+              [
+                695.0,
+                647.0
+              ],
+              [
+                695.0,
+                837.0
+              ],
+              [
+                645.0,
+                837.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 6,
+            "label": "doc_title",
+            "score": 0.3153693974018097,
+            "coordinate": [
+              519,
+              655,
+              545,
+              841
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                519.0,
+                655.0
+              ],
+              [
+                545.0,
+                655.0
+              ],
+              [
+                545.0,
+                841.0
+              ],
+              [
+                519.0,
+                841.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 10,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "doc_title",
+          "block_content": "2515122",
+          "block_bbox": [
+            322,
+            751,
+            357,
+            956
+          ],
+          "block_id": 0,
+          "block_order": 1,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              322.0,
+              751.0
+            ],
+            [
+              357.0,
+              751.0
+            ],
+            [
+              357.0,
+              956.0
+            ],
+            [
+              322.0,
+              956.0
+            ]
+          ]
+        },
+        {
+          "block_label": "doc_title",
+          "block_content": "しぶりにって～",
+          "block_bbox": [
+            374,
+            682,
+            419,
+            970
+          ],
+          "block_id": 1,
+          "block_order": 2,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              374.0,
+              682.0
+            ],
+            [
+              419.0,
+              682.0
+            ],
+            [
+              419.0,
+              970.0
+            ],
+            [
+              374.0,
+              970.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "una unión\nPatel Atulbhai",
+          "block_bbox": [
+            673,
+            811,
+            708,
+            904
+          ],
+          "block_id": 2,
+          "block_order": 3,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              673.0,
+              811.0
+            ],
+            [
+              708.0,
+              811.0
+            ],
+            [
+              708.0,
+              904.0
+            ],
+            [
+              673.0,
+              904.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "2012 - 2012年 2012年",
+          "block_bbox": [
+            482,
+            717,
+            515,
+            1111
+          ],
+          "block_id": 3,
+          "block_order": 4,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              482.0,
+              717.0
+            ],
+            [
+              515.0,
+              717.0
+            ],
+            [
+              515.0,
+              1111.0
+            ],
+            [
+              482.0,
+              1111.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "&om {d} / DOB : 10/11/1973\ny3y / Male",
+          "block_bbox": [
+            624,
+            812,
+            667,
+            992
+          ],
+          "block_id": 4,
+          "block_order": 5,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              624.0,
+              812.0
+            ],
+            [
+              667.0,
+              812.0
+            ],
+            [
+              667.0,
+              992.0
+            ],
+            [
+              624.0,
+              992.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "8196 8215 5991",
+          "block_bbox": [
+            527,
+            807,
+            552,
+            978
+          ],
+          "block_id": 5,
+          "block_order": 6,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              527.0,
+              807.0
+            ],
+            [
+              552.0,
+              807.0
+            ],
+            [
+              552.0,
+              978.0
+            ],
+            [
+              527.0,
+              978.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            544,
+            1007,
+            653,
+            1114
+          ],
+          "block_id": 6,
+          "block_order": null,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              544.0,
+              1007.0
+            ],
+            [
+              653.0,
+              1007.0
+            ],
+            [
+              653.0,
+              1114.0
+            ],
+            [
+              544.0,
+              1114.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 6,
+            "label": "doc_title",
+            "score": 0.6124997735023499,
+            "coordinate": [
+              322,
+              751,
+              357,
+              956
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                322.0,
+                751.0
+              ],
+              [
+                357.0,
+                751.0
+              ],
+              [
+                357.0,
+                956.0
+              ],
+              [
+                322.0,
+                956.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 6,
+            "label": "doc_title",
+            "score": 0.5106862187385559,
+            "coordinate": [
+              374,
+              682,
+              419,
+              970
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                374.0,
+                682.0
+              ],
+              [
+                419.0,
+                682.0
+              ],
+              [
+                419.0,
+                970.0
+              ],
+              [
+                374.0,
+                970.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3147781789302826,
+            "coordinate": [
+              673,
+              811,
+              708,
+              904
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                673.0,
+                811.0
+              ],
+              [
+                708.0,
+                811.0
+              ],
+              [
+                708.0,
+                904.0
+              ],
+              [
+                673.0,
+                904.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5296235680580139,
+            "coordinate": [
+              482,
+              717,
+              515,
+              1111
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                482.0,
+                717.0
+              ],
+              [
+                515.0,
+                717.0
+              ],
+              [
+                515.0,
+                1111.0
+              ],
+              [
+                482.0,
+                1111.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.34071046113967896,
+            "coordinate": [
+              624,
+              812,
+              667,
+              992
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                624.0,
+                812.0
+              ],
+              [
+                667.0,
+                812.0
+              ],
+              [
+                667.0,
+                992.0
+              ],
+              [
+                624.0,
+                992.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.46347948908805847,
+            "coordinate": [
+              527,
+              807,
+              552,
+              978
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                527.0,
+                807.0
+              ],
+              [
+                552.0,
+                807.0
+              ],
+              [
+                552.0,
+                978.0
+              ],
+              [
+                527.0,
+                978.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.9311140775680542,
+            "coordinate": [
+              544,
+              1007,
+              653,
+              1114
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                544.0,
+                1007.0
+              ],
+              [
+                653.0,
+                1007.0
+              ],
+              [
+                653.0,
+                1114.0
+              ],
+              [
+                544.0,
+                1114.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 11,
+      "page_count": 14,
+      "width": 1684,
+      "height": 1191,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            538,
+            395,
+            1045,
+            734
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              538.0,
+              395.0
+            ],
+            [
+              1045.0,
+              395.0
+            ],
+            [
+              1045.0,
+              734.0
+            ],
+            [
+              538.0,
+              734.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "25-5-22",
+          "block_bbox": [
+            657,
+            856,
+            902,
+            967
+          ],
+          "block_id": 1,
+          "block_order": 1,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              643.3887939453125,
+              924.6222534179688
+            ],
+            [
+              892.3568115234375,
+              842.7249145507812
+            ],
+            [
+              916.0054931640625,
+              914.6167602539062
+            ],
+            [
+              667.0374755859375,
+              996.5140991210938
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.40693435072898865,
+            "coordinate": [
+              538,
+              395,
+              1045,
+              734
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                538.0,
+                395.0
+              ],
+              [
+                1045.0,
+                395.0
+              ],
+              [
+                1045.0,
+                734.0
+              ],
+              [
+                538.0,
+                734.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3693825304508209,
+            "coordinate": [
+              657,
+              856,
+              902,
+              967
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                643.3887939453125,
+                924.6222534179688
+              ],
+              [
+                892.3568115234375,
+                842.7249145507812
+              ],
+              [
+                916.0054931640625,
+                914.6167602539062
+              ],
+              [
+                667.0374755859375,
+                996.5140991210938
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 12,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "number",
+          "block_content": "5",
+          "block_bbox": [
+            1115,
+            35,
+            1140,
+            74
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              1115.0,
+              35.0
+            ],
+            [
+              1139.0,
+              35.0
+            ],
+            [
+              1139.0,
+              73.0
+            ],
+            [
+              1115.0,
+              73.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "FORM GST INS-02\nORDER OF SEIZURE\n[See Rule 139(2)]",
+          "block_bbox": [
+            490,
+            116,
+            729,
+            195
+          ],
+          "block_id": 1,
+          "block_order": 1,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              490.0,
+              116.0
+            ],
+            [
+              729.0,
+              116.0
+            ],
+            [
+              729.0,
+              195.0
+            ],
+            [
+              490.0,
+              195.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Whereas a search under sub-section (2) of Section 67 was conducted by me starting from 25.05.2022 started at 03.00 PM at the premise of M/s. Shakti Agro Chem & Fertilizer (GSTIN: 24DKMPP4401F1ZB) located at shop no. 10, 2ND Floor, Radhey Corner, Lal Gebi Circle, S.P. Ring Road, Hathijan, Ahmedabad, 382445.",
+          "block_bbox": [
+            152,
+            218,
+            1060,
+            324
+          ],
+          "block_id": 2,
+          "block_order": 2,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              152.0,
+              218.0
+            ],
+            [
+              1060.0,
+              218.0
+            ],
+            [
+              1060.0,
+              324.0
+            ],
+            [
+              152.0,
+              324.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Sr. No.</td><td>Name &amp; Address of the Panchas</td><td>Age (Years)</td><td>Occupation</td></tr><tr><td>(1)</td><td>Shri. Patel Atulbhai\\nC-1, Shriji Colony, viratnagar road, odhav, odhav industrial estate, Ahmedabad-382415</td><td>48</td><td>Service</td></tr><tr><td>(2)</td><td>Shri. Lalluvadia PragneshKumar Anantray,\\nA-201, Platinum Enclave, Opp. Ayojan Nagar,\\nS P Ring Road, Daskroi, Ahmedabad- 382445</td><td>48</td><td>Business</td></tr></table>",
+          "block_bbox": [
+            148,
+            342,
+            1063,
+            603
+          ],
+          "block_id": 3,
+          "block_order": null,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              148.0,
+              342.0
+            ],
+            [
+              1063.0,
+              342.0
+            ],
+            [
+              1063.0,
+              603.0
+            ],
+            [
+              148.0,
+              603.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "And during the search, I have reasons to believe that certain documents and/or books and/or things useful for or relevant to the proceedings under this Act are secreted in the places mentioned above.",
+          "block_bbox": [
+            149,
+            627,
+            1058,
+            704
+          ],
+          "block_id": 4,
+          "block_order": 3,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              149.0,
+              627.0
+            ],
+            [
+              1058.0,
+              627.0
+            ],
+            [
+              1058.0,
+              704.0
+            ],
+            [
+              149.0,
+              704.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Therefore, in exercise of the powers conferred upon me under sub-section (2) of Section 67, I hereby seize the following books/ documents and things:",
+          "block_bbox": [
+            149,
+            728,
+            1055,
+            781
+          ],
+          "block_id": 5,
+          "block_order": 4,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              149.0,
+              728.0
+            ],
+            [
+              1055.0,
+              728.0
+            ],
+            [
+              1055.0,
+              781.0
+            ],
+            [
+              149.0,
+              781.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(A) Details of goods seized :",
+          "block_bbox": [
+            221,
+            803,
+            542,
+            829
+          ],
+          "block_id": 6,
+          "block_order": 5,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              221.0,
+              803.0
+            ],
+            [
+              542.0,
+              803.0
+            ],
+            [
+              542.0,
+              829.0
+            ],
+            [
+              221.0,
+              829.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "1. Nil",
+          "block_bbox": [
+            224,
+            852,
+            298,
+            878
+          ],
+          "block_id": 7,
+          "block_order": 6,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              224.0,
+              852.0
+            ],
+            [
+              297.0,
+              852.0
+            ],
+            [
+              297.0,
+              877.0
+            ],
+            [
+              224.0,
+              877.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(B) Details of books/documents/things seized:",
+          "block_bbox": [
+            221,
+            904,
+            755,
+            931
+          ],
+          "block_id": 8,
+          "block_order": 7,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              221.0,
+              904.0
+            ],
+            [
+              755.0,
+              904.0
+            ],
+            [
+              755.0,
+              931.0
+            ],
+            [
+              221.0,
+              931.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td colspan=\"4\">M/s. Vinayak Road Tech (GSTIN 24AZBPJ0114C2ZC)</td></tr><tr><td>Sr. No.</td><td>Description of documents</td><td>Page nos.</td><td>Remarks</td></tr><tr><td>1</td><td>A-1</td><td>01 to 101</td><td></td></tr><tr><td>2</td><td>A-2</td><td>01 to 37</td><td></td></tr><tr><td>3</td><td>A-3</td><td>01 to 79</td><td></td></tr><tr><td>4</td><td>A-4</td><td>01 to 87</td><td></td></tr><tr><td colspan=\"4\">M/s. Vinayak Engineers (GST No. 24ABPPD1014M1ZW)</td></tr><tr><td>Sr. No.</td><td>Description of documents</td><td>Page nos.</td><td>Remarks</td></tr><tr><td>5</td><td>A-5</td><td>01 to 157</td><td></td></tr><tr><td>6</td><td>A-6</td><td>01 to 89</td><td></td></tr><tr><td>7</td><td>A-7</td><td>01 to 171</td><td></td></tr><tr><td>8</td><td>A-8</td><td>01 to 233</td><td></td></tr><tr><td>9</td><td>A-9</td><td>01 to 217</td><td></td></tr></table>",
+          "block_bbox": [
+            150,
+            973,
+            1010,
+            1399
+          ],
+          "block_id": 9,
+          "block_order": null,
+          "group_id": 9,
+          "block_polygon_points": [
+            [
+              150.0,
+              973.0
+            ],
+            [
+              1010.0,
+              973.0
+            ],
+            [
+              1010.0,
+              1399.0
+            ],
+            [
+              150.0,
+              1399.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 16,
+            "label": "number",
+            "score": 0.7812832593917847,
+            "coordinate": [
+              1115,
+              35,
+              1140,
+              74
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                1115.0,
+                35.0
+              ],
+              [
+                1139.0,
+                35.0
+              ],
+              [
+                1139.0,
+                73.0
+              ],
+              [
+                1115.0,
+                73.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.8693011403083801,
+            "coordinate": [
+              490,
+              116,
+              729,
+              195
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                490.0,
+                116.0
+              ],
+              [
+                729.0,
+                116.0
+              ],
+              [
+                729.0,
+                195.0
+              ],
+              [
+                490.0,
+                195.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9401059746742249,
+            "coordinate": [
+              152,
+              218,
+              1060,
+              324
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                152.0,
+                218.0
+              ],
+              [
+                1060.0,
+                218.0
+              ],
+              [
+                1060.0,
+                324.0
+              ],
+              [
+                152.0,
+                324.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9638202786445618,
+            "coordinate": [
+              148,
+              342,
+              1063,
+              603
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                148.0,
+                342.0
+              ],
+              [
+                1063.0,
+                342.0
+              ],
+              [
+                1063.0,
+                603.0
+              ],
+              [
+                148.0,
+                603.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9231857061386108,
+            "coordinate": [
+              149,
+              627,
+              1058,
+              704
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                149.0,
+                627.0
+              ],
+              [
+                1058.0,
+                627.0
+              ],
+              [
+                1058.0,
+                704.0
+              ],
+              [
+                149.0,
+                704.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.9139384627342224,
+            "coordinate": [
+              149,
+              728,
+              1055,
+              781
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                149.0,
+                728.0
+              ],
+              [
+                1055.0,
+                728.0
+              ],
+              [
+                1055.0,
+                781.0
+              ],
+              [
+                149.0,
+                781.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8287909030914307,
+            "coordinate": [
+              221,
+              803,
+              542,
+              829
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                221.0,
+                803.0
+              ],
+              [
+                542.0,
+                803.0
+              ],
+              [
+                542.0,
+                829.0
+              ],
+              [
+                221.0,
+                829.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7879464030265808,
+            "coordinate": [
+              224,
+              852,
+              298,
+              878
+            ],
+            "order": 7,
+            "polygon_points": [
+              [
+                224.0,
+                852.0
+              ],
+              [
+                297.0,
+                852.0
+              ],
+              [
+                297.0,
+                877.0
+              ],
+              [
+                224.0,
+                877.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.841311514377594,
+            "coordinate": [
+              221,
+              904,
+              755,
+              931
+            ],
+            "order": 8,
+            "polygon_points": [
+              [
+                221.0,
+                904.0
+              ],
+              [
+                755.0,
+                904.0
+              ],
+              [
+                755.0,
+                931.0
+              ],
+              [
+                221.0,
+                931.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9643170237541199,
+            "coordinate": [
+              150,
+              973,
+              1010,
+              1399
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                150.0,
+                973.0
+              ],
+              [
+                1010.0,
+                973.0
+              ],
+              [
+                1010.0,
+                1399.0
+              ],
+              [
+                150.0,
+                1399.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/Shakti Agro Chem & Fertilizers.pdf",
+      "page_index": 13,
+      "page_count": 14,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "number",
+          "block_content": "3",
+          "block_bbox": [
+            1115,
+            20,
+            1139,
+            43
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              1115.0,
+              20.0
+            ],
+            [
+              1138.0,
+              20.0
+            ],
+            [
+              1138.0,
+              42.0
+            ],
+            [
+              1115.0,
+              42.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td colspan=\"4\">M/s. Sabarmati Fertilizer and Chemicals Industries Private Limited\\n(24AAYCS3916Q1ZE)</td></tr><tr><td>Sr. No.</td><td>Description of documents</td><td>Page nos.</td><td>Remarks</td></tr><tr><td>10</td><td>Made up File A-10</td><td>01 to 07</td><td></td></tr></table>",
+          "block_bbox": [
+            149,
+            114,
+            1007,
+            261
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              149.0,
+              114.0
+            ],
+            [
+              1007.0,
+              114.0
+            ],
+            [
+              1007.0,
+              261.0
+            ],
+            [
+              149.0,
+              261.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Place: Ahmedabad, Gujarat",
+          "block_bbox": [
+            146,
+            347,
+            449,
+            374
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              146.0,
+              347.0
+            ],
+            [
+              449.0,
+              347.0
+            ],
+            [
+              449.0,
+              374.0
+            ],
+            [
+              146.0,
+              374.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Date: 25.05.2022",
+          "block_bbox": [
+            855,
+            349,
+            1047,
+            373
+          ],
+          "block_id": 3,
+          "block_order": 2,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              855.0,
+              349.0
+            ],
+            [
+              1047.0,
+              349.0
+            ],
+            [
+              1047.0,
+              373.0
+            ],
+            [
+              855.0,
+              373.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Sr. No.</td><td>Name of the Panchas</td><td>Signature</td></tr><tr><td>(1)</td><td>Shri. Patel Atulbhai</td><td><img src=\"imgs/img_in_image_box_705_481_925_520.jpg\" alt=\"Image\"\" /> 2515122</td></tr><tr><td>(2)</td><td>Shri. Lalluvadia PragneshKumar Anantray</td><td>Quf. / 25-5-22</td></tr></table>",
+          "block_bbox": [
+            143,
+            422,
+            1054,
+            605
+          ],
+          "block_id": 4,
+          "block_order": null,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              143.0,
+              422.0
+            ],
+            [
+              1054.0,
+              422.0
+            ],
+            [
+              1054.0,
+              605.0
+            ],
+            [
+              143.0,
+              605.0
+            ]
+          ]
+        },
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            153,
+            650,
+            320,
+            721
+          ],
+          "block_id": 5,
+          "block_order": null,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              153.0,
+              650.0
+            ],
+            [
+              320.0,
+              650.0
+            ],
+            [
+              320.0,
+              721.0
+            ],
+            [
+              153.0,
+              721.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "(Navdeep Singh Sidhu)",
+          "block_bbox": [
+            148,
+            722,
+            397,
+            748
+          ],
+          "block_id": 6,
+          "block_order": 3,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              148.0,
+              722.0
+            ],
+            [
+              397.0,
+              722.0
+            ],
+            [
+              397.0,
+              748.0
+            ],
+            [
+              148.0,
+              748.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Intelligence Officer",
+          "block_bbox": [
+            147,
+            751,
+            355,
+            776
+          ],
+          "block_id": 7,
+          "block_order": 4,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              147.0,
+              751.0
+            ],
+            [
+              355.0,
+              751.0
+            ],
+            [
+              355.0,
+              776.0
+            ],
+            [
+              147.0,
+              776.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "DGGI, Ahmedabad Zonal Unit",
+          "block_bbox": [
+            146,
+            778,
+            478,
+            804
+          ],
+          "block_id": 8,
+          "block_order": 5,
+          "group_id": 9,
+          "block_polygon_points": [
+            [
+              146.0,
+              778.0
+            ],
+            [
+              478.0,
+              778.0
+            ],
+            [
+              478.0,
+              804.0
+            ],
+            [
+              146.0,
+              804.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 16,
+            "label": "number",
+            "score": 0.7931674718856812,
+            "coordinate": [
+              1115,
+              20,
+              1139,
+              43
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                1115.0,
+                20.0
+              ],
+              [
+                1138.0,
+                20.0
+              ],
+              [
+                1138.0,
+                42.0
+              ],
+              [
+                1115.0,
+                42.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9627463221549988,
+            "coordinate": [
+              149,
+              114,
+              1007,
+              261
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                149.0,
+                114.0
+              ],
+              [
+                1007.0,
+                114.0
+              ],
+              [
+                1007.0,
+                261.0
+              ],
+              [
+                149.0,
+                261.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7880598902702332,
+            "coordinate": [
+              146,
+              347,
+              449,
+              374
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                146.0,
+                347.0
+              ],
+              [
+                449.0,
+                347.0
+              ],
+              [
+                449.0,
+                374.0
+              ],
+              [
+                146.0,
+                374.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7726032733917236,
+            "coordinate": [
+              855,
+              349,
+              1047,
+              373
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                855.0,
+                349.0
+              ],
+              [
+                1047.0,
+                349.0
+              ],
+              [
+                1047.0,
+                373.0
+              ],
+              [
+                855.0,
+                373.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9694096446037292,
+            "coordinate": [
+              143,
+              422,
+              1054,
+              605
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                143.0,
+                422.0
+              ],
+              [
+                1054.0,
+                422.0
+              ],
+              [
+                1054.0,
+                605.0
+              ],
+              [
+                143.0,
+                605.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.4193161725997925,
+            "coordinate": [
+              705,
+              481,
+              925,
+              520
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                705.0,
+                481.0
+              ],
+              [
+                925.0,
+                481.0
+              ],
+              [
+                925.0,
+                520.0
+              ],
+              [
+                705.0,
+                520.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.8094887733459473,
+            "coordinate": [
+              153,
+              650,
+              320,
+              721
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                153.0,
+                650.0
+              ],
+              [
+                320.0,
+                650.0
+              ],
+              [
+                320.0,
+                721.0
+              ],
+              [
+                153.0,
+                721.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8340601921081543,
+            "coordinate": [
+              148,
+              722,
+              397,
+              748
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                148.0,
+                722.0
+              ],
+              [
+                397.0,
+                722.0
+              ],
+              [
+                397.0,
+                748.0
+              ],
+              [
+                148.0,
+                748.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8369627594947815,
+            "coordinate": [
+              147,
+              751,
+              355,
+              776
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                147.0,
+                751.0
+              ],
+              [
+                355.0,
+                751.0
+              ],
+              [
+                355.0,
+                776.0
+              ],
+              [
+                147.0,
+                776.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8417439460754395,
+            "coordinate": [
+              146,
+              778,
+              478,
+              804
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                146.0,
+                778.0
+              ],
+              [
+                478.0,
+                778.0
+              ],
+              [
+                478.0,
+                804.0
+              ],
+              [
+                146.0,
+                804.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

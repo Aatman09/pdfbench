@@ -1,0 +1,27 @@
+# =============================================================================
+# PaddleOCR-VL tools: PaddleOCR15 (v1.5) and PaddleOCR16 (v1.6).
+#
+# Install into the paddle venv (venv-paddle):
+#   uv venv venv-paddle --python 3.11
+#   VIRTUAL_ENV=venv-paddle uv pip install -r requirements-paddle.txt
+#
+# Do NOT install torch/docling/mineru in this environment — they conflict with
+# paddle's CUDA-11 libraries.
+#
+# paddlepaddle-gpu is served from Paddle's own index (declared below). For a
+# CPU-only build instead, replace the index with .../packages/stable/cpu/ and
+# use `paddlepaddle==3.2.0` (much slower for the VL model).
+# =============================================================================
+--extra-index-url https://www.paddlepaddle.org.cn/packages/stable/cu118/
+-r requirements.txt
+
+# paddlepaddle 3.2.0 is required: the PaddleOCR-VL model needs the
+# `fused_rms_norm_ext` op that does not exist in 3.0.x.
+paddlepaddle-gpu==3.2.0
+
+# Pin paddleocr to 3.6.0 (has the PaddleOCRVL API). Installing paddlex[ocr]
+# alone tends to resolve paddleocr down to 2.10.0, which lacks PaddleOCRVL.
+paddleocr==3.6.0
+
+# The [ocr] extra provides the PaddleOCR-VL model dependencies.
+paddlex[ocr]==3.6.1

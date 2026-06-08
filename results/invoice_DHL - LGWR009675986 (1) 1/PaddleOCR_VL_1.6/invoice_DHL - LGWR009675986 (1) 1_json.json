@@ -1,0 +1,2584 @@
+[
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/invoice_DHL - LGWR009675986 (1) 1.pdf",
+      "page_index": 0,
+      "page_count": 4,
+      "width": 1191,
+      "height": 1684,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "header",
+          "block_content": "DHL Express\nINVOICE SUMMARY",
+          "block_bbox": [
+            65,
+            65,
+            315,
+            122
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              65.0,
+              65.0
+            ],
+            [
+              315.0,
+              65.0
+            ],
+            [
+              315.0,
+              122.0
+            ],
+            [
+              65.0,
+              122.0
+            ]
+          ]
+        },
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            840,
+            63,
+            1124,
+            117
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              840.0,
+              63.0
+            ],
+            [
+              1124.0,
+              63.0
+            ],
+            [
+              1124.0,
+              117.0
+            ],
+            [
+              840.0,
+              117.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "ALEX JACOB\nSA DESIGNER PARFUMS\nAMERTRANS PARK\nBUSHEY MILL LANE\nWATFOR\nWD24 7J",
+          "block_bbox": [
+            64,
+            151,
+            295,
+            284
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              64.0,
+              151.0
+            ],
+            [
+              295.0,
+              151.0
+            ],
+            [
+              295.0,
+              284.0
+            ],
+            [
+              64.0,
+              284.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "A/C CODE: DHL102",
+          "block_bbox": [
+            226,
+            249,
+            469,
+            281
+          ],
+          "block_id": 3,
+          "block_order": 2,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              226.0,
+              249.0
+            ],
+            [
+              469.0,
+              249.0
+            ],
+            [
+              469.0,
+              281.0
+            ],
+            [
+              226.0,
+              281.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "NOMINAL CODE: 602601/501202 CC/CO",
+          "block_bbox": [
+            155,
+            280,
+            562,
+            317
+          ],
+          "block_id": 4,
+          "block_order": 3,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              155.0,
+              280.0
+            ],
+            [
+              562.0,
+              280.0
+            ],
+            [
+              562.0,
+              317.0
+            ],
+            [
+              155.0,
+              317.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "NOMINAL DESC.: JLO / AIG / PBY / GHO",
+          "block_bbox": [
+            154,
+            319,
+            629,
+            349
+          ],
+          "block_id": 5,
+          "block_order": 4,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              154.0,
+              319.0
+            ],
+            [
+              629.0,
+              319.0
+            ],
+            [
+              629.0,
+              349.0
+            ],
+            [
+              154.0,
+              349.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "BRAND: GENERIC",
+          "block_bbox": [
+            257,
+            350,
+            490,
+            380
+          ],
+          "block_id": 6,
+          "block_order": 5,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              257.0,
+              350.0
+            ],
+            [
+              490.0,
+              350.0
+            ],
+            [
+              490.0,
+              380.0
+            ],
+            [
+              257.0,
+              380.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Invoice Number: LGWR009675986",
+          "block_bbox": [
+            738,
+            151,
+            1137,
+            174
+          ],
+          "block_id": 7,
+          "block_order": 6,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              738.0,
+              151.0
+            ],
+            [
+              1137.0,
+              151.0
+            ],
+            [
+              1137.0,
+              174.0
+            ],
+            [
+              738.0,
+              174.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Account Number: 187897396",
+          "block_bbox": [
+            738,
+            176,
+            1138,
+            201
+          ],
+          "block_id": 8,
+          "block_order": 7,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              738.0,
+              176.0
+            ],
+            [
+              1138.0,
+              176.0
+            ],
+            [
+              1138.0,
+              201.0
+            ],
+            [
+              738.0,
+              201.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "VAT Number: GB798877427",
+          "block_bbox": [
+            739,
+            197,
+            1138,
+            221
+          ],
+          "block_id": 9,
+          "block_order": 8,
+          "group_id": 9,
+          "block_polygon_points": [
+            [
+              739.0,
+              197.0
+            ],
+            [
+              1138.0,
+              197.0
+            ],
+            [
+              1138.0,
+              221.0
+            ],
+            [
+              739.0,
+              221.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Invoice Date: 26-05-25",
+          "block_bbox": [
+            739,
+            221,
+            1138,
+            242
+          ],
+          "block_id": 10,
+          "block_order": 9,
+          "group_id": 10,
+          "block_polygon_points": [
+            [
+              739.0,
+              221.0
+            ],
+            [
+              1137.0,
+              221.0
+            ],
+            [
+              1137.0,
+              241.0
+            ],
+            [
+              739.0,
+              241.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "SUB BRAND:",
+          "block_bbox": [
+            203,
+            387,
+            357,
+            418
+          ],
+          "block_id": 11,
+          "block_order": 10,
+          "group_id": 11,
+          "block_polygon_points": [
+            [
+              203.0,
+              387.0
+            ],
+            [
+              357.0,
+              387.0
+            ],
+            [
+              357.0,
+              418.0
+            ],
+            [
+              203.0,
+              418.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Number of Pages: ___ 1 of 4",
+          "block_bbox": [
+            739,
+            244,
+            1138,
+            268
+          ],
+          "block_id": 12,
+          "block_order": 11,
+          "group_id": 12,
+          "block_polygon_points": [
+            [
+              739.0,
+              244.0
+            ],
+            [
+              1138.0,
+              244.0
+            ],
+            [
+              1138.0,
+              268.0
+            ],
+            [
+              739.0,
+              268.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "For Invoice Enquiries",
+          "block_bbox": [
+            738,
+            286,
+            940,
+            312
+          ],
+          "block_id": 13,
+          "block_order": 12,
+          "group_id": 13,
+          "block_polygon_points": [
+            [
+              738.0,
+              286.0
+            ],
+            [
+              940.0,
+              286.0
+            ],
+            [
+              940.0,
+              312.0
+            ],
+            [
+              738.0,
+              312.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Telephone: +44 (0)3442 480 777",
+          "block_bbox": [
+            738,
+            315,
+            1137,
+            340
+          ],
+          "block_id": 14,
+          "block_order": 13,
+          "group_id": 14,
+          "block_polygon_points": [
+            [
+              738.0,
+              315.0
+            ],
+            [
+              1137.0,
+              315.0
+            ],
+            [
+              1137.0,
+              340.0
+            ],
+            [
+              738.0,
+              340.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Website: https://mybill.dhl.com/login/",
+          "block_bbox": [
+            738,
+            339,
+            1138,
+            365
+          ],
+          "block_id": 15,
+          "block_order": 14,
+          "group_id": 15,
+          "block_polygon_points": [
+            [
+              738.0,
+              339.0
+            ],
+            [
+              1138.0,
+              339.0
+            ],
+            [
+              1138.0,
+              365.0
+            ],
+            [
+              738.0,
+              365.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Email: ukinvoicequeries@dhl.com",
+          "block_bbox": [
+            739,
+            363,
+            1137,
+            387
+          ],
+          "block_id": 16,
+          "block_order": 15,
+          "group_id": 16,
+          "block_polygon_points": [
+            [
+              739.0,
+              363.0
+            ],
+            [
+              1137.0,
+              363.0
+            ],
+            [
+              1137.0,
+              387.0
+            ],
+            [
+              739.0,
+              387.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "SAX/L",
+          "block_bbox": [
+            534,
+            407,
+            680,
+            447
+          ],
+          "block_id": 17,
+          "block_order": 16,
+          "group_id": 17,
+          "block_polygon_points": [
+            [
+              534.0,
+              407.0
+            ],
+            [
+              680.0,
+              407.0
+            ],
+            [
+              680.0,
+              447.0
+            ],
+            [
+              534.0,
+              447.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Type of Servi</td><td>APPROVED BY:</td><td>Number of Shipments</td><td>Total Weight</td><td>Number of Items</td><td>Standard Shipping Charge</td><td>Total of Extra Charges</td><td>VAT</td><td>Total amount (incl. VAT)</td></tr><tr><td>EXPRESS WORLDWIDE DOC</td><td></td><td>4</td><td>2.00</td><td>4</td><td>74.49</td><td>20.80</td><td></td><td>95.29</td></tr><tr><td>EXPRESS WORLDWIDE NON-DOC</td><td></td><td>6</td><td>15.50</td><td>6</td><td>290.22</td><td>127.14</td><td></td><td>417.36</td></tr><tr><td>ECONOMY SELECT NON-DOC</td><td></td><td>1</td><td>2.00</td><td>1</td><td>18.13</td><td>11.90</td><td></td><td>30.03</td></tr><tr><td>Total</td><td></td><td>11</td><td>19.50</td><td>11</td><td>382.84</td><td>159.84</td><td></td><td>542.68</td></tr><tr><td colspan=\"4\">Analysis of Extra Charges (included in summary above)</td><td>Total</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">EXCEPTED QUANTITIES</td><td>54.00</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">GOGREEN PLUS - CARBON REDUCED FUEL SURCHARGE</td><td>2.66</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">FUEL SURCHARGE</td><td>103.18</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"4\">Total Extra Charges</td><td>159.84</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"8\">Analysis of VAT</td><td>Total</td></tr><tr><td>Code</td><td>Code Description</td><td></td><td></td><td></td><td></td><td>Rate</td><td>Taxable Total</td><td>VAT</td></tr><tr><td>Z</td><td>ZERO-RATED</td><td></td><td></td><td></td><td></td><td>0.00%</td><td>542.68</td><td>0.00</td></tr><tr><td>Total VAT</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0.00</td><td>0.00</td></tr></table>",
+          "block_bbox": [
+            45,
+            447,
+            1147,
+            838
+          ],
+          "block_id": 18,
+          "block_order": null,
+          "group_id": 18,
+          "block_polygon_points": [
+            [
+              45.0,
+              447.0
+            ],
+            [
+              1147.0,
+              447.0
+            ],
+            [
+              1147.0,
+              838.0
+            ],
+            [
+              45.0,
+              838.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td></td><td></td><td>Total (Excl. VAT)</td><td>VAT</td><td>Total (Incl. VAT)</td></tr><tr><td>Payment due in 30 days</td><td>Total Amount (GBP)</td><td>542.68</td><td>0.00</td><td>542.68</td></tr></table>",
+          "block_bbox": [
+            85,
+            1045,
+            1149,
+            1107
+          ],
+          "block_id": 19,
+          "block_order": null,
+          "group_id": 19,
+          "block_polygon_points": [
+            [
+              85.0,
+              1045.0
+            ],
+            [
+              1149.0,
+              1045.0
+            ],
+            [
+              1149.0,
+              1107.0
+            ],
+            [
+              85.0,
+              1107.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "PLEASE SEND YOUR REMITTANCES TO DHL INTERNATIONAL (UK) LIMITED, CUSTOMER ACCOUNTING, PO BOX 4833, SLOUGH, SL3 3JE DHL International (UK) Ltd, Southern Hub, Unit 1, Horton Road, Colnbrook, Berkshire, SL3 0BB • Tel: +44 (0)3442 480 777 Company Registration Number: 01184988 • DHL VAT No. GB751 8123 41 • Crest Code: DGBXXX",
+          "block_bbox": [
+            90,
+            1128,
+            1098,
+            1193
+          ],
+          "block_id": 20,
+          "block_order": 17,
+          "group_id": 20,
+          "block_polygon_points": [
+            [
+              90.0,
+              1128.0
+            ],
+            [
+              1098.0,
+              1128.0
+            ],
+            [
+              1098.0,
+              1193.0
+            ],
+            [
+              90.0,
+              1193.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Bank Name:</td><td>HSBC Bank plc</td></tr><tr><td>Bank Address:</td><td>RSCE, PARK ST, SE1 9DZ</td></tr><tr><td>Account No:</td><td>91406396</td></tr><tr><td>Sort Code:</td><td>40-02-50</td></tr><tr><td>IBAN Code:</td><td>GB33MIDL40025091406396</td></tr><tr><td>Swift Code:</td><td>MIDLGB22</td></tr></table>",
+          "block_bbox": [
+            42,
+            1228,
+            580,
+            1437
+          ],
+          "block_id": 21,
+          "block_order": null,
+          "group_id": 21,
+          "block_polygon_points": [
+            [
+              42.0,
+              1228.0
+            ],
+            [
+              580.0,
+              1228.0
+            ],
+            [
+              580.0,
+              1437.0
+            ],
+            [
+              42.0,
+              1437.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Invoice No:</td><td>LGWR009675986</td></tr><tr><td>Account No:</td><td>187897396</td></tr><tr><td>Amount:</td><td>542.68 GBP</td></tr></table>",
+          "block_bbox": [
+            610,
+            1228,
+            975,
+            1336
+          ],
+          "block_id": 22,
+          "block_order": null,
+          "group_id": 22,
+          "block_polygon_points": [
+            [
+              610.0,
+              1228.0
+            ],
+            [
+              975.0,
+              1228.0
+            ],
+            [
+              975.0,
+              1336.0
+            ],
+            [
+              610.0,
+              1336.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Remittance advices should be emailed to: rpu.cash@dhl.com</td></tr><tr><td>Please state your DHL Invoice Number and Account Number as a reference when making a payment</td></tr></table>",
+          "block_bbox": [
+            45,
+            1472,
+            1147,
+            1541
+          ],
+          "block_id": 23,
+          "block_order": null,
+          "group_id": 23,
+          "block_polygon_points": [
+            [
+              45.0,
+              1472.0
+            ],
+            [
+              1147.0,
+              1472.0
+            ],
+            [
+              1147.0,
+              1541.0
+            ],
+            [
+              45.0,
+              1541.0
+            ]
+          ]
+        },
+        {
+          "block_label": "vision_footnote",
+          "block_content": "Fuel surcharge details may be retrieved from www.dhl.co.uk/fuelsurcharge",
+          "block_bbox": [
+            47,
+            1571,
+            614,
+            1595
+          ],
+          "block_id": 24,
+          "block_order": null,
+          "group_id": 24,
+          "block_polygon_points": [
+            [
+              47.0,
+              1571.0
+            ],
+            [
+              614.0,
+              1571.0
+            ],
+            [
+              614.0,
+              1595.0
+            ],
+            [
+              47.0,
+              1595.0
+            ]
+          ]
+        },
+        {
+          "block_label": "vision_footnote",
+          "block_content": "For further information please see \"About Your Invoice\" section of the FAQ on the e-Billing site",
+          "block_bbox": [
+            47,
+            1605,
+            771,
+            1630
+          ],
+          "block_id": 25,
+          "block_order": null,
+          "group_id": 25,
+          "block_polygon_points": [
+            [
+              47.0,
+              1605.0
+            ],
+            [
+              771.0,
+              1605.0
+            ],
+            [
+              771.0,
+              1630.0
+            ],
+            [
+              47.0,
+              1630.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 12,
+            "label": "header",
+            "score": 0.7573345899581909,
+            "coordinate": [
+              65,
+              65,
+              315,
+              122
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                65.0,
+                65.0
+              ],
+              [
+                315.0,
+                65.0
+              ],
+              [
+                315.0,
+                122.0
+              ],
+              [
+                65.0,
+                122.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.7582027316093445,
+            "coordinate": [
+              840,
+              63,
+              1124,
+              117
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                840.0,
+                63.0
+              ],
+              [
+                1124.0,
+                63.0
+              ],
+              [
+                1124.0,
+                117.0
+              ],
+              [
+                840.0,
+                117.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6213207244873047,
+            "coordinate": [
+              64,
+              151,
+              295,
+              284
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                64.0,
+                151.0
+              ],
+              [
+                295.0,
+                151.0
+              ],
+              [
+                295.0,
+                284.0
+              ],
+              [
+                64.0,
+                284.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7382803559303284,
+            "coordinate": [
+              226,
+              249,
+              469,
+              281
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                226.0,
+                249.0
+              ],
+              [
+                469.0,
+                249.0
+              ],
+              [
+                469.0,
+                281.0
+              ],
+              [
+                226.0,
+                281.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6573871374130249,
+            "coordinate": [
+              155,
+              280,
+              562,
+              317
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                155.0,
+                280.0
+              ],
+              [
+                562.0,
+                280.0
+              ],
+              [
+                562.0,
+                317.0
+              ],
+              [
+                155.0,
+                317.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7542534470558167,
+            "coordinate": [
+              154,
+              319,
+              629,
+              349
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                154.0,
+                319.0
+              ],
+              [
+                629.0,
+                319.0
+              ],
+              [
+                629.0,
+                349.0
+              ],
+              [
+                154.0,
+                349.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.684745728969574,
+            "coordinate": [
+              257,
+              350,
+              490,
+              380
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                257.0,
+                350.0
+              ],
+              [
+                490.0,
+                350.0
+              ],
+              [
+                490.0,
+                380.0
+              ],
+              [
+                257.0,
+                380.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7422272562980652,
+            "coordinate": [
+              738,
+              151,
+              1137,
+              174
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                738.0,
+                151.0
+              ],
+              [
+                1137.0,
+                151.0
+              ],
+              [
+                1137.0,
+                174.0
+              ],
+              [
+                738.0,
+                174.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6821320652961731,
+            "coordinate": [
+              738,
+              176,
+              1138,
+              201
+            ],
+            "order": 7,
+            "polygon_points": [
+              [
+                738.0,
+                176.0
+              ],
+              [
+                1138.0,
+                176.0
+              ],
+              [
+                1138.0,
+                201.0
+              ],
+              [
+                738.0,
+                201.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7445202469825745,
+            "coordinate": [
+              739,
+              197,
+              1138,
+              221
+            ],
+            "order": 8,
+            "polygon_points": [
+              [
+                739.0,
+                197.0
+              ],
+              [
+                1138.0,
+                197.0
+              ],
+              [
+                1138.0,
+                221.0
+              ],
+              [
+                739.0,
+                221.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7259137630462646,
+            "coordinate": [
+              739,
+              221,
+              1138,
+              242
+            ],
+            "order": 9,
+            "polygon_points": [
+              [
+                739.0,
+                221.0
+              ],
+              [
+                1137.0,
+                221.0
+              ],
+              [
+                1137.0,
+                241.0
+              ],
+              [
+                739.0,
+                241.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.36611542105674744,
+            "coordinate": [
+              203,
+              387,
+              357,
+              418
+            ],
+            "order": 10,
+            "polygon_points": [
+              [
+                203.0,
+                387.0
+              ],
+              [
+                357.0,
+                387.0
+              ],
+              [
+                357.0,
+                418.0
+              ],
+              [
+                203.0,
+                418.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.742021381855011,
+            "coordinate": [
+              739,
+              244,
+              1138,
+              268
+            ],
+            "order": 11,
+            "polygon_points": [
+              [
+                739.0,
+                244.0
+              ],
+              [
+                1138.0,
+                244.0
+              ],
+              [
+                1138.0,
+                268.0
+              ],
+              [
+                739.0,
+                268.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6189152002334595,
+            "coordinate": [
+              738,
+              286,
+              940,
+              312
+            ],
+            "order": 12,
+            "polygon_points": [
+              [
+                738.0,
+                286.0
+              ],
+              [
+                940.0,
+                286.0
+              ],
+              [
+                940.0,
+                312.0
+              ],
+              [
+                738.0,
+                312.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7556968331336975,
+            "coordinate": [
+              738,
+              315,
+              1137,
+              340
+            ],
+            "order": 13,
+            "polygon_points": [
+              [
+                738.0,
+                315.0
+              ],
+              [
+                1137.0,
+                315.0
+              ],
+              [
+                1137.0,
+                340.0
+              ],
+              [
+                738.0,
+                340.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7443217635154724,
+            "coordinate": [
+              738,
+              339,
+              1138,
+              365
+            ],
+            "order": 14,
+            "polygon_points": [
+              [
+                738.0,
+                339.0
+              ],
+              [
+                1138.0,
+                339.0
+              ],
+              [
+                1138.0,
+                365.0
+              ],
+              [
+                738.0,
+                365.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7590779066085815,
+            "coordinate": [
+              739,
+              363,
+              1137,
+              387
+            ],
+            "order": 15,
+            "polygon_points": [
+              [
+                739.0,
+                363.0
+              ],
+              [
+                1137.0,
+                363.0
+              ],
+              [
+                1137.0,
+                387.0
+              ],
+              [
+                739.0,
+                387.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.45231136679649353,
+            "coordinate": [
+              534,
+              407,
+              680,
+              447
+            ],
+            "order": 16,
+            "polygon_points": [
+              [
+                534.0,
+                407.0
+              ],
+              [
+                680.0,
+                407.0
+              ],
+              [
+                680.0,
+                447.0
+              ],
+              [
+                534.0,
+                447.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.32031747698783875,
+            "coordinate": [
+              44,
+              447,
+              1143,
+              602
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                44.0,
+                447.0
+              ],
+              [
+                1143.0,
+                447.0
+              ],
+              [
+                1143.0,
+                602.0
+              ],
+              [
+                44.0,
+                602.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.5923106074333191,
+            "coordinate": [
+              45,
+              447,
+              1147,
+              838
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                45.0,
+                447.0
+              ],
+              [
+                1147.0,
+                447.0
+              ],
+              [
+                1147.0,
+                838.0
+              ],
+              [
+                45.0,
+                838.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.5254258513450623,
+            "coordinate": [
+              48,
+              754,
+              1148,
+              847
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                48.0,
+                754.0
+              ],
+              [
+                1148.0,
+                754.0
+              ],
+              [
+                1148.0,
+                847.0
+              ],
+              [
+                48.0,
+                847.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.6017284989356995,
+            "coordinate": [
+              85,
+              1045,
+              1149,
+              1107
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                85.0,
+                1045.0
+              ],
+              [
+                1149.0,
+                1045.0
+              ],
+              [
+                1149.0,
+                1107.0
+              ],
+              [
+                85.0,
+                1107.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.798575222492218,
+            "coordinate": [
+              90,
+              1128,
+              1098,
+              1193
+            ],
+            "order": 17,
+            "polygon_points": [
+              [
+                90.0,
+                1128.0
+              ],
+              [
+                1098.0,
+                1128.0
+              ],
+              [
+                1098.0,
+                1193.0
+              ],
+              [
+                90.0,
+                1193.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9053395986557007,
+            "coordinate": [
+              42,
+              1228,
+              580,
+              1437
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                42.0,
+                1228.0
+              ],
+              [
+                580.0,
+                1228.0
+              ],
+              [
+                580.0,
+                1437.0
+              ],
+              [
+                42.0,
+                1437.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.8458205461502075,
+            "coordinate": [
+              610,
+              1228,
+              975,
+              1336
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                610.0,
+                1228.0
+              ],
+              [
+                975.0,
+                1228.0
+              ],
+              [
+                975.0,
+                1336.0
+              ],
+              [
+                610.0,
+                1336.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.37082916498184204,
+            "coordinate": [
+              48,
+              1476,
+              596,
+              1504
+            ],
+            "order": 18,
+            "polygon_points": [
+              [
+                48.0,
+                1476.0
+              ],
+              [
+                596.0,
+                1476.0
+              ],
+              [
+                596.0,
+                1504.0
+              ],
+              [
+                48.0,
+                1504.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.3598894774913788,
+            "coordinate": [
+              45,
+              1472,
+              1147,
+              1541
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                45.0,
+                1472.0
+              ],
+              [
+                1147.0,
+                1472.0
+              ],
+              [
+                1147.0,
+                1541.0
+              ],
+              [
+                45.0,
+                1541.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3790891170501709,
+            "coordinate": [
+              46,
+              1513,
+              800,
+              1539
+            ],
+            "order": 19,
+            "polygon_points": [
+              [
+                46.0,
+                1513.0
+              ],
+              [
+                800.0,
+                1513.0
+              ],
+              [
+                800.0,
+                1539.0
+              ],
+              [
+                46.0,
+                1539.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 24,
+            "label": "vision_footnote",
+            "score": 0.4758263826370239,
+            "coordinate": [
+              47,
+              1571,
+              614,
+              1595
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                47.0,
+                1571.0
+              ],
+              [
+                614.0,
+                1571.0
+              ],
+              [
+                614.0,
+                1595.0
+              ],
+              [
+                47.0,
+                1595.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 24,
+            "label": "vision_footnote",
+            "score": 0.41603022813796997,
+            "coordinate": [
+              47,
+              1605,
+              771,
+              1630
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                47.0,
+                1605.0
+              ],
+              [
+                771.0,
+                1605.0
+              ],
+              [
+                771.0,
+                1630.0
+              ],
+              [
+                47.0,
+                1630.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/invoice_DHL - LGWR009675986 (1) 1.pdf",
+      "page_index": 1,
+      "page_count": 4,
+      "width": 1684,
+      "height": 1191,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Invoice Number:</td><td>LGWR009675986</td></tr><tr><td>Account Number:</td><td>187897396</td></tr><tr><td>Invoice Date:</td><td>26-05-25</td></tr><tr><td>Number of Pages:</td><td>2 of 4</td></tr></table>",
+          "block_bbox": [
+            96,
+            69,
+            406,
+            145
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              96.0,
+              69.0
+            ],
+            [
+              406.0,
+              69.0
+            ],
+            [
+              406.0,
+              145.0
+            ],
+            [
+              96.0,
+              145.0
+            ]
+          ]
+        },
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            1365,
+            35,
+            1646,
+            94
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              1365.0,
+              35.0
+            ],
+            [
+              1646.0,
+              35.0
+            ],
+            [
+              1646.0,
+              94.0
+            ],
+            [
+              1365.0,
+              94.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Invoice",
+          "block_bbox": [
+            783,
+            70,
+            918,
+            109
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              783.0,
+              70.0
+            ],
+            [
+              918.0,
+              70.0
+            ],
+            [
+              918.0,
+              109.0
+            ],
+            [
+              783.0,
+              109.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Air Waybill Number</td><td>Shippers Reference</td><td>Shipment Date</td><td>Origin / Consignor</td><td>Destination / Consignee</td><td>Type of Service</td><td>Weight in Kg</td><td>Number of Items</td><td>Standard Charge</td><td>Extra Charges Description</td><td>Extra Charges Amount</td><td>VAT / Code</td><td>Total amount (incl. VAT)</td></tr><tr><td>8380332656</td><td>Allen Christian</td><td>16-05-25</td><td>LTN, LUTON\\nSA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmetrans Park\\nGB-WD24 7JG, WATFORD</td><td>ORE, IDF SUD &amp; EST\\nDONATA LOPINSKA\\nDonata Lopinska\\n16 avenue de Paris\\nFR-78000, VERSAILLES</td><td>EXPRESS\\nWORLDWIDE\\ndoc</td><td>0.50 B</td><td>1</td><td>16.86</td><td>GOGREEN PLUS - CARBON\\nREDUCED\\nFUEL SURCHARGE</td><td>0.08</td><td>Z\\nZ</td><td>16.86\\n0.08</td></tr><tr><td>JLO</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"3\">602601</td><td>0.08</td><td>4.64</td><td>Z</td><td>4.64</td></tr><tr><td>3733945611</td><td>Prema Kaliyan</td><td>21-05-25</td><td>LTN, LUTON\\nSA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmetrans Park\\nGB-WD24 7JG, WATFORD</td><td>QPG, PERUGIA\\nVIMER SRL\\nELISA BUTTERI\\nVia E. Mattei, 30\\nIT-06016, SAN GIUSTINO</td><td>EXPRESS\\nWORLDWIDE\\ndoc</td><td>0.50 B</td><td>1</td><td>19.21</td><td>GOGREEN PLUS - CARBON\\nREDUCED\\nFUEL SURCHARGE</td><td>0.08</td><td>Z\\nZ</td><td>19.21\\n0.08</td></tr><tr><td>AIGNER</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"3\">602601</td><td>5.28</td><td>Z</td><td>Z</td><td>5.28</td></tr><tr><td>9806615501</td><td>Kathryn Zhan</td><td>22-05-25</td><td>LTN, LUTON\\nSA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmetrans Park\\nGB-WD24 7JG, WATFORD</td><td>PRG, PRAGUE\\nMARTINA HORNAKOVA - BALL AEROSOL\\nPACKAGING CZ\\nMartina Hornakova\\nBall Aerosol Packaging CZ S.R.O\\nPalackeho 639,\\nCZ-281 01, VELIM\\nPRG</td><td>EXPRESS\\nWORLDWIDE\\ndoc</td><td>0.50 A</td><td>1</td><td>19.21</td><td>GOGREEN PLUS - CARBON\\nREDUCED\\nFUEL SURCHARGE</td><td>0.08</td><td>Z\\nZ</td><td>19.21\\n0.08</td></tr><tr><td>PLAYBOY</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"3\">602601</td><td>5.28</td><td>Z</td><td>Z</td><td>5.28</td></tr><tr><td>3624815375</td><td>Kathryn Zhan</td><td>22-05-25</td><td>LTN, LUTON\\nSA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmetrans Park\\nGB-WD24 7JG, WATFORD</td><td>VIT, VITORIA\\nIDOIA SALVADOR - IGEPACK\\nIdoia Salvador\\nIGEPAK S.A.,\\nC/LEGARDA 2\\nES-20170, USURBIL</td><td>EXPRESS\\nWORLDWIDE\\ndoc</td><td>0.50 B</td><td>1</td><td>19.21</td><td>FUEL SURCHARGE\\nGOGREEN PLUS - CARBON\\nREDUCED</td><td>5.28\\n0.08</td><td>Z\\nZ</td><td>19.21\\n5.28\\n0.08</td></tr><tr><td colspan=\"9\">Service Sub Total - EXPRESS WORLDWIDE.doc</td><td>20.80</td><td>24.57</td><td></td><td>95.29</td></tr><tr><td>2331666643</td><td>Phil Sutton</td><td>16-05-25</td><td>LTN, LUTON\\nSA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmetrans Park\\nGB-WD24 7JG, WATFORD</td><td>LEH, IDF NORD &amp; OUEST\\nSILGAN DISPENSING SYSTEMS\\nAnais DERMY\\n15 Bis Route Nationale\\nFR-76470, LE TREPORT</td><td>ECONOMY\\nSELECT\\nnon-doc</td><td>2.00 B</td><td>1</td><td>18.13</td><td>EXCEPTED QUANTITIES\\nFUEL SURCHARGE</td><td>9.00\\n2.90</td><td>Z\\nZ</td><td>18.13\\n9.00\\n2.90</td></tr><tr><td>GHOST</td><td></td><td></td><td></td><td></td><td></td><td colspan=\"3\">501201</td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"9\">Service Sub Total - ECONOMY SELECT non-doc</td><td>2.00</td><td>1</td><td>18.13</td><td>30.03</td></tr></table>",
+          "block_bbox": [
+            26,
+            176,
+            1646,
+            1114
+          ],
+          "block_id": 3,
+          "block_order": null,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              26.0,
+              176.0
+            ],
+            [
+              1646.0,
+              176.0
+            ],
+            [
+              1646.0,
+              1114.0
+            ],
+            [
+              26.0,
+              1114.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.5065876245498657,
+            "coordinate": [
+              96,
+              69,
+              406,
+              145
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                96.0,
+                69.0
+              ],
+              [
+                406.0,
+                69.0
+              ],
+              [
+                406.0,
+                145.0
+              ],
+              [
+                96.0,
+                145.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.9152070879936218,
+            "coordinate": [
+              1365,
+              35,
+              1646,
+              94
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                1365.0,
+                35.0
+              ],
+              [
+                1646.0,
+                35.0
+              ],
+              [
+                1646.0,
+                94.0
+              ],
+              [
+                1365.0,
+                94.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5551440119743347,
+            "coordinate": [
+              783,
+              70,
+              918,
+              109
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                783.0,
+                70.0
+              ],
+              [
+                918.0,
+                70.0
+              ],
+              [
+                918.0,
+                109.0
+              ],
+              [
+                783.0,
+                109.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9642055034637451,
+            "coordinate": [
+              26,
+              176,
+              1646,
+              1114
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                26.0,
+                176.0
+              ],
+              [
+                1646.0,
+                176.0
+              ],
+              [
+                1646.0,
+                1114.0
+              ],
+              [
+                26.0,
+                1114.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/invoice_DHL - LGWR009675986 (1) 1.pdf",
+      "page_index": 2,
+      "page_count": 4,
+      "width": 1684,
+      "height": 1191,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Invoice Number:</td><td>LGWR009675986</td></tr><tr><td>Account Number:</td><td>187897396</td></tr><tr><td>Invoice Date:</td><td>26-05-25</td></tr><tr><td>Number of Pages:</td><td>3 of 4</td></tr></table>",
+          "block_bbox": [
+            96,
+            69,
+            405,
+            145
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              96.0,
+              69.0
+            ],
+            [
+              405.0,
+              69.0
+            ],
+            [
+              405.0,
+              145.0
+            ],
+            [
+              96.0,
+              145.0
+            ]
+          ]
+        },
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            1365,
+            35,
+            1647,
+            94
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              1365.0,
+              35.0
+            ],
+            [
+              1647.0,
+              35.0
+            ],
+            [
+              1647.0,
+              94.0
+            ],
+            [
+              1365.0,
+              94.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Invoice",
+          "block_bbox": [
+            783,
+            70,
+            918,
+            109
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              783.0,
+              70.0
+            ],
+            [
+              918.0,
+              70.0
+            ],
+            [
+              918.0,
+              109.0
+            ],
+            [
+              783.0,
+              109.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Air Waybill Number</td><td>Shippers Reference</td><td>Shipment Date</td><td>Origin / Consignor</td><td>Destination / Consignee</td><td>Type of Service</td><td>Weight in Kg</td><td>Number of items</td><td>Standard Charge</td><td>Extra Charges Description</td><td>Extra Charges Amount</td><td>VAT / Code</td><td>Total amount (incl. VAT)</td></tr><tr><td>6360975832</td><td>Ramzan Khan</td><td>14-05-25</td><td>LTN, LUTON SA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmertrans Park GB-WD24 7JG, WATFORD</td><td>SCL, SANTIAGO\\nCAMILA CASTILLO\\nCamila Castillo\\nMonjitas 360 Flat 318, Santiago, Chile\\nSANTIAGO CL., SANTIAGO</td><td>EXPRESS WORLDWIDE non-doc</td><td>2,00 W</td><td>1</td><td>46,07</td><td>EXCEPTED QUANTITIES\\nGOGREEN PLUS - CARBON REDUCED\\nFUEL SURCHARGE</td><td>9.00\\n0.30\\n12.67</td><td>Z\\nZ\\nZ\\nZ</td><td>46,07\\n9.00\\n0.30\\n12.67\\n68.04</td></tr><tr><td>JLO</td><td></td><td></td><td></td><td></td><td></td><td></td><td>CO</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6360998991</td><td>Ramzan Khan</td><td>14-05-25</td><td>LTN, LUTON SA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBUSHEY MILL LANE\\nAMERTRANS PARK GB-WD24 7JG, WATFORD</td><td>SCL, SANTIAGO\\nCAMILA CASTILLO\\nCamila Castillo\\nMONJITAS 360 FLAT 318, SANTIAGO, CH\\nSANTIAGO CL., SANTIAGO</td><td>EXPRESS WORLDWIDE non-doc</td><td>3,50 W</td><td>1</td><td>56.48</td><td>EXCEPTED QUANTITIES\\nGOGREEN PLUS - CARBON REDUCED\\nFUEL SURCHARGE</td><td>9.00\\n0.53\\n15.53</td><td>Z\\nZ\\nZ</td><td>56.48\\n9.00\\n0.53\\n15.53\\n81.54</td></tr><tr><td>PBY</td><td></td><td></td><td></td><td></td><td></td><td></td><td>CO</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2563609576</td><td>Ramzan Khan</td><td>14-05-25</td><td>LTN, LUTON SA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmertrans Park GB-WD24 7JG, WATFORD</td><td>SCL, SANTIAGO\\nCAMILA CASTILLO\\nCamila Castillo\\nMonjitas 360 Flat 318, Santiago, Chile\\nSANTIAGO CL., SANTIAGO</td><td>EXPRESS WORLDWIDE non-doc</td><td>2.00 B</td><td>1</td><td>46.07</td><td>EXCEPTED QUANTITIES\\nGOGREEN PLUS - CARBON REDUCED\\nFUEL SURCHARGE</td><td>9.00\\n0.30\\n12.67</td><td>Z\\nZ\\nZ</td><td>46.07\\n9.00\\n0.30\\n12.67\\n68.04</td></tr><tr><td>PBY</td><td></td><td></td><td></td><td></td><td></td><td></td><td>CO</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2563721742</td><td>Ramzan Khan</td><td>14-05-25</td><td>LTN, LUTON SA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmertrans Park GB-WD24 7JG, WATFORD</td><td>SCL, SANTIAGO\\nCAMILA CASTILLO\\nCamila Castillo\\nMonjitas 360 Flat 318, Santiago, Chile\\nSANTIAGO CL., SANTIAGO</td><td>EXPRESS WORLDWIDE non-doc</td><td>3,50 W</td><td>1</td><td>56.48</td><td>EXCEPTED QUANTITIES\\nGOGREEN PLUS - CARBON REDUCED\\nFUEL SURCHARGE</td><td>9.00\\n0.53\\n15.53</td><td>Z\\nZ\\nZ</td><td>56.48\\n9.00\\n0.53\\n15.53\\n81.54</td></tr><tr><td>PBY</td><td></td><td></td><td></td><td></td><td></td><td></td><td>CO</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1699336262</td><td>Ramzan Khan</td><td>20-05-25</td><td>LTN, LUTON SA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmertrans Park GB-WD24 7JG, WATFORD</td><td>SCL, SANTIAGO\\nDANIELA BARRAZA\\nDaniela Barraza\\nLas Hualtatas 11573 Flat 404 A 7650005\\nCL-7650005, VITACURA</td><td>EXPRESS WORLDWIDE non-doc</td><td>2,50 W</td><td>1</td><td>49.58</td><td>GOGREEN PLUS - CARBON REDUCED\\nFUEL SURCHARGE</td><td>0.38\\n13.63</td><td>Z\\nZ</td><td>49.58\\n0.38\\n13.63\\n63.59</td></tr><tr><td>JLO</td><td></td><td></td><td></td><td></td><td></td><td></td><td>CO</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5350127344</td><td>Allen Christian</td><td>21-05-25</td><td>LTN, LUTON SA DESIGNER PARFUMS LTD\\nSA Designer Parfums Ltd\\nBushey Mill Lane\\nAmertrans Park GB-WD24 7JG, WATFORD</td><td>TPE, TAIPEI\\nLUXASIA TAIWAN\\nDavid Xiao\\n5F-6, No. 188, Sec, 5\\nNang King East Road\\nTW-105, TAIPEI\\nTAIPEI CITY</td><td>EXPRESS WORLDWIDE non-doc</td><td>2,00 W</td><td>1</td><td>35.54</td><td>EXCEPTED QUANTITIES\\nGOGREEN PLUS - CARBON REDUCED\\nFUEL SURCHARGE</td><td>9.00\\n0.30\\n9.77</td><td>Z\\nZ\\nZ</td><td>35.54\\n9.00\\n0.30\\n9.77\\n63.59</td></tr><tr><td>JLO</td><td></td><td></td><td></td><td></td><td></td><td></td><td>CO</td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+          "block_bbox": [
+            26,
+            178,
+            1646,
+            1075
+          ],
+          "block_id": 3,
+          "block_order": null,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              26.0,
+              178.0
+            ],
+            [
+              1646.0,
+              178.0
+            ],
+            [
+              1646.0,
+              1075.0
+            ],
+            [
+              26.0,
+              1075.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.4227878451347351,
+            "coordinate": [
+              96,
+              69,
+              405,
+              145
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                96.0,
+                69.0
+              ],
+              [
+                405.0,
+                69.0
+              ],
+              [
+                405.0,
+                145.0
+              ],
+              [
+                96.0,
+                145.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.9166845679283142,
+            "coordinate": [
+              1365,
+              35,
+              1647,
+              94
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                1365.0,
+                35.0
+              ],
+              [
+                1647.0,
+                35.0
+              ],
+              [
+                1647.0,
+                94.0
+              ],
+              [
+                1365.0,
+                94.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.543917179107666,
+            "coordinate": [
+              783,
+              70,
+              918,
+              109
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                783.0,
+                70.0
+              ],
+              [
+                918.0,
+                70.0
+              ],
+              [
+                918.0,
+                109.0
+              ],
+              [
+                783.0,
+                109.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.9612228274345398,
+            "coordinate": [
+              26,
+              178,
+              1646,
+              1075
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                26.0,
+                178.0
+              ],
+              [
+                1646.0,
+                178.0
+              ],
+              [
+                1646.0,
+                1075.0
+              ],
+              [
+                26.0,
+                1075.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "res": {
+      "input_path": "/home/aries/silvertouch/ocr/data/invoice_DHL - LGWR009675986 (1) 1.pdf",
+      "page_index": 3,
+      "page_count": 4,
+      "width": 1684,
+      "height": 1191,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Invoice Number:</td><td>LGWR009675986</td></tr><tr><td>Account Number:</td><td>187897396</td></tr><tr><td>Invoice Date:</td><td>26-05-25</td></tr><tr><td>Number of Pages:</td><td>4 of 4</td></tr></table>",
+          "block_bbox": [
+            96,
+            69,
+            407,
+            144
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              96.0,
+              69.0
+            ],
+            [
+              407.0,
+              69.0
+            ],
+            [
+              407.0,
+              144.0
+            ],
+            [
+              96.0,
+              144.0
+            ]
+          ]
+        },
+        {
+          "block_label": "header_image",
+          "block_content": "",
+          "block_bbox": [
+            1366,
+            35,
+            1646,
+            94
+          ],
+          "block_id": 1,
+          "block_order": null,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              1366.0,
+              35.0
+            ],
+            [
+              1646.0,
+              35.0
+            ],
+            [
+              1646.0,
+              94.0
+            ],
+            [
+              1366.0,
+              94.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Invoice",
+          "block_bbox": [
+            783,
+            70,
+            917,
+            108
+          ],
+          "block_id": 2,
+          "block_order": 1,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              783.0,
+              70.0
+            ],
+            [
+              917.0,
+              70.0
+            ],
+            [
+              917.0,
+              108.0
+            ],
+            [
+              783.0,
+              108.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>Air Waybill Number</td><td>Shippers Reference</td><td>Shipment Origin / Date</td><td>Destination / Consignee</td><td>Type of Service</td><td>Weight in Kg</td><td>Number of items</td><td>Standard Charge</td><td>Extra Charges Description</td><td>Extra Charges Amount</td><td>VAT / Code of</td><td>Total amount (incl. VAT)</td></tr><tr><td colspan=\"5\">Service Sub Total - EXPRESS WORLDWIDE non-doc</td><td>15.50</td><td>6</td><td>290.22</td><td></td><td>127.14</td><td></td><td>417.36</td></tr><tr><td colspan=\"5\"></td><td>Total: GBP: 19.50</td><td>11</td><td>382.84</td><td></td><td>159.84</td><td></td><td>542.68</td></tr><tr><td colspan=\"5\"></td><td>A = Customer Actual Weight</td><td>V = Customer Volumetric Weight</td><td>B = DHL Actual Weight</td><td>W = DHL Volumetric Weight</td><td colspan=\"3\">M = Mixed</td></tr></table>",
+          "block_bbox": [
+            27,
+            181,
+            1646,
+            1119
+          ],
+          "block_id": 3,
+          "block_order": null,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              27.0,
+              181.0
+            ],
+            [
+              1646.0,
+              181.0
+            ],
+            [
+              1646.0,
+              1119.0
+            ],
+            [
+              27.0,
+              1119.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.41361498832702637,
+            "coordinate": [
+              96,
+              69,
+              407,
+              144
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                96.0,
+                69.0
+              ],
+              [
+                407.0,
+                69.0
+              ],
+              [
+                407.0,
+                144.0
+              ],
+              [
+                96.0,
+                144.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 13,
+            "label": "header_image",
+            "score": 0.9054309725761414,
+            "coordinate": [
+              1366,
+              35,
+              1646,
+              94
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                1366.0,
+                35.0
+              ],
+              [
+                1646.0,
+                35.0
+              ],
+              [
+                1646.0,
+                94.0
+              ],
+              [
+                1366.0,
+                94.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.6107656359672546,
+            "coordinate": [
+              783,
+              70,
+              917,
+              108
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                783.0,
+                70.0
+              ],
+              [
+                917.0,
+                70.0
+              ],
+              [
+                917.0,
+                108.0
+              ],
+              [
+                783.0,
+                108.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.8874443769454956,
+            "coordinate": [
+              27,
+              181,
+              1646,
+              1119
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                27.0,
+                181.0
+              ],
+              [
+                1646.0,
+                181.0
+              ],
+              [
+                1646.0,
+                1119.0
+              ],
+              [
+                27.0,
+                1119.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
