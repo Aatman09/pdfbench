@@ -1,0 +1,5130 @@
+[
+  {
+    "res": {
+      "input_path": "processed_leaflets_300dpi/Leaflet Brimonidine TartrateTimolol Maleate Ophthalmic Solution - Caplin_page_1.png",
+      "page_index": null,
+      "page_count": null,
+      "width": 3780,
+      "height": 7205,
+      "model_settings": {
+        "use_doc_preprocessor": false,
+        "use_layout_detection": true,
+        "use_chart_recognition": false,
+        "use_seal_recognition": false,
+        "use_ocr_for_image_block": false,
+        "format_block_content": false,
+        "merge_layout_blocks": true,
+        "markdown_ignore_labels": [
+          "number",
+          "footnote",
+          "header",
+          "header_image",
+          "footer",
+          "footer_image",
+          "aside_text"
+        ],
+        "return_layout_polygon_points": true
+      },
+      "parsing_res_list": [
+        {
+          "block_label": "image",
+          "block_content": "",
+          "block_bbox": [
+            234,
+            232,
+            3544,
+            829
+          ],
+          "block_id": 0,
+          "block_order": null,
+          "group_id": 0,
+          "block_polygon_points": [
+            [
+              234.0,
+              232.0
+            ],
+            [
+              3544.0,
+              232.0
+            ],
+            [
+              3544.0,
+              829.0
+            ],
+            [
+              234.0,
+              829.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "HIGHLIGHTS OF PRESCRIBING INFORMATION",
+          "block_bbox": [
+            340,
+            826,
+            806,
+            866
+          ],
+          "block_id": 1,
+          "block_order": 1,
+          "group_id": 1,
+          "block_polygon_points": [
+            [
+              340.0,
+              826.0
+            ],
+            [
+              806.0,
+              826.0
+            ],
+            [
+              806.0,
+              866.0
+            ],
+            [
+              340.0,
+              866.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "These highlights do not include all the information needed to use BRIMONIDINE TARTRATE/TIMOLOL MALEATE OPHTHALMIC SOLUTION safely and effectively. See full prescribing information for BRIMONIDINE TARTRATE/TIMOLOL MALEATE OPHTHALMIC SOLUTION.",
+          "block_bbox": [
+            335,
+            859,
+            1841,
+            933
+          ],
+          "block_id": 2,
+          "block_order": 2,
+          "group_id": 2,
+          "block_polygon_points": [
+            [
+              335.0,
+              859.0
+            ],
+            [
+              1841.0,
+              859.0
+            ],
+            [
+              1841.0,
+              933.0
+            ],
+            [
+              335.0,
+              933.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "--INDICATIONS AND USAGE-",
+          "block_bbox": [
+            979,
+            1054,
+            1247,
+            1092
+          ],
+          "block_id": 3,
+          "block_order": 3,
+          "group_id": 3,
+          "block_polygon_points": [
+            [
+              979.0,
+              1054.0
+            ],
+            [
+              1247.0,
+              1054.0
+            ],
+            [
+              1247.0,
+              1092.0
+            ],
+            [
+              979.0,
+              1092.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Brimonidine Tartrate/Timolol Maleate Ophthalmic Solution is an alpha-adrenergic receptor agonist with a beta-adrenergic receptor inhibitor indicated for the reduction of elevated intraocular pressure (IOP) in patients with glaucoma or ocular hypertension who require adjunctive or replacement therapy due to inadequately controlled IOP; the IOP-lowering of brimonidine tartrate/timolol maleate ophthalmic solution dosed twice a day was slightly less than that seen with the concomitant administration of timolol maleate ophthalmic solution, 0.5% dosed twice a day and brimonidine tartrate ophthalmic solution, 0.2% dosed three times per day. (1)",
+          "block_bbox": [
+            332,
+            1107,
+            1844,
+            1250
+          ],
+          "block_id": 4,
+          "block_order": 4,
+          "group_id": 4,
+          "block_polygon_points": [
+            [
+              332.0,
+              1107.0
+            ],
+            [
+              1844.0,
+              1107.0
+            ],
+            [
+              1844.0,
+              1250.0
+            ],
+            [
+              332.0,
+              1250.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "----- DUSAGE FORMS AND STRENGTHS--",
+          "block_bbox": [
+            341,
+            1374,
+            1312,
+            1412
+          ],
+          "block_id": 5,
+          "block_order": 5,
+          "group_id": 5,
+          "block_polygon_points": [
+            [
+              856.0,
+              1374.0
+            ],
+            [
+              1311.0,
+              1374.0
+            ],
+            [
+              1311.0,
+              1411.0
+            ],
+            [
+              856.0,
+              1411.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "WARNINGS AND PRECAUTIONS",
+          "block_bbox": [
+            345,
+            1639,
+            1852,
+            1674
+          ],
+          "block_id": 6,
+          "block_order": 6,
+          "group_id": 6,
+          "block_polygon_points": [
+            [
+              798.0,
+              1639.0
+            ],
+            [
+              1851.0,
+              1639.0
+            ],
+            [
+              1851.0,
+              1673.0
+            ],
+            [
+              798.0,
+              1673.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "--ADVERSE REACTIONS--",
+          "block_bbox": [
+            2551,
+            1065,
+            2792,
+            1095
+          ],
+          "block_id": 7,
+          "block_order": 7,
+          "group_id": 7,
+          "block_polygon_points": [
+            [
+              2551.0,
+              1065.0
+            ],
+            [
+              2792.0,
+              1065.0
+            ],
+            [
+              2792.0,
+              1095.0
+            ],
+            [
+              2551.0,
+              1095.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td>1</td><td>INDICATIONS AND USAGE</td></tr><tr><td>2</td><td>DOSAGE AND ADMINISTRATION</td></tr><tr><td>3</td><td>DOSAGE FORMS AND STRENGTHS</td></tr><tr><td>4</td><td>CONTRAINDICATIONS</td></tr><tr><td></td><td>4.1 Reactive Airway Disease Including Asthma, COPD</td></tr><tr><td></td><td>4.2 Sinus Bradycardia, AV Block, Cardiac Failure, Cardiogenic Shock</td></tr><tr><td></td><td>4.3 Neonates and Infants (Under the Age of 2 Years)</td></tr><tr><td></td><td>4.4 Hypersensitivity Reactions</td></tr><tr><td>5</td><td>WARNINGS AND PRECAUTIONS</td></tr><tr><td></td><td>5.1 Potential for Severe Respiratory or Cardiac Reactions</td></tr><tr><td></td><td>5.2 Cardiac Failure</td></tr><tr><td></td><td>5.3 Obstructive Pulmonary Disease</td></tr><tr><td></td><td>5.4 Potentiation of Vascular Insufficiency</td></tr><tr><td></td><td>5.5 Increased Reactivity to Allergens</td></tr><tr><td></td><td>5.6 Potentiation of Muscle Weakness</td></tr><tr><td></td><td>5.7 Masking of Hypoglycemic Symptoms in Patients with Diabetes Mellitus</td></tr><tr><td></td><td>5.8 Masking of Thyrotoxicosis</td></tr><tr><td></td><td>5.9 Ocular Hypersensitivity</td></tr><tr><td></td><td>5.10 Contamination of Topical Ophthalmic Products After Use</td></tr><tr><td></td><td>5.11 Impairment of Beta-adrenergic Mediated Reflexes During Surgery</td></tr><tr><td>6</td><td>ADVERSE REACTIONS</td></tr><tr><td></td><td>6.1 Clinical Studies Experience</td></tr><tr><td></td><td>6.2 Postmarketing Experience</td></tr></table>",
+          "block_bbox": [
+            344,
+            1826,
+            1889,
+            2529
+          ],
+          "block_id": 8,
+          "block_order": null,
+          "group_id": 8,
+          "block_polygon_points": [
+            [
+              344.0,
+              1826.0
+            ],
+            [
+              1889.0,
+              1826.0
+            ],
+            [
+              1889.0,
+              2529.0
+            ],
+            [
+              344.0,
+              2529.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "FULL PRESCRIBING INFORMATION: CONTENTS $ ^{*} $",
+          "block_bbox": [
+            346,
+            1803,
+            827,
+            1839
+          ],
+          "block_id": 9,
+          "block_order": 8,
+          "group_id": 9,
+          "block_polygon_points": [
+            [
+              346.0,
+              1803.0
+            ],
+            [
+              827.0,
+              1803.0
+            ],
+            [
+              827.0,
+              1839.0
+            ],
+            [
+              346.0,
+              1839.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Most common adverse reactions occurring in approximately 5 to 15% of patients included allergic conjunctivitis, conjunctival folliculosis, conjunctival hyperemia, eye pruritus, ocular burning, and stinging. (6.1)",
+          "block_bbox": [
+            1935,
+            1108,
+            3440,
+            1159
+          ],
+          "block_id": 10,
+          "block_order": 9,
+          "group_id": 10,
+          "block_polygon_points": [
+            [
+              1935.0,
+              1108.0
+            ],
+            [
+              3440.0,
+              1108.0
+            ],
+            [
+              3440.0,
+              1159.0
+            ],
+            [
+              1935.0,
+              1159.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Brimonidine tartrate/timolol maleate ophthalmic solution is contraindicated in patients with reactive airway disease including bronchial asthma; a history of bronchial asthma; severe chronic obstructive pulmonary disease [see Warnings and Precautions (5.1, 5.3)].",
+          "block_bbox": [
+            340,
+            3249,
+            1847,
+            3325
+          ],
+          "block_id": 11,
+          "block_order": 10,
+          "group_id": 11,
+          "block_polygon_points": [
+            [
+              340.0,
+              3249.0
+            ],
+            [
+              1847.0,
+              3249.0
+            ],
+            [
+              1847.0,
+              3325.0
+            ],
+            [
+              340.0,
+              3325.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "The recommended dose is one drop of brimonidine tartrate/timolol maleate ophthalmic solution in the affected eye(s) twice daily approximately 12 hours apart. If more than one topical ophthalmic product is to be used, the different products should be instilled at least 5 minutes apart.",
+          "block_bbox": [
+            337,
+            2976,
+            1847,
+            3034
+          ],
+          "block_id": 12,
+          "block_order": 11,
+          "group_id": 12,
+          "block_polygon_points": [
+            [
+              337.0,
+              2976.0
+            ],
+            [
+              1847.0,
+              2976.0
+            ],
+            [
+              1847.0,
+              3034.0
+            ],
+            [
+              337.0,
+              3034.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Brimonidine tartrate/timolol maleate ophthalmic solution is contraindicated in patients with sinus bradycardia; second or third degree atrioventricular block; overt cardiac failure [see Warnings and Precautions (5.2)]; cardiogenic shock.",
+          "block_bbox": [
+            336,
+            3344,
+            1846,
+            3418
+          ],
+          "block_id": 13,
+          "block_order": 12,
+          "group_id": 13,
+          "block_polygon_points": [
+            [
+              336.0,
+              3344.0
+            ],
+            [
+              1846.0,
+              3344.0
+            ],
+            [
+              1846.0,
+              3418.0
+            ],
+            [
+              336.0,
+              3418.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "FULL PRESCRIBING INFORMATION",
+          "block_bbox": [
+            343,
+            2668,
+            704,
+            2705
+          ],
+          "block_id": 14,
+          "block_order": 13,
+          "group_id": 14,
+          "block_polygon_points": [
+            [
+              343.0,
+              2668.0
+            ],
+            [
+              704.0,
+              2668.0
+            ],
+            [
+              704.0,
+              2705.0
+            ],
+            [
+              343.0,
+              2705.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "INDICATIONS AND USAGE",
+          "block_bbox": [
+            347,
+            2718,
+            732,
+            2752
+          ],
+          "block_id": 15,
+          "block_order": 14,
+          "group_id": 15,
+          "block_polygon_points": [
+            [
+              457.0,
+              2718.0
+            ],
+            [
+              731.0,
+              2718.0
+            ],
+            [
+              731.0,
+              2751.0
+            ],
+            [
+              457.0,
+              2751.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Brimonidine Tartrate/Timolol Maleate Ophthalmic Solution 0.2%/0.5% is an alpha-adrenergic receptor agonist with a beta-adrenergic receptor inhibitor indicated for the reduction of elevated intraocular pressure (IOP) in patients with glaucoma or ocular hypertension who require adjunctive or replacement therapy due to inadequately controlled IOP; the IOP-lowering of brimonidine tartrate/timolol maleate ophthalmic solution dosed twice a day was slightly less than that seen with the concomitant administration of 0.5% timolol maleate ophthalmic solution dosed twice a day and 0.2% brimonidine tartrate ophthalmic solution dosed three times per day.",
+          "block_bbox": [
+            336,
+            2764,
+            1846,
+            2913
+          ],
+          "block_id": 16,
+          "block_order": 15,
+          "group_id": 16,
+          "block_polygon_points": [
+            [
+              336.0,
+              2764.0
+            ],
+            [
+              1846.0,
+              2764.0
+            ],
+            [
+              1846.0,
+              2913.0
+            ],
+            [
+              336.0,
+              2913.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "DOSAGE FORMS AND STRENGTHS",
+          "block_bbox": [
+            348,
+            3055,
+            812,
+            3089
+          ],
+          "block_id": 17,
+          "block_order": 16,
+          "group_id": 17,
+          "block_polygon_points": [
+            [
+              460.0,
+              3055.0
+            ],
+            [
+              811.0,
+              3055.0
+            ],
+            [
+              811.0,
+              3088.0
+            ],
+            [
+              460.0,
+              3088.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Revised: 02/2025",
+          "block_bbox": [
+            3247,
+            1713,
+            3434,
+            1746
+          ],
+          "block_id": 18,
+          "block_order": 17,
+          "group_id": 18,
+          "block_polygon_points": [
+            [
+              3247.0,
+              1713.0
+            ],
+            [
+              3434.0,
+              1713.0
+            ],
+            [
+              3434.0,
+              1746.0
+            ],
+            [
+              3247.0,
+              1746.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Local hypersensitivity reactions have occurred following the use of different components of brimonidine tartrate/timolol maleate ophthalmic solution. Brimonidine tartrate/timolol maleate ophthalmic solution is contraindicated in patients who have exhibited a hypersensitivity reaction to any component of this medication in the past.",
+          "block_bbox": [
+            335,
+            3573,
+            1842,
+            3661
+          ],
+          "block_id": 19,
+          "block_order": 18,
+          "group_id": 19,
+          "block_polygon_points": [
+            [
+              335.0,
+              3573.0
+            ],
+            [
+              1842.0,
+              3573.0
+            ],
+            [
+              1842.0,
+              3661.0
+            ],
+            [
+              335.0,
+              3661.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "DOSAGE AND ADMINISTRATION",
+          "block_bbox": [
+            346,
+            2931,
+            799,
+            2962
+          ],
+          "block_id": 20,
+          "block_order": 19,
+          "group_id": 20,
+          "block_polygon_points": [
+            [
+              460.0,
+              2931.0
+            ],
+            [
+              798.0,
+              2931.0
+            ],
+            [
+              798.0,
+              2961.0
+            ],
+            [
+              460.0,
+              2961.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Potential for Severe Respiratory or Cardiac Reactions",
+          "block_bbox": [
+            339,
+            3732,
+            1015,
+            3767
+          ],
+          "block_id": 21,
+          "block_order": 20,
+          "group_id": 21,
+          "block_polygon_points": [
+            [
+              433.0,
+              3732.0
+            ],
+            [
+              1014.0,
+              3732.0
+            ],
+            [
+              1014.0,
+              3766.0
+            ],
+            [
+              433.0,
+              3766.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Solution containing 2 mg/mL brimonidine tartrate and 5 mg/mL timolol (6.8 mg/mL timolol maleate).",
+          "block_bbox": [
+            343,
+            3093,
+            1292,
+            3126
+          ],
+          "block_id": 22,
+          "block_order": 21,
+          "group_id": 22,
+          "block_polygon_points": [
+            [
+              343.0,
+              3093.0
+            ],
+            [
+              1292.0,
+              3093.0
+            ],
+            [
+              1292.0,
+              3126.0
+            ],
+            [
+              343.0,
+              3126.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "5.2 Cardiac Failure",
+          "block_bbox": [
+            341,
+            3945,
+            625,
+            3975
+          ],
+          "block_id": 23,
+          "block_order": 22,
+          "group_id": 23,
+          "block_polygon_points": [
+            [
+              341.0,
+              3945.0
+            ],
+            [
+              625.0,
+              3945.0
+            ],
+            [
+              625.0,
+              3975.0
+            ],
+            [
+              341.0,
+              3975.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Reactive Airway Disease Including Asthma, COPD",
+          "block_bbox": [
+            347,
+            3198,
+            974,
+            3236
+          ],
+          "block_id": 24,
+          "block_order": 23,
+          "group_id": 24,
+          "block_polygon_points": [
+            [
+              458.0,
+              3198.0
+            ],
+            [
+              973.0,
+              3198.0
+            ],
+            [
+              973.0,
+              3235.0
+            ],
+            [
+              458.0,
+              3235.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.",
+          "block_bbox": [
+            341,
+            3989,
+            1841,
+            4049
+          ],
+          "block_id": 25,
+          "block_order": 24,
+          "group_id": 25,
+          "block_polygon_points": [
+            [
+              341.0,
+              3989.0
+            ],
+            [
+              1841.0,
+              3989.0
+            ],
+            [
+              1841.0,
+              4049.0
+            ],
+            [
+              341.0,
+              4049.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "In patients without a history of cardiac failure, continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure. At the first sign or symptom of cardiac failure, brimonidine tartrate/timolol maleate ophthalmic solution should be discontinued [see Contraindications (4.2)].",
+          "block_bbox": [
+            338,
+            4058,
+            1842,
+            4160
+          ],
+          "block_id": 26,
+          "block_order": 25,
+          "group_id": 26,
+          "block_polygon_points": [
+            [
+              338.0,
+              4058.0
+            ],
+            [
+              1842.0,
+              4058.0
+            ],
+            [
+              1842.0,
+              4160.0
+            ],
+            [
+              338.0,
+              4160.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Obstructive Pulmonary Disease",
+          "block_bbox": [
+            343,
+            4167,
+            788,
+            4201
+          ],
+          "block_id": 27,
+          "block_order": 26,
+          "group_id": 27,
+          "block_polygon_points": [
+            [
+              455.0000305175781,
+              4166.99951171875
+            ],
+            [
+              787.0,
+              4166.99951171875
+            ],
+            [
+              787.0,
+              4199.99951171875
+            ],
+            [
+              455.0000305175781,
+              4199.99951171875
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "tartrate/timolol maleate ophthalmic solution is contraindicated in neonates and infants (under the age of 2 years).",
+          "block_bbox": [
+            337,
+            3477,
+            1530,
+            3520
+          ],
+          "block_id": 28,
+          "block_order": 27,
+          "group_id": 28,
+          "block_polygon_points": [
+            [
+              470.0,
+              3477.0
+            ],
+            [
+              1529.0,
+              3477.0
+            ],
+            [
+              1529.0,
+              3519.0
+            ],
+            [
+              470.0,
+              3519.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchopastic disease, or a history of bronchopastic disease (other than bronchial asthma or a history of bronchial asthma, in which brimonidine tartrate/timolol maleate ophthalmic solution is contraindicated [see Contraindications (4.1)] should, in general, not receive beta-blocking agents, including brimonidine tartrate/timolol maleate ophthalmic solution.\n5.4 Potentiation of Vascular Insufficiency",
+          "block_bbox": [
+            338,
+            4213,
+            1841,
+            4336
+          ],
+          "block_id": 29,
+          "block_order": 28,
+          "group_id": 29,
+          "block_polygon_points": [
+            [
+              338.0,
+              4213.0
+            ],
+            [
+              1841.0,
+              4213.0
+            ],
+            [
+              1841.0,
+              4336.0
+            ],
+            [
+              338.0,
+              4336.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "CONTRAINDICATIONS",
+          "block_bbox": [
+            346,
+            3145,
+            698,
+            3178
+          ],
+          "block_id": 30,
+          "block_order": 29,
+          "group_id": 30,
+          "block_polygon_points": [
+            [
+              458.0,
+              3145.0
+            ],
+            [
+              697.0,
+              3145.0
+            ],
+            [
+              697.0,
+              3177.0
+            ],
+            [
+              458.0,
+              3177.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Brimonidine tartrate/timolol maleate ophthalmic solution may potentiate syndromes associated with vascular insufficiency. Brimonidine tartrate/timolol maleate ophthalmic solution should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud's phenomenon, orthostatic hypotension, or thromboangiitis obliterans.",
+          "block_bbox": [
+            336,
+            4364,
+            1840,
+            4461
+          ],
+          "block_id": 31,
+          "block_order": 30,
+          "group_id": 31,
+          "block_polygon_points": [
+            [
+              336.0,
+              4364.0
+            ],
+            [
+              1840.0,
+              4364.0
+            ],
+            [
+              1840.0,
+              4461.0
+            ],
+            [
+              336.0,
+              4461.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "WARNINGS AND PRECAUTIONS",
+          "block_bbox": [
+            344,
+            3675,
+            788,
+            3711
+          ],
+          "block_id": 32,
+          "block_order": 31,
+          "group_id": 32,
+          "block_polygon_points": [
+            [
+              455.0000305175781,
+              3675.0
+            ],
+            [
+              787.0,
+              3675.0
+            ],
+            [
+              787.0,
+              3710.0
+            ],
+            [
+              455.0000305175781,
+              3710.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Potentiation of Vascular Insufficiency",
+          "block_bbox": [
+            339,
+            4323,
+            856,
+            4357
+          ],
+          "block_id": 33,
+          "block_order": 32,
+          "group_id": 33,
+          "block_polygon_points": [
+            [
+              454.0,
+              4323.0
+            ],
+            [
+              855.0,
+              4323.0
+            ],
+            [
+              855.0,
+              4356.0
+            ],
+            [
+              454.0,
+              4356.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "4.3 Neonates and Infants (Under the Age of 2 Years)",
+          "block_bbox": [
+            340,
+            3435,
+            965,
+            3469
+          ],
+          "block_id": 34,
+          "block_order": 33,
+          "group_id": 34,
+          "block_polygon_points": [
+            [
+              340.0,
+              3435.0
+            ],
+            [
+              965.0,
+              3435.0
+            ],
+            [
+              965.0,
+              3469.0
+            ],
+            [
+              340.0,
+              3469.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Hypersensitivity Reactions",
+          "block_bbox": [
+            341,
+            3524,
+            739,
+            3563
+          ],
+          "block_id": 35,
+          "block_order": 34,
+          "group_id": 35,
+          "block_polygon_points": [
+            [
+              455.0,
+              3524.0
+            ],
+            [
+              738.0,
+              3524.0
+            ],
+            [
+              738.0,
+              3562.0
+            ],
+            [
+              455.0,
+              3562.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "5.5 Increased Reactivity to Allergens",
+          "block_bbox": [
+            341,
+            4473,
+            811,
+            4508
+          ],
+          "block_id": 36,
+          "block_order": 35,
+          "group_id": 36,
+          "block_polygon_points": [
+            [
+              341.0,
+              4473.0
+            ],
+            [
+              811.0,
+              4473.0
+            ],
+            [
+              811.0,
+              4508.0
+            ],
+            [
+              341.0,
+              4508.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Beta-adrenergic blockade has been reported to potentiate muscle weakness consistent with certain myasthenic symptoms (e.g., diplopia, ptosis, and generalized",
+          "block_bbox": [
+            340,
+            4665,
+            1837,
+            4702
+          ],
+          "block_id": 37,
+          "block_order": 36,
+          "group_id": 37,
+          "block_polygon_points": [
+            [
+              340.0,
+              4665.0
+            ],
+            [
+              1837.0,
+              4665.0
+            ],
+            [
+              1837.0,
+              4702.0
+            ],
+            [
+              340.0,
+              4702.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Ocular hypersensitivity reactions have been reported with brimonidine tartrate ophthalmic solutions 0.2%, with some reported to be associated with an increase in intraocular pressure [see Contraindications (4.4)].",
+          "block_bbox": [
+            340,
+            5068,
+            1841,
+            5135
+          ],
+          "block_id": 38,
+          "block_order": 37,
+          "group_id": 38,
+          "block_polygon_points": [
+            [
+              340.0,
+              5068.0
+            ],
+            [
+              1841.0,
+              5068.0
+            ],
+            [
+              1841.0,
+              5135.0
+            ],
+            [
+              340.0,
+              5135.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "While taking beta-blockers, patients with a history of atopy or a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated accidental, diagnostic, or therapeutic challenge with such allergens. Such patients may be unresponsive to the usual doses of epinephrine used to treat anaphylactic reactions.",
+          "block_bbox": [
+            341,
+            4520,
+            1843,
+            4610
+          ],
+          "block_id": 39,
+          "block_order": 38,
+          "group_id": 39,
+          "block_polygon_points": [
+            [
+              341.0,
+              4520.0
+            ],
+            [
+              1843.0,
+              4520.0
+            ],
+            [
+              1843.0,
+              4610.0
+            ],
+            [
+              341.0,
+              4610.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Beta-adrenergic blocking agents should be administered with caution in patients subject to spontaneous hypoglycemia or to diabetic patients (especially those with labile diabetes) who are receiving insulin or oral hypoglycemic agents. Beta-adrenergic receptor blocking agents may mask the signs and symptoms of acute hypoglycemia.",
+          "block_bbox": [
+            334,
+            4791,
+            1845,
+            4887
+          ],
+          "block_id": 40,
+          "block_order": 39,
+          "group_id": 40,
+          "block_polygon_points": [
+            [
+              334.0,
+              4791.0
+            ],
+            [
+              1845.0,
+              4791.0
+            ],
+            [
+              1845.0,
+              4887.0
+            ],
+            [
+              334.0,
+              4887.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "5.10 Contamination of Topical Ophthalmic Products After Use",
+          "block_bbox": [
+            343,
+            5145,
+            1047,
+            5183
+          ],
+          "block_id": 41,
+          "block_order": 40,
+          "group_id": 41,
+          "block_polygon_points": [
+            [
+              343.0,
+              5145.0
+            ],
+            [
+              1047.0,
+              5145.0
+            ],
+            [
+              1047.0,
+              5183.0
+            ],
+            [
+              343.0,
+              5183.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Potentiation of Muscle Weakness",
+          "block_bbox": [
+            348,
+            4625,
+            825,
+            4657
+          ],
+          "block_id": 42,
+          "block_order": 41,
+          "group_id": 42,
+          "block_polygon_points": [
+            [
+              422.0,
+              4625.0
+            ],
+            [
+              806.0,
+              4625.0
+            ],
+            [
+              806.0,
+              4656.0
+            ],
+            [
+              422.0,
+              4656.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Masking of Hypoglycemic Symptoms in Patients with Diabetes Mellitus",
+          "block_bbox": [
+            343,
+            4750,
+            1194,
+            4784
+          ],
+          "block_id": 43,
+          "block_order": 42,
+          "group_id": 43,
+          "block_polygon_points": [
+            [
+              457.0,
+              4750.0
+            ],
+            [
+              1193.0,
+              4750.0
+            ],
+            [
+              1193.0,
+              4783.0
+            ],
+            [
+              457.0,
+              4783.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Masking of Thyrotoxicosis",
+          "block_bbox": [
+            340,
+            4897,
+            747,
+            4930
+          ],
+          "block_id": 44,
+          "block_order": 43,
+          "group_id": 44,
+          "block_polygon_points": [
+            [
+              451.0,
+              4897.0
+            ],
+            [
+              746.0,
+              4897.0
+            ],
+            [
+              746.0,
+              4929.0
+            ],
+            [
+              451.0,
+              4929.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Ocular Hypersensitivity",
+          "block_bbox": [
+            343,
+            5024,
+            715,
+            5057
+          ],
+          "block_id": 45,
+          "block_order": 44,
+          "group_id": 45,
+          "block_polygon_points": [
+            [
+              455.0,
+              5024.0
+            ],
+            [
+              714.0,
+              5024.0
+            ],
+            [
+              714.0,
+              5056.0
+            ],
+            [
+              455.0,
+              5056.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "DRUG INTERACTIONS",
+          "block_bbox": [
+            1937,
+            1829,
+            2226,
+            1862
+          ],
+          "block_id": 46,
+          "block_order": 45,
+          "group_id": 46,
+          "block_polygon_points": [
+            [
+              1956.0,
+              1829.0
+            ],
+            [
+              2225.0,
+              1829.0
+            ],
+            [
+              2225.0,
+              1861.0
+            ],
+            [
+              1956.0,
+              1861.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility",
+          "block_bbox": [
+            1942,
+            2441,
+            2558,
+            2482
+          ],
+          "block_id": 47,
+          "block_order": 46,
+          "group_id": 47,
+          "block_polygon_points": [
+            [
+              1942.0,
+              2441.0
+            ],
+            [
+              2558.0,
+              2441.0
+            ],
+            [
+              2558.0,
+              2482.0
+            ],
+            [
+              1942.0,
+              2482.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "16 HOW SUPPLIED/STORAGE AND HANDLING\n17 PATIENT COUNSELING INFORMATION",
+          "block_bbox": [
+            1942,
+            2516,
+            2430,
+            2559
+          ],
+          "block_id": 48,
+          "block_order": 47,
+          "group_id": 48,
+          "block_polygon_points": [
+            [
+              1942.0,
+              2516.0
+            ],
+            [
+              2430.0,
+              2516.0
+            ],
+            [
+              2430.0,
+              2559.0
+            ],
+            [
+              1942.0,
+              2559.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": " $ ^{*} $ Sections or subsections omitted from the full prescribing information are not listed.",
+          "block_bbox": [
+            1939,
+            2592,
+            2732,
+            2624
+          ],
+          "block_id": 49,
+          "block_order": 48,
+          "group_id": 49,
+          "block_polygon_points": [
+            [
+              1939.0,
+              2592.0
+            ],
+            [
+              2732.0,
+              2592.0
+            ],
+            [
+              2732.0,
+              2624.0
+            ],
+            [
+              1939.0,
+              2624.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "5.11 Impairment of Beta-adrenergically Mediated Reflexes During Surgery",
+          "block_bbox": [
+            1934,
+            2661,
+            2776,
+            2707
+          ],
+          "block_id": 50,
+          "block_order": 49,
+          "group_id": 50,
+          "block_polygon_points": [
+            [
+              1934.0,
+              2661.0
+            ],
+            [
+              2776.0,
+              2661.0
+            ],
+            [
+              2776.0,
+              2707.0
+            ],
+            [
+              1934.0,
+              2707.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "The necessity or desirability of withdrawal of beta-adrenergic blocking agents prior to major surgery is controversial. Beta-adrenergic receptor blockade impairs the ability of the heart to respond to beta-adrenergically mediated reflex stimuli. This may augment the risk of general anesthesia in surgical procedures. Some patients receiving beta-adrenergic receptor blocking agents have experienced protracted severe hypotension during anesthesia. Difficulty in restarting and maintaining the heartbeat has also been reported. For these reasons, in patients undergoing elective surgery, some authorities recommend gradual withdrawal of beta-adrenergic receptor blocking agents.",
+          "block_bbox": [
+            1932,
+            2706,
+            3446,
+            2875
+          ],
+          "block_id": 51,
+          "block_order": 50,
+          "group_id": 51,
+          "block_polygon_points": [
+            [
+              1932.0,
+              2706.0
+            ],
+            [
+              3446.0,
+              2706.0
+            ],
+            [
+              3446.0,
+              2875.0
+            ],
+            [
+              1932.0,
+              2875.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "urgery, the effects of beta-adrenergic blocking agents may be reversed by sufficient doses of adrenergic agonists",
+          "block_bbox": [
+            1935,
+            2869,
+            3206,
+            2911
+          ],
+          "block_id": 52,
+          "block_order": 51,
+          "group_id": 52,
+          "block_polygon_points": [
+            [
+              2141.0,
+              2869.0
+            ],
+            [
+              2141.0,
+              2910.0
+            ],
+            [
+              3187.0,
+              2910.0
+            ],
+            [
+              3187.0,
+              2869.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "ADVERSE REACTIONS",
+          "block_bbox": [
+            1942,
+            2918,
+            2301,
+            2955
+          ],
+          "block_id": 53,
+          "block_order": 52,
+          "group_id": 53,
+          "block_polygon_points": [
+            [
+              2037.0,
+              2917.999755859375
+            ],
+            [
+              2282.0,
+              2917.999755859375
+            ],
+            [
+              2282.0,
+              2953.999755859375
+            ],
+            [
+              2037.0,
+              2953.999755859375
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Clinical Studies Experience",
+          "block_bbox": [
+            1941,
+            2972,
+            2349,
+            3008
+          ],
+          "block_id": 54,
+          "block_order": 53,
+          "group_id": 54,
+          "block_polygon_points": [
+            [
+              2058.0,
+              2972.0
+            ],
+            [
+              2348.0,
+              2972.0
+            ],
+            [
+              2348.0,
+              3007.0
+            ],
+            [
+              2058.0,
+              3007.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.",
+          "block_bbox": [
+            1932,
+            3013,
+            3437,
+            3080
+          ],
+          "block_id": 55,
+          "block_order": 54,
+          "group_id": 55,
+          "block_polygon_points": [
+            [
+              1932.0,
+              3013.0
+            ],
+            [
+              3437.0,
+              3013.0
+            ],
+            [
+              3437.0,
+              3080.0
+            ],
+            [
+              1932.0,
+              3080.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Brimonidine Tartrate/Timolol Maleate Ophthalmic Solution",
+          "block_bbox": [
+            1939,
+            3094,
+            2541,
+            3129
+          ],
+          "block_id": 56,
+          "block_order": 55,
+          "group_id": 56,
+          "block_polygon_points": [
+            [
+              1939.0,
+              3094.0
+            ],
+            [
+              2541.0,
+              3094.0
+            ],
+            [
+              2541.0,
+              3129.0
+            ],
+            [
+              1939.0,
+              3129.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "In clinical trials of 12 months duration with brimonidine tartrate/timolol maleate ophthalmic solution, the most frequent reactions associated with its use occurring in approximately 5% to 15% of the patients included: allergic conjunctivitis, conjunctival folliculosis, conjunctival hyperemia, eye pruritus, ocular burning, and stinging. The following adverse reactions were reported in 1% to 5% of patients: asthenia, blepharitis, corneal erosion, depression, epiphora, eye discharge, eye dryness, eye irritation, eye pain, eyelid edema, eyelid erythema, eyelid pruritus, foreign body sensation, headache, hypertension, oral dryness, somnolence, superficial punctate keratitis, and visual disturbance.",
+          "block_bbox": [
+            1931,
+            3139,
+            3446,
+            3302
+          ],
+          "block_id": 57,
+          "block_order": 56,
+          "group_id": 57,
+          "block_polygon_points": [
+            [
+              1931.0,
+              3139.0
+            ],
+            [
+              3446.0,
+              3139.0
+            ],
+            [
+              3446.0,
+              3302.0
+            ],
+            [
+              1931.0,
+              3302.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "r adverse reactions that have been reported with the individual componer",
+          "block_bbox": [
+            1935,
+            3299,
+            2856,
+            3333
+          ],
+          "block_id": 58,
+          "block_order": 57,
+          "group_id": 58,
+          "block_polygon_points": [
+            [
+              1992.0,
+              3299.0
+            ],
+            [
+              1992.0,
+              3332.0
+            ],
+            [
+              2668.0,
+              3332.0
+            ],
+            [
+              2668.0,
+              3299.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "3rimonidine Tartrate (0.1%-0.2%)",
+          "block_bbox": [
+            1937,
+            3349,
+            2289,
+            3381
+          ],
+          "block_id": 59,
+          "block_order": 58,
+          "group_id": 59,
+          "block_polygon_points": [
+            [
+              1956.0,
+              3349.0
+            ],
+            [
+              2288.0,
+              3349.0
+            ],
+            [
+              2288.0,
+              3380.0
+            ],
+            [
+              1956.0,
+              3380.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Abnormal taste, allergic reaction, blepharoconjunctivitis, blurred vision, bronchitis, cataract, conjunctival blanching, conjunctival edema, conjunctival hemorrhage, conjunctivitis, cough, dizziness, dyspepsia, dyspnea, fatigue, flu syndrome, follicular conjunctivitis, gastrointestinal disorder, hypercholesterolemia, hypotension, infection (primarily colds and respiratory infections), hordeolum, insomnia, keratitis, lid crusting, lid disorder, muscular pain, nasal dryness, ocular allergic reaction, pharyngitis, photophobia, rash, rhinitis, sinus infection, sinusitis, superficial punctate keratopathy, tearing, upper respiratory symptoms, visual field defect, vitreous detachment, vitreous disorder, vitreous floaters, and worsened visual acuity.",
+          "block_bbox": [
+            1935,
+            3382,
+            3446,
+            3538
+          ],
+          "block_id": 60,
+          "block_order": 59,
+          "group_id": 60,
+          "block_polygon_points": [
+            [
+              1935.0,
+              3382.0
+            ],
+            [
+              3446.0,
+              3382.0
+            ],
+            [
+              3446.0,
+              3538.0
+            ],
+            [
+              1935.0,
+              3538.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Timolol (Ocular Administration)",
+          "block_bbox": [
+            1939,
+            3557,
+            2275,
+            3591
+          ],
+          "block_id": 61,
+          "block_order": 60,
+          "group_id": 61,
+          "block_polygon_points": [
+            [
+              1939.0,
+              3557.0
+            ],
+            [
+              2275.0,
+              3557.0
+            ],
+            [
+              2275.0,
+              3591.0
+            ],
+            [
+              1939.0,
+              3591.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Body as a whole: chest pain; cardiovascular: Arrhythmia, bradycardia, cardiac arrest, cardiac failure, cerebral ischemia, cerebral vascular accident, claudication, cold hands and feet, edema, heart block, palpitation, pulmonary edema, Raynaud's phenomenon, syncope, and worsening of angina pectoris; Digestive: anorexia, diarrhea, nausea; Immunologic: Systemic lupus erythematosus; Nervous System/Psychiatric: Increase in signs and symptoms of myasthenia gravis, insomnia, nightmares, paresthesia, behavioral changes and psychic disturbances including confusion, hallucinations, anxiety, disorientation, nervousness, and memory loss; Skin: Alopecia, psoriasiform rash or exacerbation of psoriasis; Hypersensitivity: Signs and symptoms of systemic allergic reactions, including anaphylaxis, angioedema, urticaria, and generalized and localized rash; Respiratory: Bronchospasm (predominantly in patients with pre-existing bronchospastic disease) [see Contraindications(4.1)], dyspnea, nasal congestion, respiratory failure, upper respiratory infections; Endocrine: Masked symptoms of hypoglycemia in diabetes patients [see Warnings and Precautions (5.7)]; Special Senses: diplopia, choroidal detachment following filtration surgery, cystoid macular edema, decreased corneal sensitivity, pseudopemphigoid, ptosis, refractive changes, tinnitus; Urogenital: Decreased libido, impotence, Peyronie's disease, retroperitoneal fibrosis.",
+          "block_bbox": [
+            1935,
+            3609,
+            3439,
+            3890
+          ],
+          "block_id": 62,
+          "block_order": 61,
+          "group_id": 62,
+          "block_polygon_points": [
+            [
+              1935.0,
+              3609.0
+            ],
+            [
+              3439.0,
+              3609.0
+            ],
+            [
+              3439.0,
+              3890.0
+            ],
+            [
+              1935.0,
+              3890.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "6.2 Postmarketing Experience",
+          "block_bbox": [
+            1939,
+            3886,
+            2336,
+            3920
+          ],
+          "block_id": 63,
+          "block_order": 62,
+          "group_id": 63,
+          "block_polygon_points": [
+            [
+              1939.0,
+              3886.0
+            ],
+            [
+              2336.0,
+              3886.0
+            ],
+            [
+              2336.0,
+              3920.0
+            ],
+            [
+              1939.0,
+              3920.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "The following reactions have been identified during post-marketing use of brimonidine tartrate ophthalmic solutions, timolol ophthalmic solutions, or both in combination, in clinical practice. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to brimonidine tartrate ophthalmic solutions, timolol ophthalmic solutions, or a combination of these factors, include: eyelid erythema extending to the cheek or forehead, hypersensitivity, irritis, keratoconjunctivitis sicca, miosis, nausea, skin reactions (including erythema, rash, and vasodilation), and tachycardia. In infants, apnea, bradycardia, coma, hypothermia, hypotonia, lethargy, pallor, respiratory depression, and somnolence have been reported [see Contraindications (4.3) and Use in Specific Populations (8.4)].",
+          "block_bbox": [
+            1934,
+            3927,
+            3441,
+            4140
+          ],
+          "block_id": 64,
+          "block_order": 63,
+          "group_id": 64,
+          "block_polygon_points": [
+            [
+              1934.0,
+              3927.0
+            ],
+            [
+              3441.0,
+              3927.0
+            ],
+            [
+              3441.0,
+              4140.0
+            ],
+            [
+              1934.0,
+              4140.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Oral Timolol/Oral Beta-blockers",
+          "block_bbox": [
+            1941,
+            4153,
+            2274,
+            4187
+          ],
+          "block_id": 65,
+          "block_order": 64,
+          "group_id": 65,
+          "block_polygon_points": [
+            [
+              1941.0,
+              4153.0
+            ],
+            [
+              2274.0,
+              4153.0
+            ],
+            [
+              2274.0,
+              4187.0
+            ],
+            [
+              1941.0,
+              4187.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "The following additional adverse reactions have been reported in clinical experience with ORAL timolol maleate or other ORAL beta-blocking agents and may be considered potential effects of ophthalmic timolol maleate: Allergic: Erythematous rash, fever combined with aching and sore throat, laryngospasm with respiratory distress; Body as a whole: Decreased exercise tolerance, extremity pain, weight loss; Cardiovascular: Vasodilatation, worsening of arterial insufficiency; Digestive: Gastrointestinal pain, hepatomegaly, ischemic colitis, mesenteric arterial thrombosis, vomiting; Hematologic: Agranulocytosis, nonthrombocytopenic purpura, thrombocytopenic purpura; Endocrine: Hyperglycemia, hypoglycemia; Skin: Increased pigmentation, pruritus, skin irritation, sweating; Musculoskeletal: Arthralgia; Nervous System/Psychiatric: An acute reversible syndrome characterized by disorientation for time and place, decreased performance on neuropsychometrics, diminished concentration, emotional lability, local weakness, reversible mental depression progressing to catatonia, slightly clouded sensorium, vertigo; Respiratory: Bronchial obstruction, rales; Urogenital: Urination difficulties.",
+          "block_bbox": [
+            1932,
+            4195,
+            3438,
+            4436
+          ],
+          "block_id": 66,
+          "block_order": 65,
+          "group_id": 66,
+          "block_polygon_points": [
+            [
+              1932.0,
+              4195.0
+            ],
+            [
+              3438.0,
+              4195.0
+            ],
+            [
+              3438.0,
+              4436.0
+            ],
+            [
+              1932.0,
+              4436.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "7. DRUG INTERACTIONS",
+          "block_bbox": [
+            1945,
+            4453,
+            2286,
+            4488
+          ],
+          "block_id": 67,
+          "block_order": 66,
+          "group_id": 67,
+          "block_polygon_points": [
+            [
+              1945.0,
+              4453.0
+            ],
+            [
+              2286.0,
+              4453.0
+            ],
+            [
+              2286.0,
+              4488.0
+            ],
+            [
+              1945.0,
+              4488.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "7.1 Antihypertensives/Cardiac Glycosides",
+          "block_bbox": [
+            1942,
+            4500,
+            2461,
+            4544
+          ],
+          "block_id": 68,
+          "block_order": 67,
+          "group_id": 68,
+          "block_polygon_points": [
+            [
+              1942.0,
+              4500.0
+            ],
+            [
+              2461.0,
+              4500.0
+            ],
+            [
+              2461.0,
+              4544.0
+            ],
+            [
+              1942.0,
+              4544.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Because brimonidine tartrate/timolol maleate ophthalmic solution may reduce blood pressure, caution in using drugs such as antihypertensives and/or cardiac glycosides with brimonidine tartrate/timolol maleate ophthalmic solution is advised.",
+          "block_bbox": [
+            1940,
+            4549,
+            3431,
+            4615
+          ],
+          "block_id": 69,
+          "block_order": 68,
+          "group_id": 69,
+          "block_polygon_points": [
+            [
+              1940.0,
+              4549.0
+            ],
+            [
+              3431.0,
+              4549.0
+            ],
+            [
+              3431.0,
+              4615.0
+            ],
+            [
+              1940.0,
+              4615.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Beta-adrenergic Blocking Agents",
+          "block_bbox": [
+            1939,
+            4628,
+            2410,
+            4664
+          ],
+          "block_id": 70,
+          "block_order": 69,
+          "group_id": 70,
+          "block_polygon_points": [
+            [
+              2053.0,
+              4628.0
+            ],
+            [
+              2391.0,
+              4628.0
+            ],
+            [
+              2391.0,
+              4663.0
+            ],
+            [
+              2053.0,
+              4663.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Patients who are receiving a beta-adrenergic blocking agent either orally or intravenously and brimonidine tartrate/timolol maleate ophthalmic solution should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure. The concomitant use of two topical beta-adrenergic blocking agents is not recommended.",
+          "block_bbox": [
+            1931,
+            4670,
+            3439,
+            4775
+          ],
+          "block_id": 71,
+          "block_order": 70,
+          "group_id": 71,
+          "block_polygon_points": [
+            [
+              1931.0,
+              4670.0
+            ],
+            [
+              3439.0,
+              4670.0
+            ],
+            [
+              3439.0,
+              4775.0
+            ],
+            [
+              1931.0,
+              4775.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "3 Calcium Antagonists",
+          "block_bbox": [
+            1937,
+            4782,
+            2283,
+            4815
+          ],
+          "block_id": 72,
+          "block_order": 71,
+          "group_id": 72,
+          "block_polygon_points": [
+            [
+              1956.0,
+              4782.0
+            ],
+            [
+              2282.0,
+              4782.0
+            ],
+            [
+              2282.0,
+              4814.0
+            ],
+            [
+              1956.0,
+              4814.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Caution should be used in the co-administration of beta-adrenergic blocking agents, such as brimonidine tartrate/timolol maleate ophthalmic solution, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension. In patients with impaired cardiac function, co-administration should be avoided.",
+          "block_bbox": [
+            1934,
+            4822,
+            3441,
+            4920
+          ],
+          "block_id": 73,
+          "block_order": 72,
+          "group_id": 73,
+          "block_polygon_points": [
+            [
+              1934.0,
+              4822.0
+            ],
+            [
+              3441.0,
+              4822.0
+            ],
+            [
+              3441.0,
+              4920.0
+            ],
+            [
+              1934.0,
+              4920.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "7.4 Catecholamine-depleting Drugs",
+          "block_bbox": [
+            1939,
+            4930,
+            2394,
+            4965
+          ],
+          "block_id": 74,
+          "block_order": 73,
+          "group_id": 74,
+          "block_polygon_points": [
+            [
+              1939.0,
+              4930.0
+            ],
+            [
+              2394.0,
+              4930.0
+            ],
+            [
+              2394.0,
+              4965.0
+            ],
+            [
+              1939.0,
+              4965.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Close observation of the patient is recommended when a beta blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or marked bradycardia, which may result in vertigo, syncope, or postural hypotension.",
+          "block_bbox": [
+            1936,
+            4973,
+            3440,
+            5058
+          ],
+          "block_id": 75,
+          "block_order": 74,
+          "group_id": 75,
+          "block_polygon_points": [
+            [
+              1936.0,
+              4973.0
+            ],
+            [
+              3440.0,
+              4973.0
+            ],
+            [
+              3440.0,
+              5058.0
+            ],
+            [
+              1936.0,
+              5058.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "7.5 CNS Depressants",
+          "block_bbox": [
+            1940,
+            5052,
+            2248,
+            5089
+          ],
+          "block_id": 76,
+          "block_order": 75,
+          "group_id": 76,
+          "block_polygon_points": [
+            [
+              1940.0,
+              5052.0
+            ],
+            [
+              2248.0,
+              5052.0
+            ],
+            [
+              2248.0,
+              5089.0
+            ],
+            [
+              1940.0,
+              5089.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "Although specific drug interaction studies have not been conducted with brimonidine tartrate/timolol maleate ophthalmic solution, the possibility of an additive or potentiating effect with CNS depressants (alcohol, barbiturates, opiates, sedatives, or anesthetics) should be considered.",
+          "block_bbox": [
+            1935,
+            5097,
+            3437,
+            5147
+          ],
+          "block_id": 77,
+          "block_order": 76,
+          "group_id": 77,
+          "block_polygon_points": [
+            [
+              1935.0,
+              5097.0
+            ],
+            [
+              3437.0,
+              5097.0
+            ],
+            [
+              3437.0,
+              5147.0
+            ],
+            [
+              1935.0,
+              5147.0
+            ]
+          ]
+        },
+        {
+          "block_label": "paragraph_title",
+          "block_content": "Digitalis and Calcium Antagonists",
+          "block_bbox": [
+            1941,
+            5172,
+            2413,
+            5208
+          ],
+          "block_id": 78,
+          "block_order": 77,
+          "group_id": 78,
+          "block_polygon_points": [
+            [
+              2055.0,
+              5172.0
+            ],
+            [
+              2412.0,
+              5172.0
+            ],
+            [
+              2412.0,
+              5207.0
+            ],
+            [
+              2055.0,
+              5207.0
+            ]
+          ]
+        },
+        {
+          "block_label": "text",
+          "block_content": "The concomitant use of beta-adrenergic blocking agents with digitalis and calcium antagonists may have additive effects in prolonging atrioventricular conduction time.",
+          "block_bbox": [
+            1936,
+            5214,
+            3442,
+            5269
+          ],
+          "block_id": 79,
+          "block_order": 78,
+          "group_id": 79,
+          "block_polygon_points": [
+            [
+              1936.0,
+              5214.0
+            ],
+            [
+              3442.0,
+              5214.0
+            ],
+            [
+              3442.0,
+              5269.0
+            ],
+            [
+              1936.0,
+              5269.0
+            ]
+          ]
+        },
+        {
+          "block_label": "table",
+          "block_content": "<table><tr><td colspan=\"2\">ARTWORK INFORMATION</td></tr><tr><td colspan=\"2\">Item Code: 22201081</td></tr><tr><td colspan=\"2\">Component : Leaflet</td></tr><tr><td colspan=\"2\">Dimension: Length- 280 mm, Height- 440 mm ( Front &amp; Back)</td></tr><tr><td colspan=\"2\">Customer Name : Caplin Steriles</td></tr><tr><td colspan=\"2\">Specification Substrate: Bible paper 40 GSM</td></tr><tr><td>Language: English</td><td>Country: US</td></tr><tr><td>Change History: New Artwork</td><td>Colours: 1BLACKDie Line: ☐</td></tr></table>",
+          "block_bbox": [
+            717,
+            5625,
+            3106,
+            6925
+          ],
+          "block_id": 80,
+          "block_order": null,
+          "group_id": 80,
+          "block_polygon_points": [
+            [
+              717.0,
+              5625.0
+            ],
+            [
+              3106.0,
+              5625.0
+            ],
+            [
+              3106.0,
+              6925.0
+            ],
+            [
+              717.0,
+              6925.0
+            ]
+          ]
+        },
+        {
+          "block_label": "aside_text",
+          "block_content": "440 mm",
+          "block_bbox": [
+            3580,
+            2736,
+            3645,
+            2936
+          ],
+          "block_id": 81,
+          "block_order": null,
+          "group_id": 81,
+          "block_polygon_points": [
+            [
+              3580.0,
+              2736.0
+            ],
+            [
+              3645.0,
+              2736.0
+            ],
+            [
+              3645.0,
+              2936.0
+            ],
+            [
+              3580.0,
+              2936.0
+            ]
+          ]
+        }
+      ],
+      "layout_det_res": {
+        "input_path": null,
+        "page_index": null,
+        "boxes": [
+          {
+            "cls_id": 14,
+            "label": "image",
+            "score": 0.5837069749832153,
+            "coordinate": [
+              234,
+              232,
+              3544,
+              829
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                234.0,
+                232.0
+              ],
+              [
+                3544.0,
+                232.0
+              ],
+              [
+                3544.0,
+                829.0
+              ],
+              [
+                234.0,
+                829.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4529220461845398,
+            "coordinate": [
+              340,
+              826,
+              806,
+              866
+            ],
+            "order": 1,
+            "polygon_points": [
+              [
+                340.0,
+                826.0
+              ],
+              [
+                806.0,
+                826.0
+              ],
+              [
+                806.0,
+                866.0
+              ],
+              [
+                340.0,
+                866.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.4039433002471924,
+            "coordinate": [
+              335,
+              859,
+              1841,
+              933
+            ],
+            "order": 2,
+            "polygon_points": [
+              [
+                335.0,
+                859.0
+              ],
+              [
+                1841.0,
+                859.0
+              ],
+              [
+                1841.0,
+                933.0
+              ],
+              [
+                335.0,
+                933.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.6065654754638672,
+            "coordinate": [
+              979,
+              1054,
+              1247,
+              1092
+            ],
+            "order": 3,
+            "polygon_points": [
+              [
+                979.0,
+                1054.0
+              ],
+              [
+                1247.0,
+                1054.0
+              ],
+              [
+                1247.0,
+                1092.0
+              ],
+              [
+                979.0,
+                1092.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7894800305366516,
+            "coordinate": [
+              332,
+              1107,
+              1844,
+              1250
+            ],
+            "order": 4,
+            "polygon_points": [
+              [
+                332.0,
+                1107.0
+              ],
+              [
+                1844.0,
+                1107.0
+              ],
+              [
+                1844.0,
+                1250.0
+              ],
+              [
+                332.0,
+                1250.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.32973119616508484,
+            "coordinate": [
+              341,
+              1374,
+              1312,
+              1412
+            ],
+            "order": 5,
+            "polygon_points": [
+              [
+                856.0,
+                1374.0
+              ],
+              [
+                1311.0,
+                1374.0
+              ],
+              [
+                1311.0,
+                1411.0
+              ],
+              [
+                856.0,
+                1411.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3393181264400482,
+            "coordinate": [
+              345,
+              1639,
+              1852,
+              1674
+            ],
+            "order": 6,
+            "polygon_points": [
+              [
+                798.0,
+                1639.0
+              ],
+              [
+                1851.0,
+                1639.0
+              ],
+              [
+                1851.0,
+                1673.0
+              ],
+              [
+                798.0,
+                1673.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.3966296911239624,
+            "coordinate": [
+              2551,
+              1065,
+              2792,
+              1095
+            ],
+            "order": 7,
+            "polygon_points": [
+              [
+                2551.0,
+                1065.0
+              ],
+              [
+                2792.0,
+                1065.0
+              ],
+              [
+                2792.0,
+                1095.0
+              ],
+              [
+                2551.0,
+                1095.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.5788470506668091,
+            "coordinate": [
+              344,
+              1826,
+              1889,
+              2529
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                344.0,
+                1826.0
+              ],
+              [
+                1889.0,
+                1826.0
+              ],
+              [
+                1889.0,
+                2529.0
+              ],
+              [
+                344.0,
+                2529.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5662530064582825,
+            "coordinate": [
+              346,
+              1803,
+              827,
+              1839
+            ],
+            "order": 8,
+            "polygon_points": [
+              [
+                346.0,
+                1803.0
+              ],
+              [
+                827.0,
+                1803.0
+              ],
+              [
+                827.0,
+                1839.0
+              ],
+              [
+                346.0,
+                1839.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.3833852708339691,
+            "coordinate": [
+              350,
+              1854,
+              681,
+              1889
+            ],
+            "order": 9,
+            "polygon_points": [
+              [
+                389.0,
+                1854.0
+              ],
+              [
+                661.0,
+                1854.0
+              ],
+              [
+                661.0,
+                1888.0
+              ],
+              [
+                389.0,
+                1888.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.40565067529678345,
+            "coordinate": [
+              345,
+              2078,
+              727,
+              2115
+            ],
+            "order": 10,
+            "polygon_points": [
+              [
+                345.0,
+                2078.0
+              ],
+              [
+                727.0,
+                2078.0
+              ],
+              [
+                727.0,
+                2115.0
+              ],
+              [
+                345.0,
+                2115.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.36328861117362976,
+            "coordinate": [
+              1935,
+              1108,
+              3440,
+              1159
+            ],
+            "order": 11,
+            "polygon_points": [
+              [
+                1935.0,
+                1108.0
+              ],
+              [
+                3440.0,
+                1108.0
+              ],
+              [
+                3440.0,
+                1159.0
+              ],
+              [
+                1935.0,
+                1159.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5808677673339844,
+            "coordinate": [
+              340,
+              3249,
+              1847,
+              3325
+            ],
+            "order": 12,
+            "polygon_points": [
+              [
+                340.0,
+                3249.0
+              ],
+              [
+                1847.0,
+                3249.0
+              ],
+              [
+                1847.0,
+                3325.0
+              ],
+              [
+                340.0,
+                3325.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5712919235229492,
+            "coordinate": [
+              337,
+              2976,
+              1847,
+              3034
+            ],
+            "order": 13,
+            "polygon_points": [
+              [
+                337.0,
+                2976.0
+              ],
+              [
+                1847.0,
+                2976.0
+              ],
+              [
+                1847.0,
+                3034.0
+              ],
+              [
+                337.0,
+                3034.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3853333592414856,
+            "coordinate": [
+              336,
+              3344,
+              1846,
+              3418
+            ],
+            "order": 14,
+            "polygon_points": [
+              [
+                336.0,
+                3344.0
+              ],
+              [
+                1846.0,
+                3344.0
+              ],
+              [
+                1846.0,
+                3418.0
+              ],
+              [
+                336.0,
+                3418.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5549266338348389,
+            "coordinate": [
+              343,
+              2668,
+              704,
+              2705
+            ],
+            "order": 15,
+            "polygon_points": [
+              [
+                343.0,
+                2668.0
+              ],
+              [
+                704.0,
+                2668.0
+              ],
+              [
+                704.0,
+                2705.0
+              ],
+              [
+                343.0,
+                2705.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.48342442512512207,
+            "coordinate": [
+              347,
+              2718,
+              732,
+              2752
+            ],
+            "order": 16,
+            "polygon_points": [
+              [
+                457.0,
+                2718.0
+              ],
+              [
+                731.0,
+                2718.0
+              ],
+              [
+                731.0,
+                2751.0
+              ],
+              [
+                457.0,
+                2751.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8043941259384155,
+            "coordinate": [
+              336,
+              2764,
+              1846,
+              2913
+            ],
+            "order": 17,
+            "polygon_points": [
+              [
+                336.0,
+                2764.0
+              ],
+              [
+                1846.0,
+                2764.0
+              ],
+              [
+                1846.0,
+                2913.0
+              ],
+              [
+                336.0,
+                2913.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.473635733127594,
+            "coordinate": [
+              348,
+              3055,
+              812,
+              3089
+            ],
+            "order": 18,
+            "polygon_points": [
+              [
+                460.0,
+                3055.0
+              ],
+              [
+                811.0,
+                3055.0
+              ],
+              [
+                811.0,
+                3088.0
+              ],
+              [
+                460.0,
+                3088.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3131350576877594,
+            "coordinate": [
+              3247,
+              1713,
+              3434,
+              1746
+            ],
+            "order": 19,
+            "polygon_points": [
+              [
+                3247.0,
+                1713.0
+              ],
+              [
+                3434.0,
+                1713.0
+              ],
+              [
+                3434.0,
+                1746.0
+              ],
+              [
+                3247.0,
+                1746.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5417860150337219,
+            "coordinate": [
+              335,
+              3573,
+              1842,
+              3661
+            ],
+            "order": 20,
+            "polygon_points": [
+              [
+                335.0,
+                3573.0
+              ],
+              [
+                1842.0,
+                3573.0
+              ],
+              [
+                1842.0,
+                3661.0
+              ],
+              [
+                335.0,
+                3661.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5770058035850525,
+            "coordinate": [
+              346,
+              2931,
+              799,
+              2962
+            ],
+            "order": 21,
+            "polygon_points": [
+              [
+                460.0,
+                2931.0
+              ],
+              [
+                798.0,
+                2931.0
+              ],
+              [
+                798.0,
+                2961.0
+              ],
+              [
+                460.0,
+                2961.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4312581717967987,
+            "coordinate": [
+              339,
+              3732,
+              1015,
+              3767
+            ],
+            "order": 22,
+            "polygon_points": [
+              [
+                433.0,
+                3732.0
+              ],
+              [
+                1014.0,
+                3732.0
+              ],
+              [
+                1014.0,
+                3766.0
+              ],
+              [
+                433.0,
+                3766.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.4494643807411194,
+            "coordinate": [
+              343,
+              3093,
+              1292,
+              3126
+            ],
+            "order": 23,
+            "polygon_points": [
+              [
+                343.0,
+                3093.0
+              ],
+              [
+                1292.0,
+                3093.0
+              ],
+              [
+                1292.0,
+                3126.0
+              ],
+              [
+                343.0,
+                3126.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5427920818328857,
+            "coordinate": [
+              341,
+              3945,
+              625,
+              3975
+            ],
+            "order": 24,
+            "polygon_points": [
+              [
+                341.0,
+                3945.0
+              ],
+              [
+                625.0,
+                3945.0
+              ],
+              [
+                625.0,
+                3975.0
+              ],
+              [
+                341.0,
+                3975.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4051143229007721,
+            "coordinate": [
+              347,
+              3198,
+              974,
+              3236
+            ],
+            "order": 25,
+            "polygon_points": [
+              [
+                458.0,
+                3198.0
+              ],
+              [
+                973.0,
+                3198.0
+              ],
+              [
+                973.0,
+                3235.0
+              ],
+              [
+                458.0,
+                3235.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.713298499584198,
+            "coordinate": [
+              341,
+              3989,
+              1841,
+              4049
+            ],
+            "order": 26,
+            "polygon_points": [
+              [
+                341.0,
+                3989.0
+              ],
+              [
+                1841.0,
+                3989.0
+              ],
+              [
+                1841.0,
+                4049.0
+              ],
+              [
+                341.0,
+                4049.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7685452103614807,
+            "coordinate": [
+              338,
+              4058,
+              1842,
+              4160
+            ],
+            "order": 27,
+            "polygon_points": [
+              [
+                338.0,
+                4058.0
+              ],
+              [
+                1842.0,
+                4058.0
+              ],
+              [
+                1842.0,
+                4160.0
+              ],
+              [
+                338.0,
+                4160.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.554362416267395,
+            "coordinate": [
+              343,
+              4167,
+              788,
+              4201
+            ],
+            "order": 28,
+            "polygon_points": [
+              [
+                455.0000305175781,
+                4166.99951171875
+              ],
+              [
+                787.0,
+                4166.99951171875
+              ],
+              [
+                787.0,
+                4199.99951171875
+              ],
+              [
+                455.0000305175781,
+                4199.99951171875
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5306509137153625,
+            "coordinate": [
+              337,
+              3477,
+              1530,
+              3520
+            ],
+            "order": 29,
+            "polygon_points": [
+              [
+                470.0,
+                3477.0
+              ],
+              [
+                1529.0,
+                3477.0
+              ],
+              [
+                1529.0,
+                3519.0
+              ],
+              [
+                470.0,
+                3519.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7241913080215454,
+            "coordinate": [
+              338,
+              4213,
+              1841,
+              4336
+            ],
+            "order": 30,
+            "polygon_points": [
+              [
+                338.0,
+                4213.0
+              ],
+              [
+                1841.0,
+                4213.0
+              ],
+              [
+                1841.0,
+                4336.0
+              ],
+              [
+                338.0,
+                4336.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4618331491947174,
+            "coordinate": [
+              346,
+              3145,
+              698,
+              3178
+            ],
+            "order": 31,
+            "polygon_points": [
+              [
+                458.0,
+                3145.0
+              ],
+              [
+                697.0,
+                3145.0
+              ],
+              [
+                697.0,
+                3177.0
+              ],
+              [
+                458.0,
+                3177.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7429502606391907,
+            "coordinate": [
+              336,
+              4364,
+              1840,
+              4461
+            ],
+            "order": 32,
+            "polygon_points": [
+              [
+                336.0,
+                4364.0
+              ],
+              [
+                1840.0,
+                4364.0
+              ],
+              [
+                1840.0,
+                4461.0
+              ],
+              [
+                336.0,
+                4461.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5878387689590454,
+            "coordinate": [
+              344,
+              3675,
+              788,
+              3711
+            ],
+            "order": 33,
+            "polygon_points": [
+              [
+                455.0000305175781,
+                3675.0
+              ],
+              [
+                787.0,
+                3675.0
+              ],
+              [
+                787.0,
+                3710.0
+              ],
+              [
+                455.0000305175781,
+                3710.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5166547298431396,
+            "coordinate": [
+              339,
+              4323,
+              856,
+              4357
+            ],
+            "order": 34,
+            "polygon_points": [
+              [
+                454.0,
+                4323.0
+              ],
+              [
+                855.0,
+                4323.0
+              ],
+              [
+                855.0,
+                4356.0
+              ],
+              [
+                454.0,
+                4356.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5518810749053955,
+            "coordinate": [
+              340,
+              3435,
+              965,
+              3469
+            ],
+            "order": 35,
+            "polygon_points": [
+              [
+                340.0,
+                3435.0
+              ],
+              [
+                965.0,
+                3435.0
+              ],
+              [
+                965.0,
+                3469.0
+              ],
+              [
+                340.0,
+                3469.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.44267508387565613,
+            "coordinate": [
+              341,
+              3524,
+              739,
+              3563
+            ],
+            "order": 36,
+            "polygon_points": [
+              [
+                455.0,
+                3524.0
+              ],
+              [
+                738.0,
+                3524.0
+              ],
+              [
+                738.0,
+                3562.0
+              ],
+              [
+                455.0,
+                3562.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5960260033607483,
+            "coordinate": [
+              341,
+              4473,
+              811,
+              4508
+            ],
+            "order": 37,
+            "polygon_points": [
+              [
+                341.0,
+                4473.0
+              ],
+              [
+                811.0,
+                4473.0
+              ],
+              [
+                811.0,
+                4508.0
+              ],
+              [
+                341.0,
+                4508.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.44515275955200195,
+            "coordinate": [
+              340,
+              4665,
+              1837,
+              4702
+            ],
+            "order": 38,
+            "polygon_points": [
+              [
+                340.0,
+                4665.0
+              ],
+              [
+                1837.0,
+                4665.0
+              ],
+              [
+                1837.0,
+                4702.0
+              ],
+              [
+                340.0,
+                4702.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6868880391120911,
+            "coordinate": [
+              340,
+              5068,
+              1841,
+              5135
+            ],
+            "order": 39,
+            "polygon_points": [
+              [
+                340.0,
+                5068.0
+              ],
+              [
+                1841.0,
+                5068.0
+              ],
+              [
+                1841.0,
+                5135.0
+              ],
+              [
+                340.0,
+                5135.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7026839852333069,
+            "coordinate": [
+              341,
+              4520,
+              1843,
+              4610
+            ],
+            "order": 40,
+            "polygon_points": [
+              [
+                341.0,
+                4520.0
+              ],
+              [
+                1843.0,
+                4520.0
+              ],
+              [
+                1843.0,
+                4610.0
+              ],
+              [
+                341.0,
+                4610.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6839829087257385,
+            "coordinate": [
+              334,
+              4791,
+              1845,
+              4887
+            ],
+            "order": 41,
+            "polygon_points": [
+              [
+                334.0,
+                4791.0
+              ],
+              [
+                1845.0,
+                4791.0
+              ],
+              [
+                1845.0,
+                4887.0
+              ],
+              [
+                334.0,
+                4887.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5126228928565979,
+            "coordinate": [
+              343,
+              5145,
+              1047,
+              5183
+            ],
+            "order": 42,
+            "polygon_points": [
+              [
+                343.0,
+                5145.0
+              ],
+              [
+                1047.0,
+                5145.0
+              ],
+              [
+                1047.0,
+                5183.0
+              ],
+              [
+                343.0,
+                5183.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5572603344917297,
+            "coordinate": [
+              348,
+              4625,
+              825,
+              4657
+            ],
+            "order": 43,
+            "polygon_points": [
+              [
+                422.0,
+                4625.0
+              ],
+              [
+                806.0,
+                4625.0
+              ],
+              [
+                806.0,
+                4656.0
+              ],
+              [
+                422.0,
+                4656.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.3802436292171478,
+            "coordinate": [
+              343,
+              4750,
+              1194,
+              4784
+            ],
+            "order": 44,
+            "polygon_points": [
+              [
+                457.0,
+                4750.0
+              ],
+              [
+                1193.0,
+                4750.0
+              ],
+              [
+                1193.0,
+                4783.0
+              ],
+              [
+                457.0,
+                4783.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.49972501397132874,
+            "coordinate": [
+              340,
+              4897,
+              747,
+              4930
+            ],
+            "order": 45,
+            "polygon_points": [
+              [
+                451.0,
+                4897.0
+              ],
+              [
+                746.0,
+                4897.0
+              ],
+              [
+                746.0,
+                4929.0
+              ],
+              [
+                451.0,
+                4929.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4672751724720001,
+            "coordinate": [
+              343,
+              5024,
+              715,
+              5057
+            ],
+            "order": 46,
+            "polygon_points": [
+              [
+                455.0,
+                5024.0
+              ],
+              [
+                714.0,
+                5024.0
+              ],
+              [
+                714.0,
+                5056.0
+              ],
+              [
+                455.0,
+                5056.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4393681287765503,
+            "coordinate": [
+              1937,
+              1829,
+              2226,
+              1862
+            ],
+            "order": 47,
+            "polygon_points": [
+              [
+                1956.0,
+                1829.0
+              ],
+              [
+                2225.0,
+                1829.0
+              ],
+              [
+                2225.0,
+                1861.0
+              ],
+              [
+                1956.0,
+                1861.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.343490868806839,
+            "coordinate": [
+              1942,
+              2441,
+              2558,
+              2482
+            ],
+            "order": 48,
+            "polygon_points": [
+              [
+                1942.0,
+                2441.0
+              ],
+              [
+                2558.0,
+                2441.0
+              ],
+              [
+                2558.0,
+                2482.0
+              ],
+              [
+                1942.0,
+                2482.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.397148996591568,
+            "coordinate": [
+              1942,
+              2516,
+              2430,
+              2559
+            ],
+            "order": 49,
+            "polygon_points": [
+              [
+                1942.0,
+                2516.0
+              ],
+              [
+                2430.0,
+                2516.0
+              ],
+              [
+                2430.0,
+                2559.0
+              ],
+              [
+                1942.0,
+                2559.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.3307652771472931,
+            "coordinate": [
+              1939,
+              2592,
+              2732,
+              2624
+            ],
+            "order": 50,
+            "polygon_points": [
+              [
+                1939.0,
+                2592.0
+              ],
+              [
+                2732.0,
+                2592.0
+              ],
+              [
+                2732.0,
+                2624.0
+              ],
+              [
+                1939.0,
+                2624.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5256520509719849,
+            "coordinate": [
+              1934,
+              2661,
+              2776,
+              2707
+            ],
+            "order": 51,
+            "polygon_points": [
+              [
+                1934.0,
+                2661.0
+              ],
+              [
+                2776.0,
+                2661.0
+              ],
+              [
+                2776.0,
+                2707.0
+              ],
+              [
+                1934.0,
+                2707.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8018949627876282,
+            "coordinate": [
+              1932,
+              2706,
+              3446,
+              2875
+            ],
+            "order": 52,
+            "polygon_points": [
+              [
+                1932.0,
+                2706.0
+              ],
+              [
+                3446.0,
+                2706.0
+              ],
+              [
+                3446.0,
+                2875.0
+              ],
+              [
+                1932.0,
+                2875.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6372878551483154,
+            "coordinate": [
+              1935,
+              2869,
+              3206,
+              2911
+            ],
+            "order": 53,
+            "polygon_points": [
+              [
+                2141.0,
+                2869.0
+              ],
+              [
+                2141.0,
+                2910.0
+              ],
+              [
+                3187.0,
+                2910.0
+              ],
+              [
+                3187.0,
+                2869.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.3271270990371704,
+            "coordinate": [
+              1942,
+              2918,
+              2301,
+              2955
+            ],
+            "order": 54,
+            "polygon_points": [
+              [
+                2037.0,
+                2917.999755859375
+              ],
+              [
+                2282.0,
+                2917.999755859375
+              ],
+              [
+                2282.0,
+                2953.999755859375
+              ],
+              [
+                2037.0,
+                2953.999755859375
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.44398707151412964,
+            "coordinate": [
+              1941,
+              2972,
+              2349,
+              3008
+            ],
+            "order": 55,
+            "polygon_points": [
+              [
+                2058.0,
+                2972.0
+              ],
+              [
+                2348.0,
+                2972.0
+              ],
+              [
+                2348.0,
+                3007.0
+              ],
+              [
+                2058.0,
+                3007.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.672514796257019,
+            "coordinate": [
+              1932,
+              3013,
+              3437,
+              3080
+            ],
+            "order": 56,
+            "polygon_points": [
+              [
+                1932.0,
+                3013.0
+              ],
+              [
+                3437.0,
+                3013.0
+              ],
+              [
+                3437.0,
+                3080.0
+              ],
+              [
+                1932.0,
+                3080.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.45816048979759216,
+            "coordinate": [
+              1939,
+              3094,
+              2541,
+              3129
+            ],
+            "order": 57,
+            "polygon_points": [
+              [
+                1939.0,
+                3094.0
+              ],
+              [
+                2541.0,
+                3094.0
+              ],
+              [
+                2541.0,
+                3129.0
+              ],
+              [
+                1939.0,
+                3129.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8104641437530518,
+            "coordinate": [
+              1931,
+              3139,
+              3446,
+              3302
+            ],
+            "order": 58,
+            "polygon_points": [
+              [
+                1931.0,
+                3139.0
+              ],
+              [
+                3446.0,
+                3139.0
+              ],
+              [
+                3446.0,
+                3302.0
+              ],
+              [
+                1931.0,
+                3302.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.3253193795681,
+            "coordinate": [
+              1935,
+              3299,
+              2856,
+              3333
+            ],
+            "order": 59,
+            "polygon_points": [
+              [
+                1992.0,
+                3299.0
+              ],
+              [
+                1992.0,
+                3332.0
+              ],
+              [
+                2668.0,
+                3332.0
+              ],
+              [
+                2668.0,
+                3299.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5207170844078064,
+            "coordinate": [
+              1937,
+              3349,
+              2289,
+              3381
+            ],
+            "order": 60,
+            "polygon_points": [
+              [
+                1956.0,
+                3349.0
+              ],
+              [
+                2288.0,
+                3349.0
+              ],
+              [
+                2288.0,
+                3380.0
+              ],
+              [
+                1956.0,
+                3380.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7786664366722107,
+            "coordinate": [
+              1935,
+              3382,
+              3446,
+              3538
+            ],
+            "order": 61,
+            "polygon_points": [
+              [
+                1935.0,
+                3382.0
+              ],
+              [
+                3446.0,
+                3382.0
+              ],
+              [
+                3446.0,
+                3538.0
+              ],
+              [
+                1935.0,
+                3538.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5366157293319702,
+            "coordinate": [
+              1939,
+              3557,
+              2275,
+              3591
+            ],
+            "order": 62,
+            "polygon_points": [
+              [
+                1939.0,
+                3557.0
+              ],
+              [
+                2275.0,
+                3557.0
+              ],
+              [
+                2275.0,
+                3591.0
+              ],
+              [
+                1939.0,
+                3591.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8313607573509216,
+            "coordinate": [
+              1935,
+              3609,
+              3439,
+              3890
+            ],
+            "order": 63,
+            "polygon_points": [
+              [
+                1935.0,
+                3609.0
+              ],
+              [
+                3439.0,
+                3609.0
+              ],
+              [
+                3439.0,
+                3890.0
+              ],
+              [
+                1935.0,
+                3890.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4926206171512604,
+            "coordinate": [
+              1939,
+              3886,
+              2336,
+              3920
+            ],
+            "order": 64,
+            "polygon_points": [
+              [
+                1939.0,
+                3886.0
+              ],
+              [
+                2336.0,
+                3886.0
+              ],
+              [
+                2336.0,
+                3920.0
+              ],
+              [
+                1939.0,
+                3920.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8760195374488831,
+            "coordinate": [
+              1934,
+              3927,
+              3441,
+              4140
+            ],
+            "order": 65,
+            "polygon_points": [
+              [
+                1934.0,
+                3927.0
+              ],
+              [
+                3441.0,
+                3927.0
+              ],
+              [
+                3441.0,
+                4140.0
+              ],
+              [
+                1934.0,
+                4140.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5337977409362793,
+            "coordinate": [
+              1941,
+              4153,
+              2274,
+              4187
+            ],
+            "order": 66,
+            "polygon_points": [
+              [
+                1941.0,
+                4153.0
+              ],
+              [
+                2274.0,
+                4153.0
+              ],
+              [
+                2274.0,
+                4187.0
+              ],
+              [
+                1941.0,
+                4187.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.8652473092079163,
+            "coordinate": [
+              1932,
+              4195,
+              3438,
+              4436
+            ],
+            "order": 67,
+            "polygon_points": [
+              [
+                1932.0,
+                4195.0
+              ],
+              [
+                3438.0,
+                4195.0
+              ],
+              [
+                3438.0,
+                4436.0
+              ],
+              [
+                1932.0,
+                4436.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4925145208835602,
+            "coordinate": [
+              1945,
+              4453,
+              2286,
+              4488
+            ],
+            "order": 68,
+            "polygon_points": [
+              [
+                1945.0,
+                4453.0
+              ],
+              [
+                2286.0,
+                4453.0
+              ],
+              [
+                2286.0,
+                4488.0
+              ],
+              [
+                1945.0,
+                4488.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.43826788663864136,
+            "coordinate": [
+              1942,
+              4500,
+              2461,
+              4544
+            ],
+            "order": 69,
+            "polygon_points": [
+              [
+                1942.0,
+                4500.0
+              ],
+              [
+                2461.0,
+                4500.0
+              ],
+              [
+                2461.0,
+                4544.0
+              ],
+              [
+                1942.0,
+                4544.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7035343647003174,
+            "coordinate": [
+              1940,
+              4549,
+              3431,
+              4615
+            ],
+            "order": 70,
+            "polygon_points": [
+              [
+                1940.0,
+                4549.0
+              ],
+              [
+                3431.0,
+                4549.0
+              ],
+              [
+                3431.0,
+                4615.0
+              ],
+              [
+                1940.0,
+                4615.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.539964497089386,
+            "coordinate": [
+              1939,
+              4628,
+              2410,
+              4664
+            ],
+            "order": 71,
+            "polygon_points": [
+              [
+                2053.0,
+                4628.0
+              ],
+              [
+                2391.0,
+                4628.0
+              ],
+              [
+                2391.0,
+                4663.0
+              ],
+              [
+                2053.0,
+                4663.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7452759146690369,
+            "coordinate": [
+              1931,
+              4670,
+              3439,
+              4775
+            ],
+            "order": 72,
+            "polygon_points": [
+              [
+                1931.0,
+                4670.0
+              ],
+              [
+                3439.0,
+                4670.0
+              ],
+              [
+                3439.0,
+                4775.0
+              ],
+              [
+                1931.0,
+                4775.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.5275890827178955,
+            "coordinate": [
+              1937,
+              4782,
+              2283,
+              4815
+            ],
+            "order": 73,
+            "polygon_points": [
+              [
+                1956.0,
+                4782.0
+              ],
+              [
+                2282.0,
+                4782.0
+              ],
+              [
+                2282.0,
+                4814.0
+              ],
+              [
+                1956.0,
+                4814.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.7542847990989685,
+            "coordinate": [
+              1934,
+              4822,
+              3441,
+              4920
+            ],
+            "order": 74,
+            "polygon_points": [
+              [
+                1934.0,
+                4822.0
+              ],
+              [
+                3441.0,
+                4822.0
+              ],
+              [
+                3441.0,
+                4920.0
+              ],
+              [
+                1934.0,
+                4920.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4160922169685364,
+            "coordinate": [
+              1939,
+              4930,
+              2394,
+              4965
+            ],
+            "order": 75,
+            "polygon_points": [
+              [
+                1939.0,
+                4930.0
+              ],
+              [
+                2394.0,
+                4930.0
+              ],
+              [
+                2394.0,
+                4965.0
+              ],
+              [
+                1939.0,
+                4965.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.6876318454742432,
+            "coordinate": [
+              1936,
+              4973,
+              3440,
+              5058
+            ],
+            "order": 76,
+            "polygon_points": [
+              [
+                1936.0,
+                4973.0
+              ],
+              [
+                3440.0,
+                4973.0
+              ],
+              [
+                3440.0,
+                5058.0
+              ],
+              [
+                1936.0,
+                5058.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.46047917008399963,
+            "coordinate": [
+              1940,
+              5052,
+              2248,
+              5089
+            ],
+            "order": 77,
+            "polygon_points": [
+              [
+                1940.0,
+                5052.0
+              ],
+              [
+                2248.0,
+                5052.0
+              ],
+              [
+                2248.0,
+                5089.0
+              ],
+              [
+                1940.0,
+                5089.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5371829271316528,
+            "coordinate": [
+              1935,
+              5097,
+              3437,
+              5147
+            ],
+            "order": 78,
+            "polygon_points": [
+              [
+                1935.0,
+                5097.0
+              ],
+              [
+                3437.0,
+                5097.0
+              ],
+              [
+                3437.0,
+                5147.0
+              ],
+              [
+                1935.0,
+                5147.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 17,
+            "label": "paragraph_title",
+            "score": 0.4498121440410614,
+            "coordinate": [
+              1941,
+              5172,
+              2413,
+              5208
+            ],
+            "order": 79,
+            "polygon_points": [
+              [
+                2055.0,
+                5172.0
+              ],
+              [
+                2412.0,
+                5172.0
+              ],
+              [
+                2412.0,
+                5207.0
+              ],
+              [
+                2055.0,
+                5207.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 22,
+            "label": "text",
+            "score": 0.5973671078681946,
+            "coordinate": [
+              1936,
+              5214,
+              3442,
+              5269
+            ],
+            "order": 80,
+            "polygon_points": [
+              [
+                1936.0,
+                5214.0
+              ],
+              [
+                3442.0,
+                5214.0
+              ],
+              [
+                3442.0,
+                5269.0
+              ],
+              [
+                1936.0,
+                5269.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 7,
+            "label": "figure_title",
+            "score": 0.57156902551651,
+            "coordinate": [
+              1578,
+              5630,
+              2197,
+              5679
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                1578.0,
+                5630.0
+              ],
+              [
+                2197.0,
+                5630.0
+              ],
+              [
+                2197.0,
+                5679.0
+              ],
+              [
+                1578.0,
+                5679.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 21,
+            "label": "table",
+            "score": 0.7688486576080322,
+            "coordinate": [
+              717,
+              5625,
+              3106,
+              6925
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                717.0,
+                5625.0
+              ],
+              [
+                3106.0,
+                5625.0
+              ],
+              [
+                3106.0,
+                6925.0
+              ],
+              [
+                717.0,
+                6925.0
+              ]
+            ]
+          },
+          {
+            "cls_id": 2,
+            "label": "aside_text",
+            "score": 0.6145551800727844,
+            "coordinate": [
+              3580,
+              2736,
+              3645,
+              2936
+            ],
+            "order": null,
+            "polygon_points": [
+              [
+                3580.0,
+                2736.0
+              ],
+              [
+                3645.0,
+                2736.0
+              ],
+              [
+                3645.0,
+                2936.0
+              ],
+              [
+                3580.0,
+                2936.0
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
