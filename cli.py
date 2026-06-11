@@ -108,18 +108,19 @@ def main():
 
     # Determine input files
     input_path = Path(args.input)
-    if input_path.is_file() and input_path.suffix.lower() == ".pdf":
+    valid_suffixes = {".pdf", ".png", ".jpg", ".jpeg"}
+    if input_path.is_file() and input_path.suffix.lower() in valid_suffixes:
         files = [str(input_path)]
     elif input_path.is_dir():
         if args.recursive:
-            files = [str(p) for p in input_path.rglob("*.pdf")]
+            files = [str(p) for p in input_path.rglob("*") if p.suffix.lower() in valid_suffixes]
         else:
-            files = [str(p) for p in input_path.glob("*.pdf")]
+            files = [str(p) for p in input_path.glob("*") if p.suffix.lower() in valid_suffixes]
     else:
         logger.error(f"Invalid input path: {input_path}")
         sys.exit(1)
 
-    logger.info(f"Found {len(files)} PDF files to process")
+    logger.info(f"Found {len(files)} valid files to process")
 
     # Instantiate each tool ONCE so heavy models load a single time and are
     # reused across all input files. (Reloading a multi-GB VL model per file
