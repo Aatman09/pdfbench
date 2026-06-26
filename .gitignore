@@ -3,6 +3,8 @@
 venv/
 venv-paddle/
 env/
+/idp_eval_venv
+
 
 # Claude files
 .claude/
@@ -39,3 +41,4 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+/idp_eval
